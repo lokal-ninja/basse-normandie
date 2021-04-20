@@ -1,6 +1,6 @@
 ---
 title: Pirou
 url: /pirou/
-latitude: 49.1815836
-longitude: -1.5759423000000001
+latitude: 49.1815817
+longitude: -1.5759293
 ---
