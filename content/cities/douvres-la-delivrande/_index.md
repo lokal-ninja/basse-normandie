@@ -1,6 +1,6 @@
 ---
 title: Douvres-la-Délivrande
 url: /douvres-la-delivrande/
-latitude: 49.291345400000004
-longitude: -0.3827106
+latitude: 49.2947848
+longitude: -0.3760318
 ---
