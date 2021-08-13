@@ -1,5 +1,5 @@
 ---
 title: "Lapeyre"
 url: /mondeville/lapeyre/
-shop: matériel informatique
+shop: à faire soi-même
 ---

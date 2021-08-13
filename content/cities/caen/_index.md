@@ -1,6 +1,6 @@
 ---
 title: Caen
 url: /caen/
-latitude: 49.181003700000005
-longitude: -0.36989150000000004
+latitude: 49.1813403
+longitude: -0.36356150000000004
 ---

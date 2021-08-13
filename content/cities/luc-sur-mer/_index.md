@@ -1,6 +1,6 @@
 ---
 title: Luc-sur-Mer
 url: /luc-sur-mer/
-latitude: 49.3155556
-longitude: -0.35444440000000005
+latitude: 49.3180769
+longitude: -0.3555361
 ---
