@@ -1,5 +1,5 @@
 ---
-title: "FRANCK"
+title: "Franck"
 url: /bayeux/franck/
 shop: vêtements
 ---
