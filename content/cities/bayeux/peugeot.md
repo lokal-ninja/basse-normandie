@@ -1,5 +1,5 @@
 ---
 title: "Peugeot"
 url: /bayeux/peugeot/
-shop: voiture
+shop: réparation de voitures
 ---
