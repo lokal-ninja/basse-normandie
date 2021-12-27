@@ -1,6 +1,6 @@
 ---
 title: Saint-Julien-sur-Sarthe
 url: /saint-julien-sur-sarthe/
-latitude: 48.4904906
-longitude: 0.3578075
+latitude: 48.505
+longitude: 0.362
 ---

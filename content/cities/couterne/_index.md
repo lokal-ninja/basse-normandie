@@ -1,6 +1,6 @@
 ---
 title: Couterne
 url: /couterne/
-latitude: 48.5130884
-longitude: -0.41504660000000004
+latitude: 48.513
+longitude: -0.415
 ---

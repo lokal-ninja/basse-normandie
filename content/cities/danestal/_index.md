@@ -1,6 +1,6 @@
 ---
 title: Danestal
 url: /danestal/
-latitude: 49.250931800000004
-longitude: 0.0208312
+latitude: 49.252
+longitude: 0.02
 ---

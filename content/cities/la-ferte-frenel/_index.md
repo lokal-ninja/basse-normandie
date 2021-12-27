@@ -1,6 +1,6 @@
 ---
 title: La Ferté-Frênel
 url: /la-ferte-frenel/
-latitude: 48.8410257
-longitude: 0.5116264
+latitude: 48.841
+longitude: 0.512
 ---

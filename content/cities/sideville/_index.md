@@ -1,6 +1,6 @@
 ---
 title: Sideville
 url: /sideville/
-latitude: 49.593324900000006
-longitude: -1.6866905
+latitude: 49.59
+longitude: -1.681
 ---

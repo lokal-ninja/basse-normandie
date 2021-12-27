@@ -1,6 +1,6 @@
 ---
 title: Argences
 url: /argences/
-latitude: 49.12704170000001
-longitude: -0.1640626
+latitude: 49.12
+longitude: -0.176
 ---

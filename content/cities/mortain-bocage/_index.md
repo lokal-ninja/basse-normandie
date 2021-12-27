@@ -1,6 +1,6 @@
 ---
 title: Mortain-Bocage
 url: /mortain-bocage/
-latitude: 
-longitude: 
+latitude: 48.647
+longitude: -0.943
 ---

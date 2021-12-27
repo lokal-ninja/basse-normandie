@@ -1,6 +1,6 @@
 ---
 title: Saint Denis de Villenette
 url: /saint-denis-de-villenette/
-latitude: 
-longitude: 
+latitude: 48.509
+longitude: -0.547
 ---

@@ -1,6 +1,6 @@
 ---
 title: Saint-Germain-du-Corbéis
 url: /saint-germain-du-corbeis/
-latitude: 48.4221718
-longitude: 0.0636128
+latitude: 48.422
+longitude: 0.084
 ---

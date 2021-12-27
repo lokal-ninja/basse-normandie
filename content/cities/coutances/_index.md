@@ -1,6 +1,6 @@
 ---
 title: Coutances
 url: /coutances/
-latitude: 49.047792
-longitude: -1.4454857
+latitude: 49.05
+longitude: -1.444
 ---

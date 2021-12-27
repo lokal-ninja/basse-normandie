@@ -1,6 +1,6 @@
 ---
 title: Mortain
 url: /mortain/
-latitude: 48.647469300000004
-longitude: -0.942439
+latitude: 48.647
+longitude: -0.943
 ---

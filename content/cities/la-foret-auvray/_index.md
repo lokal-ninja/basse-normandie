@@ -1,6 +1,6 @@
 ---
 title: La Forêt Auvray
 url: /la-foret-auvray/
-latitude: 
-longitude: 
+latitude: 48.803
+longitude: -0.354
 ---

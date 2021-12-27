@@ -1,6 +1,6 @@
 ---
 title: Grangues
 url: /grangues/
-latitude: 49.265969000000005
-longitude: -0.0557343
+latitude: 49.275
+longitude: -0.061
 ---

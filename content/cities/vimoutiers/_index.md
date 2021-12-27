@@ -1,6 +1,6 @@
 ---
 title: Vimoutiers
 url: /vimoutiers/
-latitude: 48.929708600000005
-longitude: 0.1970867
+latitude: 48.928
+longitude: 0.199
 ---

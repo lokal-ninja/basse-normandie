@@ -1,6 +1,6 @@
 ---
 title: Chambois
 url: /chambois/
-latitude: 48.8055907
-longitude: 0.105356
+latitude: 48.805
+longitude: 0.105
 ---

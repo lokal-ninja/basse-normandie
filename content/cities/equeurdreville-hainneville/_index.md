@@ -1,6 +1,6 @@
 ---
 title: Equeurdreville-Hainneville
 url: /equeurdreville-hainneville/
-latitude: 
-longitude: 
+latitude: 49.644
+longitude: -1.644
 ---

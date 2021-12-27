@@ -1,6 +1,6 @@
 ---
 title: Habloville
 url: /habloville/
-latitude: 48.787783700000006
-longitude: -0.1702865
+latitude: 48.775
+longitude: -0.174
 ---

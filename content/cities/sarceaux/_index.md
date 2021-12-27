@@ -1,6 +1,6 @@
 ---
 title: Sarceaux
 url: /sarceaux/
-latitude: 48.719794
-longitude: -0.0395123
+latitude: 48.73
+longitude: -0.04
 ---

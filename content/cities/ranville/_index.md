@@ -1,6 +1,6 @@
 ---
 title: Ranville
 url: /ranville/
-latitude: 49.3073398
-longitude: -1.1804586000000001
+latitude: 49.24
+longitude: -0.254
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bretteville-sur-Odon
 url: /bretteville-sur-odon/
-latitude: 49.1655808
-longitude: -0.41762720000000003
+latitude: 49.168
+longitude: -0.409
 ---

@@ -1,6 +1,6 @@
 ---
 title: Vaucelles
 url: /vaucelles/
-latitude: 
-longitude: 
+latitude: 49.284
+longitude: -0.726
 ---

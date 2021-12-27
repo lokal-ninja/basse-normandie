@@ -1,6 +1,6 @@
 ---
 title: Dialan sur Chaîne
 url: /dialan-sur-chaine/
-latitude: 
-longitude: 
+latitude: 49.003
+longitude: -0.753
 ---

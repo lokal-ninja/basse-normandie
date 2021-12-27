@@ -1,6 +1,6 @@
 ---
 title: Magny-le-Desert
 url: /magny-le-desert/
-latitude: 
-longitude: 
+latitude: 48.559
+longitude: -0.332
 ---

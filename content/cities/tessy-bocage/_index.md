@@ -1,6 +1,6 @@
 ---
 title: Tessy-Bocage
 url: /tessy-bocage/
-latitude: 
-longitude: 
+latitude: 48.97
+longitude: -1.059
 ---

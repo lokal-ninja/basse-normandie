@@ -1,6 +1,6 @@
 ---
 title: Cherbourg
 url: /cherbourg/
-latitude: 
-longitude: 
+latitude: 49.64
+longitude: -1.624
 ---

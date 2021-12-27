@@ -1,6 +1,6 @@
 ---
 title: Touffréville
 url: /touffreville/
-latitude: 49.1906465
-longitude: -0.22397370000000003
+latitude: 49.191
+longitude: -0.222
 ---

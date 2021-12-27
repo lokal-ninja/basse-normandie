@@ -1,6 +1,6 @@
 ---
 title: Le Mesnil-Rouxelin
 url: /le-mesnil-rouxelin/
-latitude: 49.1475616
-longitude: -1.0871106000000001
+latitude: 49.133
+longitude: -1.07
 ---

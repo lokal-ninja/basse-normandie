@@ -1,6 +1,6 @@
 ---
 title: Feugères
 url: /feugeres/
-latitude: 49.151223400000006
-longitude: -1.319695
+latitude: 49.151
+longitude: -1.32
 ---

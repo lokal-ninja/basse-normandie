@@ -1,6 +1,6 @@
 ---
 title: Mortagne-au-Perche
 url: /mortagne-au-perche/
-latitude: 48.5205106
-longitude: 0.5501095
+latitude: 48.522
+longitude: 0.545
 ---

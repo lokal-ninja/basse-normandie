@@ -1,6 +1,6 @@
 ---
 title: Passais-Villages
 url: /passais-villages/
-latitude: 
-longitude: 
+latitude: 48.518
+longitude: -0.758
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bernières-le-Patry
 url: /bernieres-le-patry/
-latitude: 48.8143582
-longitude: -0.7360984
+latitude: 48.814
+longitude: -0.736
 ---

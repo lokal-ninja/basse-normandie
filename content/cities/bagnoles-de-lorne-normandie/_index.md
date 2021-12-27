@@ -1,6 +1,6 @@
 ---
 title: Bagnoles-de-l'Orne-Normandie
 url: /bagnoles-de-lorne-normandie/
-latitude: 
-longitude: 
+latitude: 48.546
+longitude: -0.439
 ---

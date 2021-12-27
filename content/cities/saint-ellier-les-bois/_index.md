@@ -1,6 +1,6 @@
 ---
 title: Saint-Ellier-les-Bois
 url: /saint-ellier-les-bois/
-latitude: 48.519888900000005
-longitude: -0.0939855
+latitude: 48.535
+longitude: -0.111
 ---

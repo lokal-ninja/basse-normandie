@@ -1,6 +1,6 @@
 ---
 title: Flers
 url: /flers/
-latitude: 48.746605900000006
-longitude: -0.5676373
+latitude: 48.748
+longitude: -0.57
 ---

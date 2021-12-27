@@ -1,6 +1,6 @@
 ---
 title: Lion-sur-Mer
 url: /lion-sur-mer/
-latitude: 49.30194
-longitude: -0.3175
+latitude: 49.302
+longitude: -0.316
 ---

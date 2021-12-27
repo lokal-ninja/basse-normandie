@@ -1,6 +1,6 @@
 ---
 title: la lucerne d'outremer
 url: /la-lucerne-doutremer/
-latitude: 
-longitude: 
+latitude: 48.793
+longitude: -1.41
 ---

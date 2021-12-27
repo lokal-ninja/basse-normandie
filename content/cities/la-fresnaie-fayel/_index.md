@@ -1,6 +1,6 @@
 ---
 title: La Fresnaie-Fayel
 url: /la-fresnaie-fayel/
-latitude: 48.8291084
-longitude: 0.22286530000000002
+latitude: 48.828
+longitude: 0.223
 ---

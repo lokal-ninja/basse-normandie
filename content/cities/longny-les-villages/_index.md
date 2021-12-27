@@ -1,6 +1,6 @@
 ---
 title: Longny les Villages
 url: /longny-les-villages/
-latitude: 
-longitude: 
+latitude: 48.531
+longitude: 0.752
 ---

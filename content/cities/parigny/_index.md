@@ -1,6 +1,6 @@
 ---
 title: Parigny
 url: /parigny/
-latitude: 48.5946672
-longitude: -1.0801288
+latitude: 48.582
+longitude: -1.091
 ---

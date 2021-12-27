@@ -1,6 +1,6 @@
 ---
 title: Cricqueville-en-Auge
 url: /cricqueville-en-auge/
-latitude: 49.241873600000005
-longitude: -0.062753
+latitude: 49.245
+longitude: -0.074
 ---

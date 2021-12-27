@@ -1,6 +1,6 @@
 ---
 title: Sept-Frères
 url: /sept-freres/
-latitude: 48.862737700000004
-longitude: -1.0286159000000001
+latitude: 48.863
+longitude: -1.029
 ---

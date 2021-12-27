@@ -1,6 +1,6 @@
 ---
 title: Percy
 url: /percy/
-latitude: 48.916203100000004
-longitude: -1.1898845
+latitude: 48.914
+longitude: -1.195
 ---

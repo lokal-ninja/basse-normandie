@@ -1,6 +1,6 @@
 ---
 title: Créances
 url: /creances/
-latitude: 49.2015204
-longitude: -1.5649743
+latitude: 49.2
+longitude: -1.57
 ---

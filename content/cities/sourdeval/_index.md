@@ -1,6 +1,6 @@
 ---
 title: Sourdeval
 url: /sourdeval/
-latitude: 48.736291
-longitude: 0.5814411
+latitude: 48.724
+longitude: -0.92
 ---

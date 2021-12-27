@@ -1,6 +1,6 @@
 ---
 title: Cabourg
 url: /cabourg/
-latitude: 49.018111100000006
-longitude: -0.7038843
+latitude: 49.291
+longitude: -0.116
 ---

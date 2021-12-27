@@ -1,6 +1,6 @@
 ---
 title: Cresserons
 url: /cresserons/
-latitude: 49.2885335
-longitude: -0.3549763
+latitude: 49.289
+longitude: -0.355
 ---

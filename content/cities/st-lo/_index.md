@@ -1,6 +1,6 @@
 ---
 title: St-Lô
 url: /st-lo/
-latitude: 
-longitude: 
+latitude: 49.1
+longitude: -1.077
 ---

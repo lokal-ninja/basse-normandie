@@ -1,6 +1,6 @@
 ---
 title: La Ferté-Macé
 url: /la-ferte-mace/
-latitude: 48.5895488
-longitude: -0.35849240000000004
+latitude: 48.591
+longitude: -0.358
 ---

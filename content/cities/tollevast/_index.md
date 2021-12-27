@@ -1,6 +1,6 @@
 ---
 title: Tollevast
 url: /tollevast/
-latitude: 49.520582700000006
-longitude: -1.3020286
+latitude: 49.598
+longitude: -1.604
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ouistreham
 url: /ouistreham/
-latitude: 49.276124300000006
-longitude: -0.258479
+latitude: 49.276
+longitude: -0.258
 ---

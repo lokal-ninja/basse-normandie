@@ -1,6 +1,6 @@
 ---
 title: La Luzerne
 url: /la-luzerne/
-latitude: 49.138486
-longitude: -1.0505573000000001
+latitude: 49.14
+longitude: -1.049
 ---

@@ -1,6 +1,6 @@
 ---
 title: cotentin
 url: /cotentin/
-latitude: 
-longitude: 
+latitude: 49.639
+longitude: -1.626
 ---
