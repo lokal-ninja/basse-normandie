@@ -1,5 +1,5 @@
 ---
 title: "M & S"
-url: /alencon/m-and-s/
+url: /alencon/m-et-s/
 shop: chaussures
 ---

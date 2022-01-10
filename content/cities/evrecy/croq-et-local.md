@@ -1,5 +1,5 @@
 ---
 title: "Croq & Local"
-url: /evrecy/croq-and-local/
+url: /evrecy/croq-et-local/
 shop: commodité
 ---

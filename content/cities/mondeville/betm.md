@@ -1,5 +1,5 @@
 ---
 title: "B&M"
-url: /mondeville/bandm/
+url: /mondeville/betm/
 shop: magasin de variétés
 ---

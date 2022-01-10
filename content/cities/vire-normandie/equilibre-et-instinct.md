@@ -1,5 +1,5 @@
 ---
 title: "Equilibre & Instinct"
-url: /vire-normandie/equilibre-and-instinct/
+url: /vire-normandie/equilibre-et-instinct/
 shop: ferme
 ---

@@ -1,5 +1,5 @@
 ---
 title: "C&A"
-url: /caen/canda/
+url: /caen/ceta/
 shop: vacant
 ---

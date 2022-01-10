@@ -1,5 +1,5 @@
 ---
 title: "Sport & Co Avranches"
-url: /avranches/sport-and-co-avranches/
+url: /avranches/sport-et-co-avranches/
 shop: sports
 ---

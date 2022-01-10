@@ -1,5 +1,5 @@
 ---
 title: "Terres & Bouchons"
-url: /bellengreville/terres-and-bouchons/
+url: /bellengreville/terres-et-bouchons/
 shop: vin
 ---

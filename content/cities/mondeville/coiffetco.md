@@ -1,5 +1,5 @@
 ---
 title: "Coiff&Co"
-url: /mondeville/coiffandco/
+url: /mondeville/coiffetco/
 shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Caramels & Chocolats"
-url: /houlgate/caramels-and-chocolats/
+url: /houlgate/caramels-et-chocolats/
 shop: charcuterie
 ---

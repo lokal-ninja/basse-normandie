@@ -1,5 +1,5 @@
 ---
 title: "Nature & Gourmandise"
-url: /villers-sur-mer/nature-and-gourmandise/
+url: /villers-sur-mer/nature-et-gourmandise/
 shop: charcuterie
 ---

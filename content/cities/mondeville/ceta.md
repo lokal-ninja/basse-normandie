@@ -1,5 +1,5 @@
 ---
 title: "C&A"
-url: /mondeville/canda/
+url: /mondeville/ceta/
 shop: vêtements
 ---

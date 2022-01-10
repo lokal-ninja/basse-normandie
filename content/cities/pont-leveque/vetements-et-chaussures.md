@@ -1,5 +1,5 @@
 ---
 title: "Vêtements & Chaussures"
-url: /pont-leveque/vetements-and-chaussures/
+url: /pont-leveque/vetements-et-chaussures/
 shop: vêtements
 ---
