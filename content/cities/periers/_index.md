@@ -1,6 +1,6 @@
 ---
 title: Périers
 url: /periers/
-latitude: 49.188
-longitude: -1.415
+latitude: 49.187
+longitude: -1.408
 ---
