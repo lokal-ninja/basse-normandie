@@ -1,5 +1,5 @@
 ---
-title: "Coiffure Celine"
+title: "Coiffure Céline"
 url: /mery-corbon/coiffure-celine/
 shop: coiffeur
 ---
