@@ -1,6 +1,6 @@
 ---
 title: La Haye
 url: /la-haye/
-latitude: 49.297
-longitude: -1.544
+latitude: 49.29
+longitude: -1.543
 ---
