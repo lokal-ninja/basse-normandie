@@ -1,5 +1,5 @@
 ---
-title: "Broc Haute Antique"
+title: "BROC HAUTE ANTIQUE"
 url: /trun/broc-haute-antique/
 shop: antiquités
 ---

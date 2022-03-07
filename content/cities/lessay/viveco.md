@@ -1,5 +1,5 @@
 ---
 title: "Viveco"
 url: /lessay/viveco/
-shop: supermarché
+shop: commodité
 ---
