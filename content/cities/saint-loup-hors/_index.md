@@ -1,6 +1,6 @@
 ---
 title: Saint-Loup-Hors
 url: /saint-loup-hors/
-latitude: 49.269
-longitude: -0.728
+latitude: 49.27
+longitude: -0.726
 ---
