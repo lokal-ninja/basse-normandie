@@ -1,6 +1,6 @@
 ---
 title: Valognes
 url: /valognes/
-latitude: 49.508
-longitude: -1.466
+latitude: 49.509
+longitude: -1.474
 ---
