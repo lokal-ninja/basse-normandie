@@ -1,6 +1,6 @@
 ---
 title: Brix
 url: /brix/
-latitude: 49.551
-longitude: -1.566
+latitude: 49.545
+longitude: -1.581
 ---
