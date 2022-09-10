@@ -1,6 +1,6 @@
 ---
 title: Asnelles
 url: /asnelles/
-latitude: 49.339
+latitude: 49.34
 longitude: -0.586
 ---
