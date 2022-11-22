@@ -1,6 +1,6 @@
 ---
 title: Bayeux
 url: /bayeux/
-latitude: 49.285
-longitude: -0.7
+latitude: 49.276
+longitude: -0.717
 ---
