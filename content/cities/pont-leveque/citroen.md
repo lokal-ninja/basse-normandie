@@ -1,5 +1,5 @@
 ---
 title: "Citroën"
 url: /pont-leveque/citroen/
-shop: voiture
+shop: réparation de voitures
 ---

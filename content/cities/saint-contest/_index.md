@@ -1,6 +1,6 @@
 ---
 title: Saint-Contest
 url: /saint-contest/
-latitude: 49.2
-longitude: -0.399
+latitude: 49.204
+longitude: -0.412
 ---
