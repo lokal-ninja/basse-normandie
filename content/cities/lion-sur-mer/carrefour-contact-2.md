@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Contact"
-url: /lion-sur-mer/carrefour-contact-2/
+url: /lion-sur-mer/carrefour-contact/
 shop: commodité
 ---
