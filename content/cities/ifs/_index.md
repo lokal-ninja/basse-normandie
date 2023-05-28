@@ -1,6 +1,6 @@
 ---
 title: Ifs
 url: /ifs/
-latitude: 49.144
-longitude: -0.339
+latitude: 49.143
+longitude: -0.34
 ---

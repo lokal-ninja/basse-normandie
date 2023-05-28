@@ -1,5 +1,5 @@
 ---
 title: "Biocoop"
-url: /douvres-la-delivrande/biocoop/
+url: /ifs/biocoop/
 shop: supermarché
 ---
