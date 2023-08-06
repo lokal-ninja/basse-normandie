@@ -1,6 +1,6 @@
 ---
 title: Lessay
 url: /lessay/
-latitude: 49.219
-longitude: -1.533
+latitude: 49.213
+longitude: -1.53
 ---

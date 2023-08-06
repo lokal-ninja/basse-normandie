@@ -1,5 +1,5 @@
 ---
-title: "VENDEZVOTRECAMPINGCAR.COM"
+title: "Vendezvotrecampingcar.com"
 url: /evrecy/vendezvotrecampingcar-com/
-shop: shop
+shop: caravane
 ---
