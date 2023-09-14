@@ -1,5 +1,5 @@
 ---
 title: "Lavomatique"
-url: /bayeux/lavomatique/
+url: /bayeux/lavomatique-rue-des-bouchers/
 shop: blanchisserie
 ---

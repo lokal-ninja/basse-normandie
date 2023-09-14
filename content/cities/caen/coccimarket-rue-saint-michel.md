@@ -1,5 +1,5 @@
 ---
 title: "CocciMarket"
-url: /caen/coccimarket/
+url: /caen/coccimarket-rue-saint-michel/
 shop: commodité
 ---

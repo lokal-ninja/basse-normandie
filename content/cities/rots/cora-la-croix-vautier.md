@@ -1,5 +1,5 @@
 ---
 title: "Cora"
-url: /rots/cora/
+url: /rots/cora-la-croix-vautier/
 shop: gaz
 ---

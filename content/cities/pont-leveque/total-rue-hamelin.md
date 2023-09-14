@@ -1,5 +1,5 @@
 ---
 title: "Total"
-url: /pont-leveque/total/
+url: /pont-leveque/total-rue-hamelin/
 shop: commodité
 ---

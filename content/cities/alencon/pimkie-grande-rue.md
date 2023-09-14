@@ -1,5 +1,5 @@
 ---
 title: "Pimkie"
-url: /alencon/pimkie/
+url: /alencon/pimkie-grande-rue/
 shop: vêtements
 ---
