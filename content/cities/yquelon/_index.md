@@ -1,6 +1,6 @@
 ---
 title: Yquelon
 url: /yquelon/
-latitude: 48.837
-longitude: -1.56
+latitude: 48.838
+longitude: -1.552
 ---
