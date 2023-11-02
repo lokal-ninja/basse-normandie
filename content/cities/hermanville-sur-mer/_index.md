@@ -1,6 +1,6 @@
 ---
 title: Hermanville-sur-Mer
 url: /hermanville-sur-mer/
-latitude: 49.295
-longitude: -0.295
+latitude: 49.281
+longitude: -0.317
 ---
