@@ -1,5 +1,5 @@
 ---
-title: "Lize Kørn"
+title: "Lize Korn"
 url: /caen/lize-korn/
 shop: décoration intérieure
 ---
