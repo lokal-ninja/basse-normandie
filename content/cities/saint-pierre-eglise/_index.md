@@ -1,6 +1,6 @@
 ---
 title: Saint-Pierre-Église
 url: /saint-pierre-eglise/
-latitude: 49.659
-longitude: -1.409
+latitude: 49.668
+longitude: -1.406
 ---
