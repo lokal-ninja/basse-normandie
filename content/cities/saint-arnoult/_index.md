@@ -1,6 +1,6 @@
 ---
 title: Saint-Arnoult
 url: /saint-arnoult/
-latitude: 49.348
-longitude: 0.098
+latitude: 49.347
+longitude: 0.099
 ---
