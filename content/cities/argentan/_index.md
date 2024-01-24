@@ -1,6 +1,6 @@
 ---
 title: Argentan
 url: /argentan/
-latitude: 48.747
-longitude: -0.027
+latitude: 48.733
+longitude: -0.038
 ---
