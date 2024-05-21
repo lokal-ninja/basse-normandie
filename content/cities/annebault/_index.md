@@ -1,6 +1,6 @@
 ---
 title: Annebault
 url: /annebault/
-latitude: 49.258
-longitude: 0.056
+latitude: 49.255
+longitude: 0.055
 ---
