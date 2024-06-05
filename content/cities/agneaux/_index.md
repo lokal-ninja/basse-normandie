@@ -1,6 +1,6 @@
 ---
 title: Agneaux
 url: /agneaux/
-latitude: 49.113
-longitude: -1.132
+latitude: 49.107
+longitude: -1.133
 ---
