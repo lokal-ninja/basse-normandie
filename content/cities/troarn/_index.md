@@ -1,6 +1,6 @@
 ---
 title: Troarn
 url: /troarn/
-latitude: 49.18
+latitude: 49.181
 longitude: -0.183
 ---
