@@ -1,6 +1,6 @@
 ---
 title: Soliers
 url: /soliers/
-latitude: 49.13
-longitude: -0.305
+latitude: 49.135
+longitude: -0.295
 ---
