@@ -1,5 +1,5 @@
 ---
-title: "Rôtisserie houlgataise"
+title: "Rôtisserie Houlgataise"
 url: /houlgate/rotisserie-houlgataise/
 shop: boucherie
 ---
