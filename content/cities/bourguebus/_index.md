@@ -1,6 +1,6 @@
 ---
 title: Bourguébus
 url: /bourguebus/
-latitude: 49.121
-longitude: -0.31
+latitude: 49.123
+longitude: -0.292
 ---
