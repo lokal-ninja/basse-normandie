@@ -1,6 +1,6 @@
 ---
 title: Touques
 url: /touques/
-latitude: 49.346
-longitude: 0.097
+latitude: 49.344
+longitude: 0.099
 ---

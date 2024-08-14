@@ -1,6 +1,6 @@
 ---
 title: Bénouville
 url: /benouville/
-latitude: 49.244
-longitude: -0.277
+latitude: 49.237
+longitude: -0.287
 ---
