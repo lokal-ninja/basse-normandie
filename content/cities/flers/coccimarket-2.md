@@ -1,5 +1,5 @@
 ---
 title: "CocciMarket"
-url: /flers/coccimarket-rue-de-messei/
+url: /flers/coccimarket-2/
 shop: commodité
 ---
