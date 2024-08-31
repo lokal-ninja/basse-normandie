@@ -1,5 +1,5 @@
 ---
-title: "Les ongles des Coquettes"
+title: "Les Ongles des Coquettes"
 url: /caen/les-ongles-des-coquettes/
 shop: beauté
 ---

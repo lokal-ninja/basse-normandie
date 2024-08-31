@@ -1,5 +1,5 @@
 ---
-title: "Agoraé"
+title: "AGORAé"
 url: /caen/agorae/
 shop: commodité
 ---
