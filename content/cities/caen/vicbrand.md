@@ -1,5 +1,5 @@
 ---
 title: "Vicbrand"
 url: /caen/vicbrand/
-shop: commodité
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pimkie"
 url: /caen/pimkie/
-shop: vêtements
+shop: Kleidung
 ---

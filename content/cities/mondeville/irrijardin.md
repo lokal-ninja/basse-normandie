@@ -1,5 +1,5 @@
 ---
 title: "Irrijardin"
 url: /mondeville/irrijardin/
-shop: piscine
+shop: Pool
 ---

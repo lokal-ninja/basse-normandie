@@ -1,5 +1,5 @@
 ---
 title: "Carrefour City"
 url: /caen/carrefour-city-rue-de-bernieres/
-shop: supermarché
+shop: Supermarkt
 ---

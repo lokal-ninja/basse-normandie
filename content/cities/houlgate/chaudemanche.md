@@ -1,5 +1,5 @@
 ---
 title: "Chaudemanche"
 url: /houlgate/chaudemanche/
-shop: confiserie
+shop: Süßwaren
 ---

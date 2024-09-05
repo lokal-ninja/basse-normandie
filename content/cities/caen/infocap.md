@@ -1,5 +1,5 @@
 ---
 title: "Infocap"
 url: /caen/infocap/
-shop: ordinateur
+shop: Computer
 ---

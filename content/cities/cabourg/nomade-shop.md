@@ -1,5 +1,5 @@
 ---
 title: "Nomade Shop"
 url: /cabourg/nomade-shop/
-shop: vélo
+shop: Fahrrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Casino"
 url: /dozule/casino/
-shop: commodité
+shop: Lebensmittel
 ---

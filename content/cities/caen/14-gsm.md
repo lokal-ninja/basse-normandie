@@ -1,5 +1,5 @@
 ---
 title: "14 GSM"
 url: /caen/14-gsm/
-shop: téléphone portable
+shop: Handy
 ---

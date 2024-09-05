@@ -1,5 +1,5 @@
 ---
 title: "Empreinte"
 url: /granville/empreinte/
-shop: chaussures
+shop: Schuhe
 ---

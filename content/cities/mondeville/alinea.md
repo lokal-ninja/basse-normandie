@@ -1,5 +1,5 @@
 ---
 title: "Alinea"
 url: /mondeville/alinea/
-shop: meubles
+shop: Möbel
 ---

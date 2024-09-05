@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Villy"
 url: /cuverville/boulangerie-villy/
-shop: boulangerie
+shop: Bäckerei
 ---

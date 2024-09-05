@@ -1,5 +1,5 @@
 ---
 title: "Mont Chocolat"
 url: /avranches/mont-chocolat/
-shop: chocolat
+shop: Schokolade
 ---

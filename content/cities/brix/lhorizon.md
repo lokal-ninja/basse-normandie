@@ -1,5 +1,5 @@
 ---
 title: "L'Horizon"
 url: /brix/lhorizon/
-shop: commodité
+shop: Lebensmittel
 ---

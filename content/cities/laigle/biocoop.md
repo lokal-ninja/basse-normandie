@@ -1,5 +1,5 @@
 ---
 title: "Biocoop"
 url: /laigle/biocoop/
-shop: supermarché
+shop: Supermarkt
 ---

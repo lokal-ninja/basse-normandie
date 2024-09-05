@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /saint-hilaire-du-harcouet/lidl/
-shop: supermarché
+shop: Supermarkt
 ---

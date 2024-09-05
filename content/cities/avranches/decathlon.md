@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /avranches/decathlon/
-shop: sports
+shop: Sport
 ---

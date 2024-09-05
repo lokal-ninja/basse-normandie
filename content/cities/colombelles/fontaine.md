@@ -1,5 +1,5 @@
 ---
 title: "Fontaine"
 url: /colombelles/fontaine/
-shop: boulangerie
+shop: Bäckerei
 ---

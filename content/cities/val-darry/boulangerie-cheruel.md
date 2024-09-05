@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Cheruel"
 url: /val-darry/boulangerie-cheruel/
-shop: boulangerie
+shop: Bäckerei
 ---

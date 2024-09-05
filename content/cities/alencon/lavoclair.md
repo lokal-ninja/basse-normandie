@@ -1,5 +1,5 @@
 ---
 title: "Lavoclair"
 url: /alencon/lavoclair/
-shop: blanchisserie
+shop: Wäscherei
 ---

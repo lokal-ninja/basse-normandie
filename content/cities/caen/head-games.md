@@ -1,5 +1,5 @@
 ---
 title: "Head Games"
 url: /caen/head-games/
-shop: coiffeur
+shop: Friseur
 ---

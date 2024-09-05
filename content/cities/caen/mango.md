@@ -1,5 +1,5 @@
 ---
 title: "Mango"
 url: /caen/mango/
-shop: vêtements
+shop: Kleidung
 ---

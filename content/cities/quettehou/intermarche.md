@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /quettehou/intermarche/
-shop: gaz
+shop: Gasflaschen
 ---

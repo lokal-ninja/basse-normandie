@@ -1,5 +1,5 @@
 ---
 title: "Sergent Major"
 url: /flers/sergent-major/
-shop: vêtements
+shop: Kleidung
 ---

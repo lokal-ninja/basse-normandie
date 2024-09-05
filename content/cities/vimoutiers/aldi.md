@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /vimoutiers/aldi/
-shop: supermarché
+shop: Supermarkt
 ---

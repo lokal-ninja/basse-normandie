@@ -1,5 +1,5 @@
 ---
 title: "Amazone"
 url: /caen/amazone/
-shop: coiffeur
+shop: Friseur
 ---

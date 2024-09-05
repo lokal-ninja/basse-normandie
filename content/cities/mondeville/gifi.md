@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /mondeville/gifi/
-shop: magasin de variétés
+shop: Kramladen
 ---

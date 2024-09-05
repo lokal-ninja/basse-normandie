@@ -1,5 +1,5 @@
 ---
 title: "Mister Minit"
 url: /caen/mister-minit/
-shop: chaussures
+shop: Schuhe
 ---

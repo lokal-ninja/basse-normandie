@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
 url: /alencon/jysk/
-shop: meubles
+shop: Möbel
 ---

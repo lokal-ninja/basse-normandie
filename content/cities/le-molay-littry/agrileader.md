@@ -1,5 +1,5 @@
 ---
 title: "Agrileader"
 url: /le-molay-littry/agrileader/
-shop: agraire
+shop: Landwirtschaftlich
 ---

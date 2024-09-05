@@ -1,5 +1,5 @@
 ---
 title: "La Boulang'"
 url: /giberville/la-boulang/
-shop: boulangerie
+shop: Bäckerei
 ---

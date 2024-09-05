@@ -1,5 +1,5 @@
 ---
 title: "Interflora"
 url: /caen/interflora/
-shop: fleuriste
+shop: Blumen
 ---

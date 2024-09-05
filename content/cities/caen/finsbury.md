@@ -1,5 +1,5 @@
 ---
 title: "Finsbury"
 url: /caen/finsbury/
-shop: chaussures
+shop: Schuhe
 ---

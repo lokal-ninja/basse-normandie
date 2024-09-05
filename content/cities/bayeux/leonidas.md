@@ -1,5 +1,5 @@
 ---
 title: "Leonidas"
 url: /bayeux/leonidas/
-shop: chocolat
+shop: Schokolade
 ---

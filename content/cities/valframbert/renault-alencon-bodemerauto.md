@@ -1,5 +1,5 @@
 ---
 title: "Renault Alençon BodemerAuto"
 url: /valframbert/renault-alencon-bodemerauto/
-shop: voiture
+shop: Autohaus
 ---

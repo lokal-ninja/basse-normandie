@@ -1,5 +1,5 @@
 ---
 title: "Calidel"
 url: /colombelles/calidel/
-shop: boucherie
+shop: Metzgerei
 ---

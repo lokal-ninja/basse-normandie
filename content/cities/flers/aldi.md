@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /flers/aldi/
-shop: supermarché
+shop: Supermarkt
 ---

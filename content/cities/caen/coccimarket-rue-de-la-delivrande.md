@@ -1,5 +1,5 @@
 ---
 title: "CocciMarket"
 url: /caen/coccimarket-rue-de-la-delivrande/
-shop: commodité
+shop: Lebensmittel
 ---

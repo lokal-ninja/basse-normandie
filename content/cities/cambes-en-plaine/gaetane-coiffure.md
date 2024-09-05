@@ -1,5 +1,5 @@
 ---
 title: "Gaëtane Coiffure"
 url: /cambes-en-plaine/gaetane-coiffure/
-shop: coiffeur
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /mondeville/decathlon/
-shop: sports
+shop: Sport
 ---

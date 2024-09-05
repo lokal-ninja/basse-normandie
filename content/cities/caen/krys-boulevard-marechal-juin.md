@@ -1,5 +1,5 @@
 ---
 title: "Krys"
 url: /caen/krys-boulevard-marechal-juin/
-shop: opticien
+shop: Optiker
 ---

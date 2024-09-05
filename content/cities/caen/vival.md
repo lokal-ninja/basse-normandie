@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /caen/vival/
-shop: commodité
+shop: Lebensmittel
 ---

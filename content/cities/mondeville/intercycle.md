@@ -1,5 +1,5 @@
 ---
 title: "Intercycle"
 url: /mondeville/intercycle/
-shop: vélo
+shop: Fahrrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cap'Copy"
 url: /flers/capcopy/
-shop: copyshop
+shop: Kopieren
 ---

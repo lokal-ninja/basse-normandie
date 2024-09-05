@@ -1,5 +1,5 @@
 ---
 title: "Saveurs"
 url: /caen/saveurs/
-shop: boulangerie
+shop: Bäckerei
 ---

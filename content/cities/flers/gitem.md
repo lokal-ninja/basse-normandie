@@ -1,5 +1,5 @@
 ---
 title: "Gitem"
 url: /flers/gitem/
-shop: électronique
+shop: Elektronik
 ---

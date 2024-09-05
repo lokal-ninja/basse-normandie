@@ -1,5 +1,5 @@
 ---
 title: "Le Fruitier"
 url: /pont-leveque/le-fruitier/
-shop: légumes
+shop: Gemüse & Obst
 ---

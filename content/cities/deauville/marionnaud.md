@@ -1,5 +1,5 @@
 ---
 title: "Marionnaud"
 url: /deauville/marionnaud/
-shop: parfumerie
+shop: Parfümerie
 ---

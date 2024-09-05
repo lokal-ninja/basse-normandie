@@ -1,5 +1,5 @@
 ---
 title: "ClopiNette"
 url: /bayeux/clopinette/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

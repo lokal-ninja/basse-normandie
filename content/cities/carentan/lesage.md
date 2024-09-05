@@ -1,5 +1,5 @@
 ---
 title: "Lesage"
 url: /carentan/lesage/
-shop: voiture
+shop: Autohaus
 ---

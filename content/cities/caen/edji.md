@@ -1,5 +1,5 @@
 ---
 title: "Edji"
 url: /caen/edji/
-shop: vêtements
+shop: Kleidung
 ---

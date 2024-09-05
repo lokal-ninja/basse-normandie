@@ -1,5 +1,5 @@
 ---
 title: "Pépinières Jamet"
 url: /evrecy/pepinieres-jamet/
-shop: centre de jardinage
+shop: Garten-Center
 ---

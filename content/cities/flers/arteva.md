@@ -1,5 +1,5 @@
 ---
 title: "Art'Eva"
 url: /flers/arteva/
-shop: coiffeur
+shop: Friseur
 ---

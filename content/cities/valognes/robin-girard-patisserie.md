@@ -1,5 +1,5 @@
 ---
 title: "Robin Girard Pâtisserie"
 url: /valognes/robin-girard-patisserie/
-shop: boulangerie
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /sarceaux/decathlon/
-shop: sports
+shop: Sport
 ---

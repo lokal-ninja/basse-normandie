@@ -1,5 +1,5 @@
 ---
 title: "Salon Figaro"
 url: /ouistreham/salon-figaro/
-shop: coiffeur
+shop: Friseur
 ---

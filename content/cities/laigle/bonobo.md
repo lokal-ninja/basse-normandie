@@ -1,5 +1,5 @@
 ---
 title: "Bonobo"
 url: /laigle/bonobo/
-shop: vêtements
+shop: Kleidung
 ---

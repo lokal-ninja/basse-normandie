@@ -1,5 +1,5 @@
 ---
 title: "Rougegorge"
 url: /granville/rougegorge/
-shop: vêtements
+shop: Kleidung
 ---

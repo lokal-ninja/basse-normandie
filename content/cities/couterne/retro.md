@@ -1,5 +1,5 @@
 ---
 title: "Retro"
 url: /couterne/retro/
-shop: antiquités
+shop: Antiquitäten
 ---

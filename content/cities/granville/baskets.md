@@ -1,5 +1,5 @@
 ---
 title: "Baskets."
 url: /granville/baskets/
-shop: chaussures
+shop: Schuhe
 ---

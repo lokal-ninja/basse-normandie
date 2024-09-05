@@ -1,5 +1,5 @@
 ---
 title: "Devred"
 url: /bayeux/devred/
-shop: vêtements
+shop: Kleidung
 ---

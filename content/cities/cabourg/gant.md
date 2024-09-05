@@ -1,5 +1,5 @@
 ---
 title: "GANT"
 url: /cabourg/gant/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Au Fin Gourmet"
 url: /caen/au-fin-gourmet/
-shop: boucherie
+shop: Metzgerei
 ---

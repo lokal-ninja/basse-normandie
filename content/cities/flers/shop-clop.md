@@ -1,5 +1,5 @@
 ---
 title: "Shop Clop"
 url: /flers/shop-clop/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

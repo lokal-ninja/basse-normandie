@@ -1,5 +1,5 @@
 ---
 title: "Lovisa"
 url: /caen/lovisa/
-shop: bijoux
+shop: Schmuck
 ---

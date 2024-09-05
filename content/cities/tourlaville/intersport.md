@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /tourlaville/intersport/
-shop: sports
+shop: Sport
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Levi's"
 url: /caen/levis/
-shop: vêtements
+shop: Kleidung
 ---

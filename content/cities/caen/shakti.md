@@ -1,5 +1,5 @@
 ---
 title: "Shakti"
 url: /caen/shakti/
-shop: bijoux
+shop: Schmuck
 ---

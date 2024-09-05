@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /cherbourg-octeville/gifi/
-shop: magasin de variétés
+shop: Kramladen
 ---

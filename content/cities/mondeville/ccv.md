@@ -1,5 +1,5 @@
 ---
 title: "CCV"
 url: /mondeville/ccv/
-shop: vêtements
+shop: Kleidung
 ---

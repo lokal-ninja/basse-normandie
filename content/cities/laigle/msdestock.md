@@ -1,5 +1,5 @@
 ---
 title: "MSdestock"
 url: /laigle/msdestock/
-shop: commodité
+shop: Lebensmittel
 ---

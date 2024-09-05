@@ -1,5 +1,5 @@
 ---
 title: "Le Radar"
 url: /caen/le-radar/
-shop: kiosque
+shop: Kiosk
 ---

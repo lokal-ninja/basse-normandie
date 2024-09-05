@@ -1,5 +1,5 @@
 ---
 title: "Infini'Tifs"
 url: /mortain/infinitifs/
-shop: coiffeur
+shop: Friseur
 ---

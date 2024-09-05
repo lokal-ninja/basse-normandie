@@ -1,5 +1,5 @@
 ---
 title: "Undiz"
 url: /caen/undiz/
-shop: vêtements
+shop: Kleidung
 ---

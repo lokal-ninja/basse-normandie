@@ -1,5 +1,5 @@
 ---
 title: "AGORAé"
 url: /caen/agorae/
-shop: commodité
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /bayeux/carrefour/
-shop: supermarché
+shop: Supermarkt
 ---

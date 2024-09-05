@@ -1,5 +1,5 @@
 ---
 title: "L'Essence Florale"
 url: /mery-corbon/lessence-florale/
-shop: fleuriste
+shop: Blumen
 ---

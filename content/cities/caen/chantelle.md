@@ -1,5 +1,5 @@
 ---
 title: "Chantelle"
 url: /caen/chantelle/
-shop: vêtements
+shop: Kleidung
 ---

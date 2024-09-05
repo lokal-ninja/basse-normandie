@@ -1,5 +1,5 @@
 ---
 title: "Coiff'M"
 url: /ouistreham/coiffm/
-shop: coiffeur
+shop: Friseur
 ---

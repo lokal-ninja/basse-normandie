@@ -1,5 +1,5 @@
 ---
 title: "FGérard"
 url: /caen/fgerard/
-shop: boulangerie
+shop: Bäckerei
 ---

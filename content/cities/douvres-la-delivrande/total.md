@@ -1,5 +1,5 @@
 ---
 title: "Total"
 url: /douvres-la-delivrande/total/
-shop: gaz
+shop: Gasflaschen
 ---

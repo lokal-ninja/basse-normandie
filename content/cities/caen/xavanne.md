@@ -1,5 +1,5 @@
 ---
 title: "Xavanne"
 url: /caen/xavanne/
-shop: vêtements
+shop: Kleidung
 ---

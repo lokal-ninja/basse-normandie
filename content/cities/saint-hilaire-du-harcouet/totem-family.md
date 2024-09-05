@@ -1,5 +1,5 @@
 ---
 title: "Totem Family"
 url: /saint-hilaire-du-harcouet/totem-family/
-shop: meubles
+shop: Möbel
 ---

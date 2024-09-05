@@ -1,5 +1,5 @@
 ---
 title: "Actimag"
 url: /mondeville/actimag/
-shop: ordinateur
+shop: Computer
 ---

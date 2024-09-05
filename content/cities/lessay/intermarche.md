@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /lessay/intermarche/
-shop: supermarché
+shop: Supermarkt
 ---

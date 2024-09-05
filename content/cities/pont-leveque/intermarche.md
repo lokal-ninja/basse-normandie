@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /pont-leveque/intermarche/
-shop: gaz
+shop: Gasflaschen
 ---

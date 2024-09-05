@@ -1,5 +1,5 @@
 ---
 title: "Diane"
 url: /cabourg/diane/
-shop: vêtements
+shop: Kleidung
 ---

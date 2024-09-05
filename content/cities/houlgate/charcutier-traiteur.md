@@ -1,5 +1,5 @@
 ---
 title: "Charcutier Traiteur"
 url: /houlgate/charcutier-traiteur/
-shop: boucherie
+shop: Metzgerei
 ---

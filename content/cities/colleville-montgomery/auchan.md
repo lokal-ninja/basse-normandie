@@ -1,5 +1,5 @@
 ---
 title: "Auchan"
 url: /colleville-montgomery/auchan/
-shop: supermarché
+shop: Supermarkt
 ---

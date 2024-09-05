@@ -1,5 +1,5 @@
 ---
 title: "RougeGorge"
 url: /bayeux/rougegorge/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Conquérant"
 url: /caen/conquerant/
-shop: fromage
+shop: Käse
 ---

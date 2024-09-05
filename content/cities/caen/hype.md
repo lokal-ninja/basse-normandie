@@ -1,5 +1,5 @@
 ---
 title: "Hype"
 url: /caen/hype/
-shop: vêtements
+shop: Kleidung
 ---

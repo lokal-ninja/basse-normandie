@@ -1,5 +1,5 @@
 ---
 title: "Alinea"
 url: /caen/alinea/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Soufflame"
 url: /caen/soufflame/
-shop: charcuterie
+shop: Feinkost
 ---

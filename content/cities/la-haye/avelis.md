@@ -1,5 +1,5 @@
 ---
 title: "Avelis"
 url: /la-haye/avelis/
-shop: téléphone portable
+shop: Handy
 ---

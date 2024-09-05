@@ -1,5 +1,5 @@
 ---
 title: "Bocage"
 url: /caen/bocage/
-shop: chaussures
+shop: Schuhe
 ---

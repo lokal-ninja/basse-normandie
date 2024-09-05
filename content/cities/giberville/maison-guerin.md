@@ -1,5 +1,5 @@
 ---
 title: "Maison Guérin"
 url: /giberville/maison-guerin/
-shop: boulangerie
+shop: Bäckerei
 ---

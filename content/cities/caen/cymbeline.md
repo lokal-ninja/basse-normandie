@@ -1,5 +1,5 @@
 ---
 title: "Cymbeline"
 url: /caen/cymbeline/
-shop: vêtements
+shop: Kleidung
 ---

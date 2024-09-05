@@ -1,5 +1,5 @@
 ---
 title: "Naturela"
 url: /caen/naturela/
-shop: chaussures
+shop: Schuhe
 ---

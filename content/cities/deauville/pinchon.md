@@ -1,5 +1,5 @@
 ---
 title: "Pinchon"
 url: /deauville/pinchon/
-shop: opticien
+shop: Optiker
 ---

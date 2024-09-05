@@ -1,5 +1,5 @@
 ---
 title: "Poret"
 url: /caen/poret/
-shop: boulangerie
+shop: Bäckerei
 ---

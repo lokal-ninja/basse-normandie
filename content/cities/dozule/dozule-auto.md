@@ -1,5 +1,5 @@
 ---
 title: "Dozulé Auto"
 url: /dozule/dozule-auto/
-shop: voiture
+shop: Autohaus
 ---

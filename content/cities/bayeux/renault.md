@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /bayeux/renault/
-shop: voiture
+shop: Autohaus
 ---

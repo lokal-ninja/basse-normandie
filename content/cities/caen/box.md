@@ -1,5 +1,5 @@
 ---
 title: "BOX"
 url: /caen/box/
-shop: coiffeur
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Schmidt"
 url: /bayeux/schmidt/
-shop: cuisine
+shop: Küchen
 ---

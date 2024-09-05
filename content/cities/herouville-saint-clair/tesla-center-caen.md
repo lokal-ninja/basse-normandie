@@ -1,5 +1,5 @@
 ---
 title: "Tesla Center - Caen"
 url: /herouville-saint-clair/tesla-center-caen/
-shop: voiture
+shop: Autohaus
 ---

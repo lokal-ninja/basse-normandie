@@ -1,5 +1,5 @@
 ---
 title: "Krys"
 url: /bayeux/krys/
-shop: opticien
+shop: Optiker
 ---

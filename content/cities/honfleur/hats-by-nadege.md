@@ -1,5 +1,5 @@
 ---
 title: "Hats By Nadege"
 url: /honfleur/hats-by-nadege/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RougeGorge"
 url: /flers/rougegorge/
-shop: vêtements
+shop: Kleidung
 ---

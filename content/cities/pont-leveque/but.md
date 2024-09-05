@@ -1,5 +1,5 @@
 ---
 title: "But"
 url: /pont-leveque/but/
-shop: meubles
+shop: Möbel
 ---

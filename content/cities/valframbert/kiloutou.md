@@ -1,5 +1,5 @@
 ---
 title: "Kiloutou"
 url: /valframbert/kiloutou/
-shop: outils
+shop: Werkzeuge
 ---

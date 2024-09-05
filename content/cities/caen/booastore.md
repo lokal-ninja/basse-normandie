@@ -1,5 +1,5 @@
 ---
 title: "booastore"
 url: /caen/booastore/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Qualifruits"
 url: /lisieux/qualifruits/
-shop: commodité
+shop: Lebensmittel
 ---

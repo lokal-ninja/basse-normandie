@@ -1,5 +1,5 @@
 ---
 title: "Louna Snack-Bar"
 url: /gouvix/louna-snack-bar/
-shop: tabac
+shop: Tabak
 ---

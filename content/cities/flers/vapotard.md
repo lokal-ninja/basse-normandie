@@ -1,5 +1,5 @@
 ---
 title: "Vapotard"
 url: /flers/vapotard/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

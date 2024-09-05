@@ -1,5 +1,5 @@
 ---
 title: "Kiabi"
 url: /mondeville/kiabi/
-shop: vêtements
+shop: Kleidung
 ---

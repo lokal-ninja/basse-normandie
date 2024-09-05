@@ -1,5 +1,5 @@
 ---
 title: "E.Leclerc"
 url: /honfleur/e-leclerc/
-shop: supermarché
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Trinitaine"
 url: /cabourg/la-trinitaine/
-shop: pâtisserie
+shop: Konditorei
 ---

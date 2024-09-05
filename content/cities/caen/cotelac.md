@@ -1,5 +1,5 @@
 ---
 title: "Cotélac"
 url: /caen/cotelac/
-shop: vêtements
+shop: Kleidung
 ---

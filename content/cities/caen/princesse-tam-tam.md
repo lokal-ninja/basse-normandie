@@ -1,5 +1,5 @@
 ---
 title: "Princesse tam.tam"
 url: /caen/princesse-tam-tam/
-shop: vêtements
+shop: Kleidung
 ---

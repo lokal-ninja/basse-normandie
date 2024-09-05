@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /lessay/lidl/
-shop: supermarché
+shop: Supermarkt
 ---

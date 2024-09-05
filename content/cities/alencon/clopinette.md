@@ -1,5 +1,5 @@
 ---
 title: "Clopinette"
 url: /alencon/clopinette/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

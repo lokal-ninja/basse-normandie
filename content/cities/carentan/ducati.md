@@ -1,5 +1,5 @@
 ---
 title: "Ducati"
 url: /carentan/ducati/
-shop: moto
+shop: Motorrad
 ---

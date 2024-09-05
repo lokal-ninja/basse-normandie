@@ -1,5 +1,5 @@
 ---
 title: "Josepha"
 url: /caen/josepha/
-shop: cadeau
+shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Orchestra"
 url: /mondeville/orchestra/
-shop: vêtements
+shop: Kleidung
 ---

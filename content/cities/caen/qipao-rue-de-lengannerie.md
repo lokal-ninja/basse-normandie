@@ -1,5 +1,5 @@
 ---
 title: "Qipao"
 url: /caen/qipao-rue-de-lengannerie/
-shop: beauté
+shop: Kosmetik
 ---

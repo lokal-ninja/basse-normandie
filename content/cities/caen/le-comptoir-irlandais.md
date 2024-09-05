@@ -1,5 +1,5 @@
 ---
 title: "Le Comptoir Irlandais"
 url: /caen/le-comptoir-irlandais/
-shop: charcuterie
+shop: Feinkost
 ---

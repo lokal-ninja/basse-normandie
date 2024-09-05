@@ -1,5 +1,5 @@
 ---
 title: "Aqualogia"
 url: /honfleur/aqualogia/
-shop: blanchisserie
+shop: Wäscherei
 ---

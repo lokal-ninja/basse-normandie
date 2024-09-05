@@ -1,5 +1,5 @@
 ---
 title: "Maison Perigault"
 url: /gouffern-en-auge/maison-perigault/
-shop: alcool
+shop: Spirituosen
 ---

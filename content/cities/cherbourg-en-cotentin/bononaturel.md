@@ -1,5 +1,5 @@
 ---
 title: "Bononaturel"
 url: /cherbourg-en-cotentin/bononaturel/
-shop: beauté
+shop: Kosmetik
 ---

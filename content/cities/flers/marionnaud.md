@@ -1,5 +1,5 @@
 ---
 title: "Marionnaud"
 url: /flers/marionnaud/
-shop: parfumerie
+shop: Parfümerie
 ---

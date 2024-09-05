@@ -1,5 +1,5 @@
 ---
 title: "Calvanostra"
 url: /caen/calvanostra/
-shop: tatouage
+shop: Tattoo
 ---
