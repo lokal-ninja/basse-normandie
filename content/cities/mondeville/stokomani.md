@@ -1,5 +1,5 @@
 ---
 title: "Stokomani"
 url: /mondeville/stokomani/
-shop: Kramladen
+shop: magasin de variétés
 ---

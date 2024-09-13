@@ -1,5 +1,5 @@
 ---
 title: "L'Épicurien"
 url: /caen/lepicurien/
-shop: Feinkost
+shop: charcuterie
 ---

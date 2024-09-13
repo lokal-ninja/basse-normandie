@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /lisieux/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

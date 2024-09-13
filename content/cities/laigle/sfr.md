@@ -1,5 +1,5 @@
 ---
 title: "SFR"
 url: /laigle/sfr/
-shop: Handy
+shop: téléphone portable
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boulanger"
 url: /mondeville/boulanger/
-shop: Elektronik
+shop: électronique
 ---

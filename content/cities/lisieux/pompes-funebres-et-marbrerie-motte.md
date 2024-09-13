@@ -1,5 +1,5 @@
 ---
 title: "Pompes Funèbres et Marbrerie Motte"
 url: /lisieux/pompes-funebres-et-marbrerie-motte/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

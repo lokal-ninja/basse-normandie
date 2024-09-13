@@ -1,5 +1,5 @@
 ---
 title: "Sidetech Informatique"
 url: /pontorson/sidetech-informatique/
-shop: Computer
+shop: ordinateur
 ---

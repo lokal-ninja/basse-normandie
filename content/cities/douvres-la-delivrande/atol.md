@@ -1,5 +1,5 @@
 ---
 title: "Atol"
 url: /douvres-la-delivrande/atol/
-shop: Optiker
+shop: opticien
 ---

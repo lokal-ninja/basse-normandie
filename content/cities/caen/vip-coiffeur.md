@@ -1,5 +1,5 @@
 ---
 title: "VIP Coiffeur"
 url: /caen/vip-coiffeur/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sœurs"
 url: /caen/soeurs/
-shop: Blumen
+shop: fleuriste
 ---

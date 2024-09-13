@@ -1,5 +1,5 @@
 ---
 title: "Prophiltech"
 url: /caen/prophiltech/
-shop: Elektronik
+shop: électronique
 ---

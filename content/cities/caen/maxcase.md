@@ -1,5 +1,5 @@
 ---
 title: "MAXcase"
 url: /caen/maxcase/
-shop: Handy
+shop: téléphone portable
 ---

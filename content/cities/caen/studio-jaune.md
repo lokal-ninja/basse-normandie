@@ -1,5 +1,5 @@
 ---
 title: "Studio Jaune"
 url: /caen/studio-jaune/
-shop: Tattoo
+shop: tatouage
 ---

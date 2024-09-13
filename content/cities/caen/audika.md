@@ -1,5 +1,5 @@
 ---
 title: "Audika"
 url: /caen/audika/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

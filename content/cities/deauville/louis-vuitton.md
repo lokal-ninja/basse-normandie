@@ -1,5 +1,5 @@
 ---
 title: "Louis Vuitton"
 url: /deauville/louis-vuitton/
-shop: Kleidung
+shop: vêtements
 ---

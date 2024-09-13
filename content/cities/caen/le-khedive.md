@@ -1,5 +1,5 @@
 ---
 title: "Le khédive"
 url: /caen/le-khedive/
-shop: Tabak
+shop: tabac
 ---

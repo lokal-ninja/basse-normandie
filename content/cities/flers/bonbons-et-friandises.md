@@ -1,5 +1,5 @@
 ---
 title: "Bonbons et Friandises"
 url: /flers/bonbons-et-friandises/
-shop: Süßwaren
+shop: confiserie
 ---

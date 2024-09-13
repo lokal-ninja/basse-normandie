@@ -1,5 +1,5 @@
 ---
 title: "Atelier d'Axelle"
 url: /flers/atelier-daxelle/
-shop: Friseur
+shop: coiffeur
 ---

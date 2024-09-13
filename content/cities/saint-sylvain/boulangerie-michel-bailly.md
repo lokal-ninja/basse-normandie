@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Michel Bailly"
 url: /saint-sylvain/boulangerie-michel-bailly/
-shop: Bäckerei
+shop: boulangerie
 ---

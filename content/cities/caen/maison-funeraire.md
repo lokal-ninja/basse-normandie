@@ -1,5 +1,5 @@
 ---
 title: "Maison funéraire"
 url: /caen/maison-funeraire/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

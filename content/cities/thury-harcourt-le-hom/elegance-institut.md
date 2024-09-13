@@ -1,5 +1,5 @@
 ---
 title: "Elegance Institut"
 url: /thury-harcourt-le-hom/elegance-institut/
-shop: Kosmetik
+shop: beauté
 ---

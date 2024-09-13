@@ -1,5 +1,5 @@
 ---
 title: "PFG"
 url: /caen/pfg/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

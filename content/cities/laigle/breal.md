@@ -1,5 +1,5 @@
 ---
 title: "Bréal"
 url: /laigle/breal/
-shop: Kleidung
+shop: vêtements
 ---

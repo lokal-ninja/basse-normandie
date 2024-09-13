@@ -1,5 +1,5 @@
 ---
 title: "Espace Coiffure"
 url: /colombelles/espace-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

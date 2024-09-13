@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Market"
 url: /tessy-bocage/carrefour-market/
-shop: Supermarkt
+shop: supermarché
 ---

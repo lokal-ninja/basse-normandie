@@ -1,5 +1,5 @@
 ---
 title: "SimpliciCar"
 url: /saint-martin-de-fontenay/simplicicar/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

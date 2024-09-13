@@ -1,5 +1,5 @@
 ---
 title: "Cashville"
 url: /caen/cashville/
-shop: Kleidung
+shop: vêtements
 ---

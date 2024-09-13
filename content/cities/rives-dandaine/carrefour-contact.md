@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Contact"
 url: /rives-dandaine/carrefour-contact/
-shop: Supermarkt
+shop: supermarché
 ---

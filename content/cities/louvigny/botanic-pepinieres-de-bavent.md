@@ -1,5 +1,5 @@
 ---
 title: "Botanic - Pépinières de Bavent"
 url: /louvigny/botanic-pepinieres-de-bavent/
-shop: Garten-Center
+shop: centre de jardinage
 ---

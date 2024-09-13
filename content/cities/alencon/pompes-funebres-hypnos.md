@@ -1,5 +1,5 @@
 ---
 title: "Pompes Funèbres Hypnos"
 url: /alencon/pompes-funebres-hypnos/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Land Growan Factory"
 url: /langrune-sur-mer/land-growan-factory/
-shop: Andenken
+shop: cadeau
 ---

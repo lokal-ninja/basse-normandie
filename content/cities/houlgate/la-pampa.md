@@ -1,5 +1,5 @@
 ---
 title: "La Pampa"
 url: /houlgate/la-pampa/
-shop: Kleidung
+shop: vêtements
 ---

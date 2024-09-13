@@ -1,5 +1,5 @@
 ---
 title: "Darty"
 url: /bayeux/darty/
-shop: Elektronik
+shop: électronique
 ---

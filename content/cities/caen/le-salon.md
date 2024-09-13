@@ -1,5 +1,5 @@
 ---
 title: "Le Salon"
 url: /caen/le-salon/
-shop: Friseur
+shop: coiffeur
 ---

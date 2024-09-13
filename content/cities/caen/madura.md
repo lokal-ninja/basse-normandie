@@ -1,5 +1,5 @@
 ---
 title: "Madura"
 url: /caen/madura/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

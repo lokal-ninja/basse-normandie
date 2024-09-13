@@ -1,5 +1,5 @@
 ---
 title: "Idea"
 url: /caen/idea/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

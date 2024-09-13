@@ -1,5 +1,5 @@
 ---
 title: "Peugeot"
 url: /houlgate/peugeot/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

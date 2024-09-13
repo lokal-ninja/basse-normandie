@@ -1,5 +1,5 @@
 ---
 title: "Maison Ludvig"
 url: /caen/maison-ludvig/
-shop: Kleidung
+shop: vêtements
 ---

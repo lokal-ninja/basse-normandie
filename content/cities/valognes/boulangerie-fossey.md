@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Fossey"
 url: /valognes/boulangerie-fossey/
-shop: Bäckerei
+shop: boulangerie
 ---

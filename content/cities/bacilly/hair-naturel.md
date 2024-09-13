@@ -1,5 +1,5 @@
 ---
 title: "Hair naturel"
 url: /bacilly/hair-naturel/
-shop: Friseur
+shop: coiffeur
 ---

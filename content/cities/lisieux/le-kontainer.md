@@ -1,5 +1,5 @@
 ---
 title: "Le Kontainer"
 url: /lisieux/le-kontainer/
-shop: Kleidung
+shop: vêtements
 ---

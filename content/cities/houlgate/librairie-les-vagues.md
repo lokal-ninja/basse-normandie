@@ -1,5 +1,5 @@
 ---
 title: "Librairie les Vagues"
 url: /houlgate/librairie-les-vagues/
-shop: Bücher
+shop: livres
 ---

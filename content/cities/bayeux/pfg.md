@@ -1,5 +1,5 @@
 ---
 title: "PFG"
 url: /bayeux/pfg/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

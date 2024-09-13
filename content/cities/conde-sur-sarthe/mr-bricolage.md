@@ -1,5 +1,5 @@
 ---
 title: "Mr.Bricolage"
 url: /conde-sur-sarthe/mr-bricolage/
-shop: Baumarkt
+shop: à faire soi-même
 ---

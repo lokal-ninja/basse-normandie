@@ -1,5 +1,5 @@
 ---
 title: "RJ Motoculture"
 url: /pervencheres/rj-motoculture/
-shop: Allgemein
+shop: shop
 ---

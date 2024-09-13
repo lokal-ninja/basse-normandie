@@ -1,5 +1,5 @@
 ---
 title: "Garage Saint-Laurent"
 url: /saint-laurent-de-condel/garage-saint-laurent/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /caen/carrefour-boulevard-marechal-juin/
-shop: Gasflaschen
+shop: gaz
 ---

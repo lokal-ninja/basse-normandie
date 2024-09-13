@@ -1,5 +1,5 @@
 ---
 title: "La Vie Claire"
 url: /mortagne-au-perche/la-vie-claire/
-shop: Supermarkt
+shop: supermarché
 ---

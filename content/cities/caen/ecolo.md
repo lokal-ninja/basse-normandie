@@ -1,5 +1,5 @@
 ---
 title: "Ecol'o"
 url: /caen/ecolo/
-shop: Wäscherei
+shop: blanchisserie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Viveco"
 url: /caen/viveco/
-shop: Lebensmittel
+shop: commodité
 ---

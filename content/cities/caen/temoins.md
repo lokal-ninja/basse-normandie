@@ -1,5 +1,5 @@
 ---
 title: "Témoins"
 url: /caen/temoins/
-shop: Schokolade
+shop: chocolat
 ---

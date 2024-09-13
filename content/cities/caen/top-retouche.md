@@ -1,5 +1,5 @@
 ---
 title: "Top Retouche"
 url: /caen/top-retouche/
-shop: Wäscherei
+shop: blanchisserie
 ---

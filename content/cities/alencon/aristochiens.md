@@ -1,5 +1,5 @@
 ---
 title: "Aristochiens"
 url: /alencon/aristochiens/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

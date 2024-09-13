@@ -1,5 +1,5 @@
 ---
 title: "Amix Informatique"
 url: /alencon/amix-informatique/
-shop: Computer
+shop: ordinateur
 ---

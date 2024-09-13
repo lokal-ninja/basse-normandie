@@ -1,5 +1,5 @@
 ---
 title: "Warhammer"
 url: /caen/warhammer/
-shop: Spiele
+shop: jeux
 ---

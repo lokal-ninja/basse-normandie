@@ -1,5 +1,5 @@
 ---
 title: "Aupinel"
 url: /mondeville/aupinel/
-shop: Eisenwaren
+shop: matériel informatique
 ---

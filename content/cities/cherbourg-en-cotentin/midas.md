@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /cherbourg-en-cotentin/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

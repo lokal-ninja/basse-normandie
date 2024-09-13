@@ -1,5 +1,5 @@
 ---
 title: "Kartell"
 url: /caen/kartell/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

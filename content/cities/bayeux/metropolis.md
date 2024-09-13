@@ -1,5 +1,5 @@
 ---
 title: "Métropolis"
 url: /bayeux/metropolis/
-shop: Bücher
+shop: livres
 ---

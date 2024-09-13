@@ -1,5 +1,5 @@
 ---
 title: "Garage Aubert"
 url: /grangues/garage-aubert/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

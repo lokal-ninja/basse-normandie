@@ -1,5 +1,5 @@
 ---
 title: "Studio B"
 url: /caen/studio-b/
-shop: Kosmetik
+shop: beauté
 ---

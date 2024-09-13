@@ -1,5 +1,5 @@
 ---
 title: "Proxi"
 url: /sainte-honorine-la-guillaume/proxi/
-shop: Lebensmittel
+shop: commodité
 ---

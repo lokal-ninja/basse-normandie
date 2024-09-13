@@ -1,5 +1,5 @@
 ---
 title: "Duchemin"
 url: /bayeux/duchemin/
-shop: Friseur
+shop: coiffeur
 ---

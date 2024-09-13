@@ -1,5 +1,5 @@
 ---
 title: "A Tout chats et chiens"
 url: /bayeux/a-tout-chats-et-chiens/
-shop: Tiere
+shop: animal de compagnie
 ---

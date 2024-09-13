@@ -1,5 +1,5 @@
 ---
 title: "Biocoop"
 url: /coutances/biocoop/
-shop: Supermarkt
+shop: supermarché
 ---

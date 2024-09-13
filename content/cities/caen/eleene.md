@@ -1,5 +1,5 @@
 ---
 title: "ELEENE"
 url: /caen/eleene/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

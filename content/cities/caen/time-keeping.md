@@ -1,5 +1,5 @@
 ---
 title: "Time Keeping"
 url: /caen/time-keeping/
-shop: Uhren
+shop: montres
 ---

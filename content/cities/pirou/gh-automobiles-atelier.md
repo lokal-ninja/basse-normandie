@@ -1,5 +1,5 @@
 ---
 title: "GH Automobiles - Atelier"
 url: /pirou/gh-automobiles-atelier/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

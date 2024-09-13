@@ -1,5 +1,5 @@
 ---
 title: "Moto team"
 url: /luc-sur-mer/moto-team/
-shop: Motorrad
+shop: moto
 ---

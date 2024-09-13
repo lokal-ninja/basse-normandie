@@ -1,5 +1,5 @@
 ---
 title: "Esprit Cosy"
 url: /caen/esprit-cosy/
-shop: Friseur
+shop: coiffeur
 ---

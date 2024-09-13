@@ -1,5 +1,5 @@
 ---
 title: "Mangasan"
 url: /caen/mangasan/
-shop: Anime
+shop: anime
 ---

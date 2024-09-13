@@ -1,5 +1,5 @@
 ---
 title: "Stil'ling coiffure"
 url: /authie/stilling-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

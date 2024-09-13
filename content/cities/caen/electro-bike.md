@@ -1,5 +1,5 @@
 ---
 title: "Electro Bike"
 url: /caen/electro-bike/
-shop: Fahrrad
+shop: vélo
 ---

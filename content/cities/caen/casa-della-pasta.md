@@ -1,5 +1,5 @@
 ---
 title: "Casa Della Pasta"
 url: /caen/casa-della-pasta/
-shop: Feinkost
+shop: charcuterie
 ---

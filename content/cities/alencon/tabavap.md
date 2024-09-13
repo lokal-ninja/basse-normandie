@@ -1,5 +1,5 @@
 ---
 title: "Tabavap"
 url: /alencon/tabavap/
-shop: Zeitungen
+shop: marchand de journaux
 ---

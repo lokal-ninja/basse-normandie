@@ -1,5 +1,5 @@
 ---
 title: "Cultura"
 url: /mondeville/cultura/
-shop: Bücher
+shop: livres
 ---

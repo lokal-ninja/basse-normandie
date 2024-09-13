@@ -1,5 +1,5 @@
 ---
 title: "Norauto"
 url: /rots/norauto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

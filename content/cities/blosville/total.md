@@ -1,5 +1,5 @@
 ---
 title: "Total"
 url: /blosville/total/
-shop: Lebensmittel
+shop: commodité
 ---

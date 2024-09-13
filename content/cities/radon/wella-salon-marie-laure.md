@@ -1,5 +1,5 @@
 ---
 title: "Wella Salon Marie Laure"
 url: /radon/wella-salon-marie-laure/
-shop: Friseur
+shop: coiffeur
 ---

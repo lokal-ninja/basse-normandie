@@ -1,5 +1,5 @@
 ---
 title: "Agrial"
 url: /le-molay-littry/agrial/
-shop: Landwirtschaftlich
+shop: agraire
 ---

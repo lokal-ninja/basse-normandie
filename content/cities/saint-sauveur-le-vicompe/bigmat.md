@@ -1,5 +1,5 @@
 ---
 title: "BigMat"
 url: /saint-sauveur-le-vicompe/bigmat/
-shop: Baumarkt
+shop: à faire soi-même
 ---

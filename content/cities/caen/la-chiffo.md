@@ -1,5 +1,5 @@
 ---
 title: "La Chiffo"
 url: /caen/la-chiffo/
-shop: Kleidung
+shop: vêtements
 ---

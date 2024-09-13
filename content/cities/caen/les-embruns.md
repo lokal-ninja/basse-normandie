@@ -1,5 +1,5 @@
 ---
 title: "Les Embruns"
 url: /caen/les-embruns/
-shop: Fisch
+shop: fruits de mer
 ---

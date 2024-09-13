@@ -1,5 +1,5 @@
 ---
 title: "Cléor"
 url: /caen/cleor/
-shop: Schmuck
+shop: bijoux
 ---

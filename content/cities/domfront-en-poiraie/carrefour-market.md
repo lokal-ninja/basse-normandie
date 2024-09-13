@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Market"
 url: /domfront-en-poiraie/carrefour-market/
-shop: Supermarkt
+shop: supermarché
 ---

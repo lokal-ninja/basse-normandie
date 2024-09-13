@@ -1,5 +1,5 @@
 ---
 title: "Micro-Matic"
 url: /domfront-en-poiraie/micro-matic/
-shop: Computer
+shop: ordinateur
 ---

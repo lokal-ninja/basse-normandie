@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /pont-leveque/ford/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

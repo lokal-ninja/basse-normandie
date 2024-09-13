@@ -1,5 +1,5 @@
 ---
 title: "Adam"
 url: /caen/adam/
-shop: Friseur
+shop: coiffeur
 ---

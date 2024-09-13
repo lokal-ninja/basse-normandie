@@ -1,5 +1,5 @@
 ---
 title: "La Villa Design"
 url: /caen/la-villa-design/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

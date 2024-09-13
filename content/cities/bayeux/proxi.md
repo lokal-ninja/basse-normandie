@@ -1,5 +1,5 @@
 ---
 title: "Proxi"
 url: /bayeux/proxi/
-shop: Lebensmittel
+shop: commodité
 ---

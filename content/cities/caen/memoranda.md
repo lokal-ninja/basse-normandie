@@ -1,5 +1,5 @@
 ---
 title: "Memoranda"
 url: /caen/memoranda/
-shop: Bücher
+shop: livres
 ---

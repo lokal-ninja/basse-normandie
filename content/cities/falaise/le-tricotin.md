@@ -1,5 +1,5 @@
 ---
 title: "Le Tricotin"
 url: /falaise/le-tricotin/
-shop: Textil
+shop: tissu
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Espace Aubade"
 url: /vire/espace-aubade/
-shop: Badezimmer
+shop: salle de bains
 ---

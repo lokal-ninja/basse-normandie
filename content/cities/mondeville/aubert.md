@@ -1,5 +1,5 @@
 ---
 title: "Aubert"
 url: /mondeville/aubert/
-shop: Babysachen
+shop: produits pour bébés
 ---

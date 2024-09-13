@@ -1,5 +1,5 @@
 ---
 title: "Nacréa Fleur"
 url: /basly/nacrea-fleur/
-shop: Blumen
+shop: fleuriste
 ---

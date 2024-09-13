@@ -1,5 +1,5 @@
 ---
 title: "Speedy"
 url: /honfleur/speedy/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Garage Devigne"
 url: /fontenay-le-pesnel/garage-devigne/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BestDrive"
 url: /flers/bestdrive/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

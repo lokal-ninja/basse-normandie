@@ -1,5 +1,5 @@
 ---
 title: "Mr. Ugo"
 url: /caen/mr-ugo/
-shop: Tiere
+shop: animal de compagnie
 ---

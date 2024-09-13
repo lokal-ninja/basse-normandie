@@ -1,5 +1,5 @@
 ---
 title: "Yves Rocher"
 url: /cherbourg-octeville/yves-rocher/
-shop: Kosmetik
+shop: beauté
 ---

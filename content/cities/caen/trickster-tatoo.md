@@ -1,5 +1,5 @@
 ---
 title: "Trickster Tatoo"
 url: /caen/trickster-tatoo/
-shop: Tattoo
+shop: tatouage
 ---

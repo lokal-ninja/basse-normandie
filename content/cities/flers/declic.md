@@ -1,5 +1,5 @@
 ---
 title: "Déclic"
 url: /flers/declic/
-shop: Kleidung
+shop: vêtements
 ---

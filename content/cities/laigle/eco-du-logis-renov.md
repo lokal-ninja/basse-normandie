@@ -1,5 +1,5 @@
 ---
 title: "Eco du Logis-Rénov"
 url: /laigle/eco-du-logis-renov/
-shop: Eisenwaren
+shop: matériel informatique
 ---

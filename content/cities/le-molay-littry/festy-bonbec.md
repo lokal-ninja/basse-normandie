@@ -1,5 +1,5 @@
 ---
 title: "Festy Bonbec"
 url: /le-molay-littry/festy-bonbec/
-shop: Süßwaren
+shop: confiserie
 ---

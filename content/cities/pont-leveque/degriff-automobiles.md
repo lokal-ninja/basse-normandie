@@ -1,5 +1,5 @@
 ---
 title: "Dégriff Automobiles"
 url: /pont-leveque/degriff-automobiles/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

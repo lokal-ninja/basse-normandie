@@ -1,5 +1,5 @@
 ---
 title: "Le fournil de Tom"
 url: /demouville/le-fournil-de-tom/
-shop: Bäckerei
+shop: boulangerie
 ---

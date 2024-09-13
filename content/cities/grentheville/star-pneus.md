@@ -1,5 +1,5 @@
 ---
 title: "Star Pneus"
 url: /grentheville/star-pneus/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

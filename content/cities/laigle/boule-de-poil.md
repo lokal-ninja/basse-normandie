@@ -1,5 +1,5 @@
 ---
 title: "Boule de poil"
 url: /laigle/boule-de-poil/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

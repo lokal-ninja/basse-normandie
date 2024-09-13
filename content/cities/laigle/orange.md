@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /laigle/orange/
-shop: Handy
+shop: téléphone portable
 ---

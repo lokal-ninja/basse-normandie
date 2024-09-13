@@ -1,5 +1,5 @@
 ---
 title: "Laverie Libre Service"
 url: /cherbourg-en-cotentin/laverie-libre-service/
-shop: Wäscherei
+shop: blanchisserie
 ---

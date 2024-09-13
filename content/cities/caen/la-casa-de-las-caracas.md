@@ -1,5 +1,5 @@
 ---
 title: "La casa de las caracas"
 url: /caen/la-casa-de-las-caracas/
-shop: Handy
+shop: téléphone portable
 ---

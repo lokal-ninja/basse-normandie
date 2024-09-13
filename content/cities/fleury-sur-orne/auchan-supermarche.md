@@ -1,5 +1,5 @@
 ---
 title: "Auchan - Supermarché"
 url: /fleury-sur-orne/auchan-supermarche/
-shop: Supermarkt
+shop: supermarché
 ---

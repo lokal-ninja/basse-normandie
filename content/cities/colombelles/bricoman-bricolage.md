@@ -1,5 +1,5 @@
 ---
 title: "Bricoman Bricolage"
 url: /colombelles/bricoman-bricolage/
-shop: Baumarkt
+shop: à faire soi-même
 ---

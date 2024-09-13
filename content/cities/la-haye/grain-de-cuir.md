@@ -1,5 +1,5 @@
 ---
 title: "Grain de Cuir"
 url: /la-haye/grain-de-cuir/
-shop: Taschen & Koffer
+shop: sac
 ---

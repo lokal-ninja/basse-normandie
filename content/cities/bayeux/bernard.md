@@ -1,5 +1,5 @@
 ---
 title: "Bernard"
 url: /bayeux/bernard/
-shop: Metzgerei
+shop: boucherie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cigusto"
 url: /honfleur/cigusto/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

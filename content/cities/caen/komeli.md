@@ -1,5 +1,5 @@
 ---
 title: "Koméli"
 url: /caen/komeli/
-shop: Feinkost
+shop: charcuterie
 ---

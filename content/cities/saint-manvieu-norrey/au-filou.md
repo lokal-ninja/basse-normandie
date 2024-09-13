@@ -1,5 +1,5 @@
 ---
 title: "Au Filou"
 url: /saint-manvieu-norrey/au-filou/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

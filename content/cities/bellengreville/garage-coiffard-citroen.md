@@ -1,5 +1,5 @@
 ---
 title: "Garage Coiffard Citroën"
 url: /bellengreville/garage-coiffard-citroen/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

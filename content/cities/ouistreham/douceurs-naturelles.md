@@ -1,5 +1,5 @@
 ---
 title: "Douceurs Naturelles"
 url: /ouistreham/douceurs-naturelles/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

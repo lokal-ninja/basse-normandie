@@ -1,5 +1,5 @@
 ---
 title: "Teknic'Info"
 url: /valognes/teknicinfo/
-shop: Computer
+shop: ordinateur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ami Look"
 url: /argentan/ami-look/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

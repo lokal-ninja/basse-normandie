@@ -1,5 +1,5 @@
 ---
 title: "Lenoir Philippe"
 url: /saint-lo-dourville/lenoir-philippe/
-shop: Bäckerei
+shop: boulangerie
 ---

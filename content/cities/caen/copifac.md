@@ -1,5 +1,5 @@
 ---
 title: "Copifac"
 url: /caen/copifac/
-shop: Kopieren
+shop: copyshop
 ---

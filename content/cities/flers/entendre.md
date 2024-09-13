@@ -1,5 +1,5 @@
 ---
 title: "Entendre"
 url: /flers/entendre/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

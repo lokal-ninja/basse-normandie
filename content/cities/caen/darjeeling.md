@@ -1,5 +1,5 @@
 ---
 title: "Darjeeling"
 url: /caen/darjeeling/
-shop: Kleidung
+shop: vêtements
 ---

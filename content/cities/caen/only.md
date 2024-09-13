@@ -1,5 +1,5 @@
 ---
 title: "ONLY"
 url: /caen/only/
-shop: Kleidung
+shop: vêtements
 ---

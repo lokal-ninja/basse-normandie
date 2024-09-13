@@ -1,5 +1,5 @@
 ---
 title: "Normal"
 url: /caen/normal/
-shop: Drogerie
+shop: chimiste
 ---

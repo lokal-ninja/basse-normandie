@@ -1,5 +1,5 @@
 ---
 title: "CocciMarket"
 url: /treauville/coccimarket/
-shop: Lebensmittel
+shop: commodité
 ---

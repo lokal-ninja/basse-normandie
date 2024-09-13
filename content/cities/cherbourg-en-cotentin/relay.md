@@ -1,5 +1,5 @@
 ---
 title: "Relay"
 url: /cherbourg-en-cotentin/relay/
-shop: Zeitungen
+shop: marchand de journaux
 ---

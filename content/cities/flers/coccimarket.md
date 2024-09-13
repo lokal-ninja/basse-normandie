@@ -1,5 +1,5 @@
 ---
 title: "CocciMarket"
 url: /flers/coccimarket/
-shop: Lebensmittel
+shop: commodité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Citroën"
 url: /le-molay-littry/citroen/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

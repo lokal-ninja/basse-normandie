@@ -1,5 +1,5 @@
 ---
 title: "Renault Trucks"
 url: /saint-lo/renault-trucks/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

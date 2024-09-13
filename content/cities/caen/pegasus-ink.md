@@ -1,5 +1,5 @@
 ---
 title: "Pegasus Ink"
 url: /caen/pegasus-ink/
-shop: Tattoo
+shop: tatouage
 ---

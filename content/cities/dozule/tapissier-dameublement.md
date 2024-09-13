@@ -1,5 +1,5 @@
 ---
 title: "Tapissier d'Ameublement"
 url: /dozule/tapissier-dameublement/
-shop: Möbel
+shop: meubles
 ---

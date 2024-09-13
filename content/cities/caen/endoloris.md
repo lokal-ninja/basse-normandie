@@ -1,5 +1,5 @@
 ---
 title: "Endoloris"
 url: /caen/endoloris/
-shop: Tattoo
+shop: tatouage
 ---

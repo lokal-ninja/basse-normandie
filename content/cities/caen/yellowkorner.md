@@ -1,5 +1,5 @@
 ---
 title: "YellowKorner"
 url: /caen/yellowkorner/
-shop: Kunst
+shop: art
 ---

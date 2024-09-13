@@ -1,5 +1,5 @@
 ---
 title: "Clopinette"
 url: /caen/clopinette-rue-hamon/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

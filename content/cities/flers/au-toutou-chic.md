@@ -1,5 +1,5 @@
 ---
 title: "Au Toutou Chic"
 url: /flers/au-toutou-chic/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

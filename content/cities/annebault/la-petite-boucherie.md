@@ -1,5 +1,5 @@
 ---
 title: "La Petite Boucherie"
 url: /annebault/la-petite-boucherie/
-shop: Metzgerei
+shop: boucherie
 ---

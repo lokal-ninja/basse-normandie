@@ -1,5 +1,5 @@
 ---
 title: "A Marilys Passion"
 url: /flers/a-marilys-passion/
-shop: Blumen
+shop: fleuriste
 ---

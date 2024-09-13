@@ -1,5 +1,5 @@
 ---
 title: "Play-Môme"
 url: /brehal/play-mome/
-shop: Spielzeug
+shop: jouets
 ---

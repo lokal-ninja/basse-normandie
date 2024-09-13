@@ -1,5 +1,5 @@
 ---
 title: "Cash Express"
 url: /caen/cash-express/
-shop: Leiher
+shop: prêteur sur gages
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bonjour"
 url: /caen/bonjour/
-shop: Lebensmittel
+shop: commodité
 ---

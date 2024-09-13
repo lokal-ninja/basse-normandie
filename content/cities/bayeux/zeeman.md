@@ -1,5 +1,5 @@
 ---
 title: "Zeeman"
 url: /bayeux/zeeman/
-shop: Kleidung
+shop: vêtements
 ---

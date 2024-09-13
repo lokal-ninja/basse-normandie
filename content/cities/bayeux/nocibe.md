@@ -1,5 +1,5 @@
 ---
 title: "Nocibé"
 url: /bayeux/nocibe/
-shop: Kosmetik
+shop: beauté
 ---

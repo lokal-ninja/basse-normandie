@@ -1,5 +1,5 @@
 ---
 title: "Corep"
 url: /caen/corep/
-shop: Kopieren
+shop: copyshop
 ---

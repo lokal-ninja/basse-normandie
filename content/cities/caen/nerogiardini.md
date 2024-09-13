@@ -1,5 +1,5 @@
 ---
 title: "NeroGiardini"
 url: /caen/nerogiardini/
-shop: Schuhe
+shop: chaussures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Toilettage"
 url: /ouistreham/toilettage/
-shop: Tiere
+shop: animal de compagnie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lavomatique"
 url: /lessay/lavomatique/
-shop: Wäscherei
+shop: blanchisserie
 ---

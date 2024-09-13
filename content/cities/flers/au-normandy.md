@@ -1,5 +1,5 @@
 ---
 title: "Au Normandy"
 url: /flers/au-normandy/
-shop: Tabak
+shop: tabac
 ---

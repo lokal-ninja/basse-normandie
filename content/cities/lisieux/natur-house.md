@@ -1,5 +1,5 @@
 ---
 title: "Natur House"
 url: /lisieux/natur-house/
-shop: Nahrungsergänzung
+shop: les compléments alimentaires
 ---

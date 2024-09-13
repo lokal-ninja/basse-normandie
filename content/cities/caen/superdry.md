@@ -1,5 +1,5 @@
 ---
 title: "Superdry"
 url: /caen/superdry/
-shop: Kleidung
+shop: vêtements
 ---

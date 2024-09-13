@@ -1,5 +1,5 @@
 ---
 title: "Vanity Street"
 url: /caen/vanity-street/
-shop: Tattoo
+shop: tatouage
 ---

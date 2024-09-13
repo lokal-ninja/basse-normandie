@@ -1,5 +1,5 @@
 ---
 title: "Chocolatier Charlotte Corday"
 url: /caen/chocolatier-charlotte-corday/
-shop: Schokolade
+shop: chocolat
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pralibel"
 url: /valognes/pralibel/
-shop: Schokolade
+shop: chocolat
 ---

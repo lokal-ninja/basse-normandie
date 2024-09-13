@@ -1,5 +1,5 @@
 ---
 title: "Le Jean-Bart"
 url: /caen/le-jean-bart/
-shop: Tabak
+shop: tabac
 ---

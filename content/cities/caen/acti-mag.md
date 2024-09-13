@@ -1,5 +1,5 @@
 ---
 title: "ACTI Mag"
 url: /caen/acti-mag/
-shop: Computer
+shop: ordinateur
 ---

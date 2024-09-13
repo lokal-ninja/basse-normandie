@@ -1,5 +1,5 @@
 ---
 title: "Les Éléis"
 url: /cherbourg-octeville/les-eleis/
-shop: Einkaufszentrum
+shop: centre commercial
 ---

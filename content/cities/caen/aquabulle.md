@@ -1,5 +1,5 @@
 ---
 title: "Aquabulle"
 url: /caen/aquabulle/
-shop: Bücher
+shop: livres
 ---

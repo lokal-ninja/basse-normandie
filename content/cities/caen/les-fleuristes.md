@@ -1,5 +1,5 @@
 ---
 title: "Les Fleuristes"
 url: /caen/les-fleuristes/
-shop: Blumen
+shop: fleuriste
 ---

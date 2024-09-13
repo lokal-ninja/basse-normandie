@@ -1,5 +1,5 @@
 ---
 title: "lili"
 url: /caen/lili/
-shop: Gebrauchtwaren
+shop: charité
 ---

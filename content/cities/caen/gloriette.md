@@ -1,5 +1,5 @@
 ---
 title: "Gloriette"
 url: /caen/gloriette/
-shop: Kleidung
+shop: vêtements
 ---

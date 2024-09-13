@@ -1,5 +1,5 @@
 ---
 title: "Azohia"
 url: /caen/azohia/
-shop: Kosmetik
+shop: beauté
 ---

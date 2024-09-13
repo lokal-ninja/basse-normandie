@@ -1,5 +1,5 @@
 ---
 title: "E. Leclerc"
 url: /saint-martin-des-champs/e-leclerc/
-shop: Gasflaschen
+shop: gaz
 ---

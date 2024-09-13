@@ -1,5 +1,5 @@
 ---
 title: "Boucherie C. François"
 url: /langrune-sur-mer/boucherie-c-francois/
-shop: Metzgerei
+shop: boucherie
 ---

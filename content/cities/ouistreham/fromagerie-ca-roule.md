@@ -1,5 +1,5 @@
 ---
 title: "Fromagerie ça roule !"
 url: /ouistreham/fromagerie-ca-roule/
-shop: Käse
+shop: fromage
 ---

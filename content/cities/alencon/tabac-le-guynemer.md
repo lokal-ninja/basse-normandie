@@ -1,5 +1,5 @@
 ---
 title: "Tabac Le Guynemer"
 url: /alencon/tabac-le-guynemer/
-shop: Zeitungen
+shop: marchand de journaux
 ---

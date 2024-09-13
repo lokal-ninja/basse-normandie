@@ -1,5 +1,5 @@
 ---
 title: "Entendre"
 url: /saint-martin-de-fontenay/entendre/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

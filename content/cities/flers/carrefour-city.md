@@ -1,5 +1,5 @@
 ---
 title: "Carrefour City"
 url: /flers/carrefour-city/
-shop: Supermarkt
+shop: supermarché
 ---

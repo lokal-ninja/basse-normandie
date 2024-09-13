@@ -1,5 +1,5 @@
 ---
 title: "Nouvel'hair"
 url: /orval/nouvelhair/
-shop: Friseur
+shop: coiffeur
 ---

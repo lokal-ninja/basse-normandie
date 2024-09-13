@@ -1,5 +1,5 @@
 ---
 title: "Pablo"
 url: /caen/pablo/
-shop: Kleidung
+shop: vêtements
 ---

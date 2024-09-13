@@ -1,5 +1,5 @@
 ---
 title: "IXAIR Medical"
 url: /la-colombe/ixair-medical/
-shop: Sanitätshaus
+shop: approvisionnement médical
 ---

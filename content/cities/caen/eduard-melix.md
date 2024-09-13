@@ -1,5 +1,5 @@
 ---
 title: "Eduard Melix"
 url: /caen/eduard-melix/
-shop: Schmuck
+shop: bijoux
 ---

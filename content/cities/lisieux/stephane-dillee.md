@@ -1,5 +1,5 @@
 ---
 title: "Stéphane Dillee"
 url: /lisieux/stephane-dillee/
-shop: Antiquitäten
+shop: antiquités
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bien Entendu"
 url: /douvres-la-delivrande/bien-entendu/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Poissonnerie Hautemanière"
 url: /valognes/poissonnerie-hautemaniere/
-shop: Fisch
+shop: fruits de mer
 ---

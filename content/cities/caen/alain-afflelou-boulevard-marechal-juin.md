@@ -1,5 +1,5 @@
 ---
 title: "Alain Afflelou"
 url: /caen/alain-afflelou-boulevard-marechal-juin/
-shop: Optiker
+shop: opticien
 ---

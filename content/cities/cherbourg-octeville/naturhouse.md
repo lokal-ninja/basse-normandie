@@ -1,5 +1,5 @@
 ---
 title: "Naturhouse"
 url: /cherbourg-octeville/naturhouse/
-shop: Nahrungsergänzung
+shop: les compléments alimentaires
 ---

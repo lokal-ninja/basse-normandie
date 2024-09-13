@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /argentan/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

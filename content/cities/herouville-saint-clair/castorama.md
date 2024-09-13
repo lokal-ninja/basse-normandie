@@ -1,5 +1,5 @@
 ---
 title: "Castorama"
 url: /herouville-saint-clair/castorama/
-shop: Baumarkt
+shop: à faire soi-même
 ---

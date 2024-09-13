@@ -1,5 +1,5 @@
 ---
 title: "Torchio"
 url: /avranches/torchio/
-shop: Baumarkt
+shop: à faire soi-même
 ---

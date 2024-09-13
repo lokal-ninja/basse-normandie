@@ -1,5 +1,5 @@
 ---
 title: "Zeneli"
 url: /caen/zeneli/
-shop: Friseur
+shop: coiffeur
 ---

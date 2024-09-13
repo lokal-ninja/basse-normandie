@@ -1,5 +1,5 @@
 ---
 title: "Eden"
 url: /flers/eden/
-shop: Schmuck
+shop: bijoux
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /cherbourg-octeville/carrefour/
-shop: Supermarkt
+shop: supermarché
 ---

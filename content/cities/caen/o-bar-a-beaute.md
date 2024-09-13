@@ -1,5 +1,5 @@
 ---
 title: "Ô Bar à... Beauté"
 url: /caen/o-bar-a-beaute/
-shop: Kosmetik
+shop: beauté
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mr Jardinage"
 url: /livarot/mr-jardinage/
-shop: Garten-Center
+shop: centre de jardinage
 ---

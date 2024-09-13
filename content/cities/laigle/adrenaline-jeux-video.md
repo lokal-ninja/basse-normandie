@@ -1,5 +1,5 @@
 ---
 title: "Adrénaline (Jeux vidéo)"
 url: /laigle/adrenaline-jeux-video/
-shop: Videospiele
+shop: jeux vidéo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "YesYes"
 url: /caen/yesyes/
-shop: Handy
+shop: téléphone portable
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Poltronesofà"
 url: /mondeville/poltronesofa/
-shop: Möbel
+shop: meubles
 ---

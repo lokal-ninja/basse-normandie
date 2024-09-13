@@ -1,5 +1,5 @@
 ---
 title: "Bouchara"
 url: /alencon/bouchara/
-shop: Allgemein
+shop: shop
 ---

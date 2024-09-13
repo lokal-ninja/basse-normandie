@@ -1,5 +1,5 @@
 ---
 title: "Le Valéa"
 url: /caen/le-valea/
-shop: Zeitungen
+shop: marchand de journaux
 ---

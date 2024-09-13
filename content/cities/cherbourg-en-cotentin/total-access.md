@@ -1,5 +1,5 @@
 ---
 title: "Total Access"
 url: /cherbourg-en-cotentin/total-access/
-shop: Lebensmittel
+shop: commodité
 ---

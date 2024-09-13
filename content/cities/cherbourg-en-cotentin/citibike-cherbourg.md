@@ -1,5 +1,5 @@
 ---
 title: "Citibike Cherbourg"
 url: /cherbourg-en-cotentin/citibike-cherbourg/
-shop: Fahrrad
+shop: vélo
 ---

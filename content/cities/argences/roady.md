@@ -1,5 +1,5 @@
 ---
 title: "Roady"
 url: /argences/roady/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

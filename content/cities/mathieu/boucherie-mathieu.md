@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Mathieu"
 url: /mathieu/boucherie-mathieu/
-shop: Metzgerei
+shop: boucherie
 ---

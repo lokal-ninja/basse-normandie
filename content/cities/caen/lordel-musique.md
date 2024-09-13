@@ -1,5 +1,5 @@
 ---
 title: "Lordel Musique"
 url: /caen/lordel-musique/
-shop: Instrumente
+shop: instrument de musique
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /la-ferte-mace/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

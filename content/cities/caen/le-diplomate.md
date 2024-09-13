@@ -1,5 +1,5 @@
 ---
 title: "Le Diplomate"
 url: /caen/le-diplomate/
-shop: Zeitungen
+shop: marchand de journaux
 ---

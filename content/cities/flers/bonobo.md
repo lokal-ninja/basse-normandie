@@ -1,5 +1,5 @@
 ---
 title: "Bonobo"
 url: /flers/bonobo/
-shop: Kleidung
+shop: vêtements
 ---

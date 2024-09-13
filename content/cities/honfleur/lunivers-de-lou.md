@@ -1,5 +1,5 @@
 ---
 title: "L'univers de Lou"
 url: /honfleur/lunivers-de-lou/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

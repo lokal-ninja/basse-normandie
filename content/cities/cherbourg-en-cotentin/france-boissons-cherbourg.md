@@ -1,5 +1,5 @@
 ---
 title: "France Boissons Cherbourg"
 url: /cherbourg-en-cotentin/france-boissons-cherbourg/
-shop: Baustoffe
+shop: commerce
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Riva Coiff"
 url: /ouistreham/riva-coiff/
-shop: Friseur
+shop: coiffeur
 ---

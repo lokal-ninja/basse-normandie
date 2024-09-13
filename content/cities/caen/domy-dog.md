@@ -1,5 +1,5 @@
 ---
 title: "Domy Dog"
 url: /caen/domy-dog/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

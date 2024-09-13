@@ -1,5 +1,5 @@
 ---
 title: "Texti"
 url: /trouville-sur-mer/texti/
-shop: Kramladen
+shop: magasin de variétés
 ---

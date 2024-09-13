@@ -1,5 +1,5 @@
 ---
 title: "Calzedonia"
 url: /caen/calzedonia/
-shop: Kleidung
+shop: vêtements
 ---

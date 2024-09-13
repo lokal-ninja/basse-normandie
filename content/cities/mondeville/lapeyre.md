@@ -1,5 +1,5 @@
 ---
 title: "Lapeyre"
 url: /mondeville/lapeyre/
-shop: Baumarkt
+shop: à faire soi-même
 ---

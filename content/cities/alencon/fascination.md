@@ -1,5 +1,5 @@
 ---
 title: "Fascination"
 url: /alencon/fascination/
-shop: Kleidung
+shop: vêtements
 ---

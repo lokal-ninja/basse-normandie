@@ -1,5 +1,5 @@
 ---
 title: "Carrosserie Rucel"
 url: /coutances/carrosserie-rucel/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

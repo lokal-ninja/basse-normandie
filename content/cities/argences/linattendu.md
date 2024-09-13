@@ -1,5 +1,5 @@
 ---
 title: "L'inattendu"
 url: /argences/linattendu/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "France Literie"
 url: /touques/france-literie/
-shop: Betten
+shop: lit
 ---

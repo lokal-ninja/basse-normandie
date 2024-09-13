@@ -1,5 +1,5 @@
 ---
 title: "Thierry Labe"
 url: /dives-sur-mer/thierry-labe/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

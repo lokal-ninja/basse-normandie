@@ -1,5 +1,5 @@
 ---
 title: "Centrakor"
 url: /laigle/centrakor/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SLR Automobile"
 url: /croisilles/slr-automobile/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

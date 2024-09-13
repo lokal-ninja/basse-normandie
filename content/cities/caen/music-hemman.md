@@ -1,5 +1,5 @@
 ---
 title: "Music' Hemman"
 url: /caen/music-hemman/
-shop: Instrumente
+shop: instrument de musique
 ---

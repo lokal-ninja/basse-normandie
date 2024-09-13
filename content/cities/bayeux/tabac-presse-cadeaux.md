@@ -1,5 +1,5 @@
 ---
 title: "Tabac presse cadeaux"
 url: /bayeux/tabac-presse-cadeaux/
-shop: Zeitungen
+shop: marchand de journaux
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Audilab"
 url: /bieville-beuville/audilab/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferme de Kerflaveur"
 url: /putanges-le-lac/ferme-de-kerflaveur/
-shop: Hofladen
+shop: ferme
 ---

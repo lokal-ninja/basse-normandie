@@ -1,5 +1,5 @@
 ---
 title: "Alexia Chaussure"
 url: /caen/alexia-chaussure/
-shop: Schuhe
+shop: chaussures
 ---

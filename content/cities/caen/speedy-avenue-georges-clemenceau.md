@@ -1,5 +1,5 @@
 ---
 title: "Speedy"
 url: /caen/speedy-avenue-georges-clemenceau/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

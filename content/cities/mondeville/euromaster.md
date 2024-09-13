@@ -1,5 +1,5 @@
 ---
 title: "Euromaster"
 url: /mondeville/euromaster/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "POLAMAYA"
 url: /alencon/polamaya/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /laigle/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

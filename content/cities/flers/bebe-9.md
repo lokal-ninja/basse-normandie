@@ -1,5 +1,5 @@
 ---
 title: "Bébé 9"
 url: /flers/bebe-9/
-shop: Babysachen
+shop: produits pour bébés
 ---

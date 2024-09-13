@@ -1,5 +1,5 @@
 ---
 title: "Lysland"
 url: /argences/lysland/
-shop: Blumen
+shop: fleuriste
 ---

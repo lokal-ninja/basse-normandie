@@ -1,5 +1,5 @@
 ---
 title: "Gare Maritime"
 url: /barneville-carteret/gare-maritime/
-shop: Tickets
+shop: billet
 ---

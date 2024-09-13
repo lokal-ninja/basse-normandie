@@ -1,5 +1,5 @@
 ---
 title: "Mèche'en Look"
 url: /dives-sur-mer/mecheen-look/
-shop: Friseur
+shop: coiffeur
 ---

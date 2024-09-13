@@ -1,5 +1,5 @@
 ---
 title: "E.Leclerc Auto"
 url: /bayeux/e-leclerc-auto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

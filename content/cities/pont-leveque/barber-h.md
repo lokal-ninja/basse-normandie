@@ -1,5 +1,5 @@
 ---
 title: "Barber H"
 url: /pont-leveque/barber-h/
-shop: Friseur
+shop: coiffeur
 ---

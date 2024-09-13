@@ -1,5 +1,5 @@
 ---
 title: "L’atelier Mosali"
 url: /granville/latelier-mosali/
-shop: Schmuck
+shop: bijoux
 ---

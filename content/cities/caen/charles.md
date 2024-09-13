@@ -1,5 +1,5 @@
 ---
 title: "Charles"
 url: /caen/charles/
-shop: Schuhe
+shop: chaussures
 ---

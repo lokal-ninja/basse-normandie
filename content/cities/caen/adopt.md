@@ -1,5 +1,5 @@
 ---
 title: "Adopt'"
 url: /caen/adopt/
-shop: Parfümerie
+shop: parfumerie
 ---

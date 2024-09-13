@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /argentan/intermarche/
-shop: Supermarkt
+shop: supermarché
 ---

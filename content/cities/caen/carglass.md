@@ -1,5 +1,5 @@
 ---
 title: "Carglass"
 url: /caen/carglass/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

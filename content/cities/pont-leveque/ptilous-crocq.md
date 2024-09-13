@@ -1,5 +1,5 @@
 ---
 title: "P'tilous-Crocq"
 url: /pont-leveque/ptilous-crocq/
-shop: Tiere
+shop: animal de compagnie
 ---

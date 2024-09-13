@@ -1,5 +1,5 @@
 ---
 title: "Utile"
 url: /pont-leveque/utile/
-shop: Lebensmittel
+shop: commodité
 ---

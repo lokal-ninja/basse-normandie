@@ -1,5 +1,5 @@
 ---
 title: "Kaïs Coiffure"
 url: /caen/kais-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

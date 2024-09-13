@@ -1,5 +1,5 @@
 ---
 title: "Espace Emeraude"
 url: /saint-georges-montcocq/espace-emeraude/
-shop: Garten-Center
+shop: centre de jardinage
 ---

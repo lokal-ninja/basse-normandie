@@ -1,5 +1,5 @@
 ---
 title: "Serrurerie Lutinier"
 url: /caen/serrurerie-lutinier/
-shop: Schlüsseldienst
+shop: serrurier
 ---

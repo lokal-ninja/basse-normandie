@@ -1,5 +1,5 @@
 ---
 title: "L'As du CBD"
 url: /caen/las-du-cbd/
-shop: Hanf
+shop: cannabis
 ---

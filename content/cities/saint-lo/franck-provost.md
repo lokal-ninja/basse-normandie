@@ -1,5 +1,5 @@
 ---
 title: "Franck Provost"
 url: /saint-lo/franck-provost/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "EVASION"
 url: /saint-pierre-eglise/evasion/
-shop: Friseur
+shop: coiffeur
 ---

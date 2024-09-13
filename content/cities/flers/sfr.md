@@ -1,5 +1,5 @@
 ---
 title: "SFR"
 url: /flers/sfr/
-shop: Handy
+shop: téléphone portable
 ---

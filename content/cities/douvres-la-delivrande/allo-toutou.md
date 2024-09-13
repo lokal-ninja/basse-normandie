@@ -1,5 +1,5 @@
 ---
 title: "Allo ! toutou"
 url: /douvres-la-delivrande/allo-toutou/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

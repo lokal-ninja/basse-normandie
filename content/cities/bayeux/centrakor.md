@@ -1,5 +1,5 @@
 ---
 title: "Centrakor"
 url: /bayeux/centrakor/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

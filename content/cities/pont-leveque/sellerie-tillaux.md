@@ -1,5 +1,5 @@
 ---
 title: "Sellerie Tillaux"
 url: /pont-leveque/sellerie-tillaux/
-shop: Sport
+shop: sports
 ---

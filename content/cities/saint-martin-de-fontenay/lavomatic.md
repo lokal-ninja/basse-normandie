@@ -1,5 +1,5 @@
 ---
 title: "Lavomatic"
 url: /saint-martin-de-fontenay/lavomatic/
-shop: Wäscherei
+shop: blanchisserie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Poissonnerie Marine"
 url: /lisieux/poissonnerie-marine/
-shop: Fisch
+shop: fruits de mer
 ---

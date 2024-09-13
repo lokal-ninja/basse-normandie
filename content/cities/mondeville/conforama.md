@@ -1,5 +1,5 @@
 ---
 title: "Conforama"
 url: /mondeville/conforama/
-shop: Möbel
+shop: meubles
 ---

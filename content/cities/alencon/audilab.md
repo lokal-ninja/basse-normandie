@@ -1,5 +1,5 @@
 ---
 title: "Audilab"
 url: /alencon/audilab/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Géode"
 url: /caen/la-geode/
-shop: Schmuck
+shop: bijoux
 ---

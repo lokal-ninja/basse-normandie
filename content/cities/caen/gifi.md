@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /caen/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

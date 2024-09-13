@@ -1,5 +1,5 @@
 ---
 title: "Chic'Os"
 url: /caen/chicos/
-shop: Tiere
+shop: animal de compagnie
 ---

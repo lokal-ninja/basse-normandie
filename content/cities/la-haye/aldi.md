@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /la-haye/aldi/
-shop: Supermarkt
+shop: supermarché
 ---

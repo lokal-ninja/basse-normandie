@@ -1,5 +1,5 @@
 ---
 title: "GLT Eurorepar"
 url: /thaon/glt-eurorepar/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

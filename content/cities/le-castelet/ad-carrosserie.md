@@ -1,5 +1,5 @@
 ---
 title: "AD Carrosserie"
 url: /le-castelet/ad-carrosserie/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

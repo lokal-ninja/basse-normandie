@@ -1,5 +1,5 @@
 ---
 title: "Bricomarché"
 url: /carentan/bricomarche/
-shop: Baumarkt
+shop: à faire soi-même
 ---

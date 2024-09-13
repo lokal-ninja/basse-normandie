@@ -1,5 +1,5 @@
 ---
 title: "Maison Fouillet"
 url: /bieville-beuville/maison-fouillet/
-shop: Metzgerei
+shop: boucherie
 ---

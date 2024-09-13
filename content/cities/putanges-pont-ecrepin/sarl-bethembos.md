@@ -1,5 +1,5 @@
 ---
 title: "SARL Bethembos"
 url: /putanges-pont-ecrepin/sarl-bethembos/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

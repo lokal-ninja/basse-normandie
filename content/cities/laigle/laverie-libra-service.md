@@ -1,5 +1,5 @@
 ---
 title: "Laverie Libra-Service"
 url: /laigle/laverie-libra-service/
-shop: Wäscherei
+shop: blanchisserie
 ---

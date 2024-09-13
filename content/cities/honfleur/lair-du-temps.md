@@ -1,5 +1,5 @@
 ---
 title: "L'Air du temps"
 url: /honfleur/lair-du-temps/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

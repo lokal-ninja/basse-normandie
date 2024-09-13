@@ -1,5 +1,5 @@
 ---
 title: "Garage Premier"
 url: /cherbourg-en-cotentin/garage-premier/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /dives-sur-mer/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /alencon/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

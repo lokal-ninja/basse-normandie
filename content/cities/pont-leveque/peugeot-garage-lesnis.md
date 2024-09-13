@@ -1,5 +1,5 @@
 ---
 title: "Peugeot - Garage Lesnis"
 url: /pont-leveque/peugeot-garage-lesnis/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

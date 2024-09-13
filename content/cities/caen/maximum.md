@@ -1,5 +1,5 @@
 ---
 title: "Maximum"
 url: /caen/maximum/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

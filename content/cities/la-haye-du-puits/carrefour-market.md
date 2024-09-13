@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Market"
 url: /la-haye-du-puits/carrefour-market/
-shop: Supermarkt
+shop: supermarché
 ---

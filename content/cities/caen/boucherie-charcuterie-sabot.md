@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Charcuterie Sabot"
 url: /caen/boucherie-charcuterie-sabot/
-shop: Metzgerei
+shop: boucherie
 ---

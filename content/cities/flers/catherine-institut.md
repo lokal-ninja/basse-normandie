@@ -1,5 +1,5 @@
 ---
 title: "Catherine Institut"
 url: /flers/catherine-institut/
-shop: Kosmetik
+shop: beauté
 ---

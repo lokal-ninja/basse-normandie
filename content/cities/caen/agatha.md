@@ -1,5 +1,5 @@
 ---
 title: "Agatha"
 url: /caen/agatha/
-shop: Schmuck
+shop: bijoux
 ---

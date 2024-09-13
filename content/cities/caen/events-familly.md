@@ -1,5 +1,5 @@
 ---
 title: "Events Familly"
 url: /caen/events-familly/
-shop: Kleidung
+shop: vêtements
 ---

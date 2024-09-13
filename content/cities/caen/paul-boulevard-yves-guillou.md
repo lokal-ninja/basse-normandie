@@ -1,5 +1,5 @@
 ---
 title: "Paul"
 url: /caen/paul-boulevard-yves-guillou/
-shop: Bäckerei
+shop: boulangerie
 ---

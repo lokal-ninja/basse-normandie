@@ -1,5 +1,5 @@
 ---
 title: "Havas Voyages"
 url: /caen/havas-voyages-rue-saint-jean/
-shop: Reisebüro
+shop: agence de voyage
 ---

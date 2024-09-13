@@ -1,5 +1,5 @@
 ---
 title: "La page qui tourne"
 url: /verson/la-page-qui-tourne/
-shop: Bücher
+shop: livres
 ---

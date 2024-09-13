@@ -1,5 +1,5 @@
 ---
 title: "Serrur Elec'"
 url: /caen/serrur-elec/
-shop: Schlüsseldienst
+shop: serrurier
 ---

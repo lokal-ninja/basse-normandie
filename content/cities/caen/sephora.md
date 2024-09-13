@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /caen/sephora/
-shop: Kosmetik
+shop: beauté
 ---

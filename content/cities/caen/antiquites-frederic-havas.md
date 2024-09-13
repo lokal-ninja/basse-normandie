@@ -1,5 +1,5 @@
 ---
 title: "Antiquités Frédéric Havas"
 url: /caen/antiquites-frederic-havas/
-shop: Antiquitäten
+shop: antiquités
 ---

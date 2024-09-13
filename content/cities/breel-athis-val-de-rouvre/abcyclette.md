@@ -1,5 +1,5 @@
 ---
 title: "ABCyclette"
 url: /breel-athis-val-de-rouvre/abcyclette/
-shop: Fahrrad
+shop: vélo
 ---

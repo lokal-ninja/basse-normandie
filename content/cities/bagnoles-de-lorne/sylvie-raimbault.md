@@ -1,5 +1,5 @@
 ---
 title: "Sylvie Raimbault"
 url: /bagnoles-de-lorne/sylvie-raimbault/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,6 +1,6 @@
 ---
 title: Mondeville
 url: /mondeville/
-latitude: 49.165
-longitude: -0.298
+latitude: 49.168
+longitude: -0.315
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sachana"
 url: /caen/sachana/
-shop: Spielzeug
+shop: jouets
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Precioza"
 url: /caen/precioza/
-shop: Mieten
+shop: location de stockage
 ---

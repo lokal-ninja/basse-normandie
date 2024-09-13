@@ -1,5 +1,5 @@
 ---
 title: "D'Bloquer"
 url: /caen/dbloquer/
-shop: Outdoor
+shop: extérieur
 ---

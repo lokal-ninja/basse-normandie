@@ -1,5 +1,5 @@
 ---
 title: "Meilleurtaux.com"
 url: /laigle/meilleurtaux-com/
-shop: Leiher
+shop: prêteur sur gages
 ---

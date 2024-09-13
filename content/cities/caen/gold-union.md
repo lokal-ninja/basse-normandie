@@ -1,5 +1,5 @@
 ---
 title: "Gold Union"
 url: /caen/gold-union/
-shop: Leiher
+shop: prêteur sur gages
 ---

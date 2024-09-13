@@ -1,5 +1,5 @@
 ---
 title: "Institut Transparence"
 url: /caen/institut-transparence/
-shop: Kosmetik
+shop: beauté
 ---

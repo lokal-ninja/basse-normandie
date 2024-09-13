@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /agneaux/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

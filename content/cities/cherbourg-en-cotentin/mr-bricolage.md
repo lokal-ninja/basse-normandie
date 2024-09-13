@@ -1,5 +1,5 @@
 ---
 title: "Mr.Bricolage"
 url: /cherbourg-en-cotentin/mr-bricolage/
-shop: Baumarkt
+shop: à faire soi-même
 ---

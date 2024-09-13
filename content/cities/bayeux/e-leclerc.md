@@ -1,5 +1,5 @@
 ---
 title: "E. Leclerc"
 url: /bayeux/e-leclerc/
-shop: Einkaufszentrum
+shop: centre commercial
 ---

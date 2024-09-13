@@ -1,5 +1,5 @@
 ---
 title: "Lavomatique"
 url: /caen/lavomatique/
-shop: Wäscherei
+shop: blanchisserie
 ---

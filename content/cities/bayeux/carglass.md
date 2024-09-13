@@ -1,5 +1,5 @@
 ---
 title: "Carglass"
 url: /bayeux/carglass/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

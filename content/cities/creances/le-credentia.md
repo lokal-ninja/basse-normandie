@@ -1,5 +1,5 @@
 ---
 title: "Le Crédentia"
 url: /creances/le-credentia/
-shop: Zeitungen
+shop: marchand de journaux
 ---

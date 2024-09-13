@@ -1,5 +1,5 @@
 ---
 title: "Intimissimi"
 url: /caen/intimissimi/
-shop: Kleidung
+shop: vêtements
 ---

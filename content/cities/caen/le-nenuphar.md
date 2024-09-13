@@ -1,5 +1,5 @@
 ---
 title: "Le Nénuphar"
 url: /caen/le-nenuphar/
-shop: Blumen
+shop: fleuriste
 ---

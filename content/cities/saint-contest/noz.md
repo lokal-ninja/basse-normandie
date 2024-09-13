@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /saint-contest/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

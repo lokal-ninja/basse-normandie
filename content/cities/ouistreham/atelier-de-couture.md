@@ -1,5 +1,5 @@
 ---
 title: "Atelier de Couture"
 url: /ouistreham/atelier-de-couture/
-shop: Schneiderei
+shop: tailleur
 ---

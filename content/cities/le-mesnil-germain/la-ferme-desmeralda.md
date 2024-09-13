@@ -1,5 +1,5 @@
 ---
 title: "La Ferme d'Esmeralda"
 url: /le-mesnil-germain/la-ferme-desmeralda/
-shop: Käse
+shop: fromage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Étape automobiles"
 url: /colleville-montgomery/etape-automobiles/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

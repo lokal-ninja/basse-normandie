@@ -1,5 +1,5 @@
 ---
 title: "Boutique Coquelicot"
 url: /bayeux/boutique-coquelicot/
-shop: Andenken
+shop: cadeau
 ---

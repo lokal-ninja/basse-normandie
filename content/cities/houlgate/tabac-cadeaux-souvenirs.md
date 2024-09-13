@@ -1,5 +1,5 @@
 ---
 title: "Tabac Cadeaux Souvenirs"
 url: /houlgate/tabac-cadeaux-souvenirs/
-shop: Zeitungen
+shop: marchand de journaux
 ---

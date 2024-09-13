@@ -1,5 +1,5 @@
 ---
 title: "Audika"
 url: /laigle/audika/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Letellier Boulangerie"
 url: /saint-martin-de-fontenay/letellier-boulangerie/
-shop: Bäckerei
+shop: boulangerie
 ---

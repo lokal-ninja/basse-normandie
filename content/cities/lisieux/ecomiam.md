@@ -1,5 +1,5 @@
 ---
 title: "Ecomiam"
 url: /lisieux/ecomiam/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

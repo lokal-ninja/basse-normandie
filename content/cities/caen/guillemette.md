@@ -1,5 +1,5 @@
 ---
 title: "Guillemette"
 url: /caen/guillemette/
-shop: Schmuck
+shop: bijoux
 ---

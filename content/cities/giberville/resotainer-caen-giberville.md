@@ -1,5 +1,5 @@
 ---
 title: "Resotainer Caen-Giberville"
 url: /giberville/resotainer-caen-giberville/
-shop: Mieten
+shop: location de stockage
 ---

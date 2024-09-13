@@ -1,5 +1,5 @@
 ---
 title: "Bricomarché"
 url: /moult-chicheboville/bricomarche/
-shop: Baumarkt
+shop: à faire soi-même
 ---

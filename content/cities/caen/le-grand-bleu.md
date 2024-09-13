@@ -1,5 +1,5 @@
 ---
 title: "Le Grand Bleu"
 url: /caen/le-grand-bleu/
-shop: Fisch
+shop: fruits de mer
 ---

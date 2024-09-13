@@ -1,5 +1,5 @@
 ---
 title: "Addict Caen"
 url: /caen/addict-caen/
-shop: Andenken
+shop: cadeau
 ---

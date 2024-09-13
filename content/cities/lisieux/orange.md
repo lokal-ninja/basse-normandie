@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /lisieux/orange/
-shop: Handy
+shop: téléphone portable
 ---

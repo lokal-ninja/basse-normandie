@@ -1,5 +1,5 @@
 ---
 title: "Mixmodes"
 url: /laigle/mixmodes/
-shop: Kleidung
+shop: vêtements
 ---

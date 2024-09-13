@@ -1,5 +1,5 @@
 ---
 title: "JMT"
 url: /flers/jmt/
-shop: Tiere
+shop: animal de compagnie
 ---

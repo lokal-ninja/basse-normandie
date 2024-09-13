@@ -1,5 +1,5 @@
 ---
 title: "Tabac"
 url: /saint-jean-delle/tabac/
-shop: Tabak
+shop: tabac
 ---

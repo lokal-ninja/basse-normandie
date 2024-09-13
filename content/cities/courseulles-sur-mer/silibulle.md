@@ -1,5 +1,5 @@
 ---
 title: "Silibulle"
 url: /courseulles-sur-mer/silibulle/
-shop: Schmuck
+shop: bijoux
 ---

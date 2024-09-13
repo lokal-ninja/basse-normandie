@@ -1,5 +1,5 @@
 ---
 title: "Le Cottage"
 url: /caen/le-cottage/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

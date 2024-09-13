@@ -1,5 +1,5 @@
 ---
 title: "Latypic"
 url: /caen/latypic/
-shop: Kleidung
+shop: vêtements
 ---

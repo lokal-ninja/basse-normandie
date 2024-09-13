@@ -1,5 +1,5 @@
 ---
 title: "Euromaster"
 url: /pont-leveque/euromaster/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

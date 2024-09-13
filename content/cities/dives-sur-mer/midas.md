@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /dives-sur-mer/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

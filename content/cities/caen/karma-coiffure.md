@@ -1,5 +1,5 @@
 ---
 title: "Karma Coiffure"
 url: /caen/karma-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

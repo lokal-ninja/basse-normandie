@@ -1,5 +1,5 @@
 ---
 title: "Comptoir National de l'Or"
 url: /caen/comptoir-national-de-lor/
-shop: Leiher
+shop: prêteur sur gages
 ---

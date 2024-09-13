@@ -1,5 +1,5 @@
 ---
 title: "Maison de beauté"
 url: /caen/maison-de-beaute/
-shop: Friseur
+shop: coiffeur
 ---

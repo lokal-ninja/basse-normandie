@@ -1,5 +1,5 @@
 ---
 title: "L'Hom Chic"
 url: /flers/lhom-chic/
-shop: Kleidung
+shop: vêtements
 ---

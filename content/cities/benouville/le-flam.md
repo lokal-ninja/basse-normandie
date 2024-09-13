@@ -1,5 +1,5 @@
 ---
 title: "Le Flam"
 url: /benouville/le-flam/
-shop: Lebensmittel
+shop: commodité
 ---

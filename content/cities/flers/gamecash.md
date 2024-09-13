@@ -1,5 +1,5 @@
 ---
 title: "Gamecash"
 url: /flers/gamecash/
-shop: Videospiele
+shop: jeux vidéo
 ---

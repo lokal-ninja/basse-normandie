@@ -1,5 +1,5 @@
 ---
 title: "Le Fleury"
 url: /fleury-sur-orne/le-fleury/
-shop: Zeitungen
+shop: marchand de journaux
 ---

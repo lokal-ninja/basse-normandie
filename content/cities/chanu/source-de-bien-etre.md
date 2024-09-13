@@ -1,5 +1,5 @@
 ---
 title: "Source de Bien-être"
 url: /chanu/source-de-bien-etre/
-shop: Kosmetik
+shop: beauté
 ---

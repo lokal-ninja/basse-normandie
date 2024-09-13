@@ -1,5 +1,5 @@
 ---
 title: "iT Shop"
 url: /caen/it-shop/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Utile"
 url: /putanges-pont-ecrepin/utile/
-shop: Supermarkt
+shop: supermarché
 ---

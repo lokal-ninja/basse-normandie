@@ -1,5 +1,5 @@
 ---
 title: "Hexagone"
 url: /laigle/hexagone/
-shop: Kleidung
+shop: vêtements
 ---

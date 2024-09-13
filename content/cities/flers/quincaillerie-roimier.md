@@ -1,5 +1,5 @@
 ---
 title: "Quincaillerie Roimier"
 url: /flers/quincaillerie-roimier/
-shop: Eisenwaren
+shop: matériel informatique
 ---

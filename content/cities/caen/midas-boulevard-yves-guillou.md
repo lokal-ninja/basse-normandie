@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /caen/midas-boulevard-yves-guillou/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

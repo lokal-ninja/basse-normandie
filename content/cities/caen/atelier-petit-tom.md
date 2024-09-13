@@ -1,5 +1,5 @@
 ---
 title: "Atelier Petit Tom"
 url: /caen/atelier-petit-tom/
-shop: Babysachen
+shop: produits pour bébés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lady C"
 url: /caen/lady-c/
-shop: Erotik
+shop: érotique
 ---
