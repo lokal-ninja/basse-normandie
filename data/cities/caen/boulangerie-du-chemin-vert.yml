@@ -4,8 +4,8 @@ latitude: 49.19262
 longitude: -0.39245
 postcode: "14000"
 city: Caen
-street: "Rue Molière"
-housenumber: 7
+street: Rue Molière
+housenumber: "7"
 phone: ""
-opening_hours: "Tu-Sa 07:00-19:30; Su 07:00-13:00"
-website: "https://boulangeriechesneausebastien.eatbu.com"
+opening_hours: Tu-Sa 07:00-19:30; Su 07:00-13:00
+website: https://boulangeriechesneausebastien.eatbu.com

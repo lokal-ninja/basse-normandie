@@ -1,11 +1,11 @@
 id: 1232486933
-type: way
+type: node
 latitude: 49.16605
 longitude: -0.29369
 postcode: "14120"
 city: Mondeville
-street: "Centre Commercial Mondeville 2"
-housenumber: 
-phone: "+33 2 31 99 94 20"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.milome.fr/magasin?idstore=56"
+street: Centre Commercial Mondeville 2
+housenumber: ""
+phone: +33 2 31 99 94 20
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.milome.fr/magasin?idstore=56

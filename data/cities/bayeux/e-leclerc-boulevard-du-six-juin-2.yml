@@ -1,11 +1,11 @@
 id: 1014611700
-type: way
+type: node
 latitude: 49.27809
 longitude: -0.72073
 postcode: "14400"
 city: Bayeux
-street: "Boulevard du Six Juin"
-housenumber: 
-phone: "+33 2 31 92 36 04"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "http://www.e-leclerc.com/bayeux"
+street: Boulevard du Six Juin
+housenumber: ""
+phone: +33 2 31 92 36 04
+opening_hours: Mo-Sa 09:00-20:00
+website: http://www.e-leclerc.com/bayeux

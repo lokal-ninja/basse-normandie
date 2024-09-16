@@ -1,11 +1,11 @@
 id: 156803546
-type: way
+type: node
 latitude: 48.44472
 longitude: 0.11241
 postcode: "61008"
 city: Alençon
-street: "Rue de l'Industrie"
-housenumber: 22
-phone: "+33 2 33 31 00 00"
+street: Rue de l'Industrie
+housenumber: "22"
+phone: +33 2 33 31 00 00
 opening_hours: ""
-website: "https://www.groupegca.com/concession/toyota-alencon"
+website: https://www.groupegca.com/concession/toyota-alencon

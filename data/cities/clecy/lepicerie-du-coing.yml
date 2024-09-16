@@ -4,8 +4,8 @@ latitude: 48.91563
 longitude: -0.48387
 postcode: "14570"
 city: Clécy
-street: "Rue André Hardy"
-housenumber: 5
+street: Rue André Hardy
+housenumber: "5"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr,Sa 09:00-12:30,15:00-19:00; Su 09:00-12:30"
+opening_hours: Mo,Tu,Th,Fr,Sa 09:00-12:30,15:00-19:00; Su 09:00-12:30
 website: ""

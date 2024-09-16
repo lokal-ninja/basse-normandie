@@ -1,11 +1,11 @@
 id: 693693968
-type: way
+type: node
 latitude: 49.19106
 longitude: -0.30228
 postcode: "14460"
 city: Colombelles
-street: "Rue du Bocage"
-housenumber: 
+street: Rue du Bocage
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

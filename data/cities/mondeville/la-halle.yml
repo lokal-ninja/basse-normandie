@@ -1,11 +1,11 @@
 id: 304196008
-type: way
+type: node
 latitude: 49.15891
 longitude: -0.30075
 postcode: "14120"
 city: Mondeville
-street: "Rue Joseph Jacquart"
-housenumber: 
-phone: "+33 2 31 72 74 96"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-20:00"
-website: "https://www.lahalle.com/"
+street: Rue Joseph Jacquart
+housenumber: ""
+phone: +33 2 31 72 74 96
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-20:00
+website: https://www.lahalle.com/

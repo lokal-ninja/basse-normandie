@@ -4,8 +4,8 @@ latitude: 49.14002
 longitude: -1.04945
 postcode: "50680"
 city: La Luzerne
-street: "Le château"
-housenumber: 5
-phone: "+33 6 43 93 94 34;+33 6 09 32 92 10"
-opening_hours: "Tu,Fr 16:00-18:30"
-website: "http://www.ferme-de-la-tour.com/"
+street: Le château
+housenumber: "5"
+phone: +33 6 43 93 94 34;+33 6 09 32 92 10
+opening_hours: Tu,Fr 16:00-18:30
+website: http://www.ferme-de-la-tour.com/

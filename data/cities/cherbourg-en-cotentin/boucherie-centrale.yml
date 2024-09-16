@@ -1,11 +1,11 @@
 id: 112272767
-type: way
+type: node
 latitude: 49.64756
 longitude: -1.64861
 postcode: "50120"
 city: Cherbourg-en-Cotentin
-street: "Rue Gambetta"
-housenumber: 121
-phone: "+33 2 33 93 86 92"
+street: Rue Gambetta
+housenumber: "121"
+phone: +33 2 33 93 86 92
 opening_hours: ""
 website: ""

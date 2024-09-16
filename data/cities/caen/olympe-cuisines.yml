@@ -4,8 +4,8 @@ latitude: 49.18288
 longitude: -0.35791
 postcode: "14000"
 city: Caen
-street: "Avenue du 6 Juin"
-housenumber: 13
+street: Avenue du 6 Juin
+housenumber: "13"
 phone: "+33986733228"
-opening_hours: "Mo-Fr 09:30-12:30, 14:00-18:30"
-website: "https://olympecuisines.fr/"
+opening_hours: Mo-Fr 09:30-12:30, 14:00-18:30
+website: https://olympecuisines.fr/

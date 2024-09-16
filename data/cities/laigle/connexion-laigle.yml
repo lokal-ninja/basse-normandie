@@ -1,11 +1,11 @@
 id: 282562986
-type: way
+type: node
 latitude: 48.7646
 longitude: 0.61864
 postcode: "61300"
 city: L'Aigle
-street: "Avenue Comtesse de Ségur"
-housenumber: 62
+street: Avenue Comtesse de Ségur
+housenumber: "62"
 phone: ""
-opening_hours: "Mo14:30-19:00; Tu-Sa 10:30-12:15, 14:00-19:00"
-website: "http://magasins.expert.fr/fr_FR/boutique/france/normandie/orne/l-aigle/l-aigle-anthalex/257"
+opening_hours: Mo14:30-19:00; Tu-Sa 10:30-12:15, 14:00-19:00
+website: http://magasins.expert.fr/fr_FR/boutique/france/normandie/orne/l-aigle/l-aigle-anthalex/257

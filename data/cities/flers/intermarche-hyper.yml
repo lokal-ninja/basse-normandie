@@ -5,7 +5,7 @@ longitude: -0.56385
 postcode: "61100"
 city: Flers
 street: ""
-housenumber: 108
-phone: "+33 2 33 65 15 98"
-opening_hours: "Mo-Th 09:00-19:30; Fr 09:00-20:00; Sa 09:00-19:30; Su 09:00-12:30"
-website: "https://www.intermarche.com/"
+housenumber: "108"
+phone: +33 2 33 65 15 98
+opening_hours: Mo-Th 09:00-19:30; Fr 09:00-20:00; Sa 09:00-19:30; Su 09:00-12:30
+website: https://www.intermarche.com/

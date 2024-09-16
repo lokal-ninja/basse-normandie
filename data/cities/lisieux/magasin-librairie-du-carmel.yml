@@ -1,11 +1,11 @@
 id: 587124994
-type: way
+type: node
 latitude: 49.14155
 longitude: 0.2279
 postcode: "14100"
 city: Lisieux
-street: "Rue du Carmel"
-housenumber: 37
+street: Rue du Carmel
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Su 09:00-12:30 13:30-18:30"
+opening_hours: Mo-Su 09:00-12:30 13:30-18:30
 website: ""

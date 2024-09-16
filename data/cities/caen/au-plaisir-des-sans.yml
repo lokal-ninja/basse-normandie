@@ -4,8 +4,8 @@ latitude: 49.17567
 longitude: -0.35653
 postcode: "14000"
 city: Caen
-street: "Rue Saint-Michel"
-housenumber: 42
-phone: "+33 2 31 83 98 26"
+street: Rue Saint-Michel
+housenumber: "42"
+phone: +33 2 31 83 98 26
 opening_hours: ""
-website: "https://www.auplaisirdessans.fr/"
+website: https://www.auplaisirdessans.fr/

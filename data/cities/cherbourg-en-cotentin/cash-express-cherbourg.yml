@@ -4,8 +4,9 @@ latitude: 49.63296
 longitude: -1.58964
 postcode: "50110"
 city: Cherbourg-en-Cotentin
-street: "Rue Pierre Brossolette"
-housenumber: 363
-phone: "+33 2 33 43 18 67"
-opening_hours: "Mo 14:00-19:00 open Achat; Tu-Sa 10:00-19:00 open Achat || Mo 14:00-18:30 open Vente; Tu-Sa 10:00-12:30,14:00-18:30 open Vente"
-website: "https://www.cashexpress.fr/magasin-cherbourg,353.html"
+street: Rue Pierre Brossolette
+housenumber: "363"
+phone: +33 2 33 43 18 67
+opening_hours: Mo 14:00-19:00 open "Achat"; Tu-Sa 10:00-19:00 open "Achat" || Mo 14:00-18:30
+    open "Vente"; Tu-Sa 10:00-12:30,14:00-18:30 open "Vente"
+website: https://www.cashexpress.fr/magasin-cherbourg,353.html

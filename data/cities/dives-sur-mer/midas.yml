@@ -1,11 +1,11 @@
 id: 1244156367
-type: way
+type: node
 latitude: 49.27637
 longitude: -0.10406
 postcode: "14160"
 city: Dives-sur-Mer
-street: "Herbage du Gaillon"
-housenumber: 
-phone: "+33 2 31 24 17 17"
+street: Herbage du Gaillon
+housenumber: ""
+phone: +33 2 31 24 17 17
 opening_hours: ""
-website: "https://www.midas.fr/"
+website: https://www.midas.fr/

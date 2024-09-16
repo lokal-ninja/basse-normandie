@@ -4,8 +4,8 @@ latitude: 49.18219
 longitude: -0.3637
 postcode: "14000"
 city: Caen
-street: "Rue de Strasbourg"
-housenumber: 16
-phone: ""
-opening_hours: ""
-website: "https://www.etam.com/0149_etam_caen_strasbourg.html"
+street: Rue de Strasbourg
+housenumber: "16"
+phone: "+33231387584"
+opening_hours: Mo 12:00-19:00; Tu-Sa 10:00-19:00
+website: https://www.etam.com/0149_etam_caen_strasbourg.html

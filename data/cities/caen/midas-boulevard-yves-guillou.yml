@@ -1,11 +1,11 @@
 id: 155642830
-type: way
+type: node
 latitude: 49.17411
 longitude: -0.38972
 postcode: "14000"
 city: Caen
-street: "Boulevard Yves Guillou"
-housenumber: 97
-phone: "+33 2 31 75 26 62"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-12:30"
-website: "https://www.midas.fr/centres-auto-midas/normandie/calvados/caen/caen-bld-guillou_1224"
+street: Boulevard Yves Guillou
+housenumber: "97"
+phone: +33 2 31 75 26 62
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:30-12:30
+website: https://www.midas.fr/centres-auto-midas/normandie/calvados/caen/caen-bld-guillou_1224

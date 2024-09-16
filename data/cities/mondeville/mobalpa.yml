@@ -1,11 +1,11 @@
 id: 304196011
-type: way
+type: node
 latitude: 49.15873
 longitude: -0.30089
 postcode: "14120"
 city: Mondeville
-street: "Rue Joseph Jacquart"
-housenumber: 240
-phone: "+33 2 30 30 99 99"
-opening_hours: "Mo-Sa 10:00-12:30,14:00-19:00"
-website: "https://www.mobalpa.fr/magasin/mobalpa-caen-mondeville"
+street: Rue Joseph Jacquart
+housenumber: "240"
+phone: +33 2 30 30 99 99
+opening_hours: Mo-Sa 10:00-12:30,14:00-19:00
+website: https://www.mobalpa.fr/magasin/mobalpa-caen-mondeville

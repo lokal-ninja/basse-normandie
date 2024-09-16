@@ -1,11 +1,11 @@
 id: 207054793
-type: way
+type: node
 latitude: 49.29701
 longitude: -1.54441
 postcode: "50250"
 city: La Haye
-street: "Route des Marais"
-housenumber: 3
-phone: "+332 33 76 71 10"
-opening_hours: "Mo-Sa 08:30-12:00,14:00-18:30"
-website: "https://www.apauto.fr/"
+street: Route des Marais
+housenumber: "3"
+phone: +332 33 76 71 10
+opening_hours: Mo-Sa 08:30-12:00,14:00-18:30
+website: https://www.apauto.fr/

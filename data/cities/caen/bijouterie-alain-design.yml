@@ -4,8 +4,8 @@ latitude: 49.1838
 longitude: -0.36195
 postcode: "14000"
 city: Caen
-street: "Rue Saint-Pierre"
-housenumber: 17
-phone: "+33 2 31 85 67 59"
-opening_hours: "Mo off; Tu-Sa 10:00-12:30,13:30-19:00"
+street: Rue Saint-Pierre
+housenumber: "17"
+phone: +33 2 31 85 67 59
+opening_hours: Mo off; Tu-Sa 10:00-12:30,13:30-19:00
 website: ""

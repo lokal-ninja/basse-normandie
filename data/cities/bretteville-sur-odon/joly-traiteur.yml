@@ -4,8 +4,8 @@ latitude: 49.16832
 longitude: -0.4078
 postcode: "14760"
 city: Bretteville-sur-Odon
-street: "Route de Bretagne"
-housenumber: 43
-phone: "+332 31 95 56 55"
-opening_hours: "Tu-Sa 08:30-13:00, 15:30-19:30; Su 09:00-13:00"
-website: "https://julien-joly-traiteur.com/"
+street: Route de Bretagne
+housenumber: "43"
+phone: +332 31 95 56 55
+opening_hours: Tu-Sa 08:30-13:00, 15:30-19:30; Su 09:00-13:00
+website: https://julien-joly-traiteur.com/

@@ -4,8 +4,8 @@ latitude: 49.18315
 longitude: -0.37811
 postcode: "14000"
 city: Caen
-street: "Rue Bicoquet"
-housenumber: 85
+street: Rue Bicoquet
+housenumber: "85"
 phone: "+33651202096"
-opening_hours: "We 10:00-12:00,14:00-18:00; Fr-Sa 10:00-12:00,14:00-18:00"
+opening_hours: We 10:00-12:00,14:00-18:00; Fr-Sa 10:00-12:00,14:00-18:00
 website: ""

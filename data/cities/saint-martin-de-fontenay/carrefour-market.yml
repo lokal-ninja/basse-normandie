@@ -1,11 +1,11 @@
 id: 278858005
-type: way
+type: node
 latitude: 49.11393
 longitude: -0.37585
 postcode: "14320"
 city: Saint-Martin-de-Fontenay
-street: "Rue du Clos Saint-Joseph"
-housenumber: 2
-phone: "+33 2 31 79 17 00"
-opening_hours: "Mo-Th 08:30-19:30; Fr-Sa 08:30-19:45; Su 08:30-12:30"
-website: "https://www.carrefour.fr/magasin/market-saint-martin-de-fontenay"
+street: Rue du Clos Saint-Joseph
+housenumber: "2"
+phone: +33 2 31 79 17 00
+opening_hours: Mo-Th 08:30-19:30; Fr-Sa 08:30-19:45; Su 08:30-12:30
+website: https://www.carrefour.fr/magasin/market-saint-martin-de-fontenay

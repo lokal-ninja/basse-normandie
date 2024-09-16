@@ -1,11 +1,11 @@
 id: 288934367
-type: way
+type: node
 latitude: 49.14001
 longitude: -0.5076
 postcode: "14210"
 city: Tourville-sur-Odon
-street: "Route de Bretagne"
-housenumber: 51
-phone: "+33 2 31 80 61 67"
+street: Route de Bretagne
+housenumber: "51"
+phone: +33 2 31 80 61 67
 opening_hours: ""
-website: "https://www.fondis-normandie-brizard.fr/"
+website: https://www.fondis-normandie-brizard.fr/

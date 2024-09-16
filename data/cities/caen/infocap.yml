@@ -4,8 +4,8 @@ latitude: 49.17974
 longitude: -0.3784
 postcode: "14000"
 city: Caen
-street: "Rue Caponière"
-housenumber: 88
-phone: "+33 2 31 85 99 08"
-opening_hours: "Tu-Sa 10:00-12:30,14:00-19:00"
-website: "http://www.infocap.fr/"
+street: Rue Caponière
+housenumber: "88"
+phone: +33 2 31 85 99 08
+opening_hours: Tu-Sa 10:00-12:30,14:00-19:00
+website: http://www.infocap.fr/

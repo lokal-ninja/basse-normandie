@@ -5,7 +5,7 @@ longitude: -0.57264
 postcode: "61100"
 city: Flers
 street: ""
-housenumber: 66
-phone: "+33 2 33 65 57 10"
-opening_hours: "Tu,We 09:00-12:00,14:00-19:00; Th,Fr 09:00-19:00; Sa 09:00-17:00"
+housenumber: "66"
+phone: +33 2 33 65 57 10
+opening_hours: Tu,We 09:00-12:00,14:00-19:00; Th,Fr 09:00-19:00; Sa 09:00-17:00
 website: ""

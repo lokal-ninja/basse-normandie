@@ -1,11 +1,11 @@
 id: 292812494
-type: way
+type: node
 latitude: 49.34746
 longitude: 0.09792
 postcode: "14800"
 city: Saint-Arnoult
 street: ""
-housenumber: 
-phone: "+33 2 31 14 83 41"
-opening_hours: "Mo-Sa 09:00-20:00; Su 09:00-12:45"
+housenumber: ""
+phone: +33 2 31 14 83 41
+opening_hours: Mo-Sa 09:00-20:00; Su 09:00-12:45
 website: ""

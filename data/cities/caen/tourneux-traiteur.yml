@@ -4,8 +4,8 @@ latitude: 49.17123
 longitude: -0.33701
 postcode: "14000"
 city: Caen
-street: "Rue de la Seine"
-housenumber: 40
+street: Rue de la Seine
+housenumber: "40"
 phone: ""
-opening_hours: "Tu-Fr 09:30-13:00, 15:30-19:15; Sa 09:00-13:00, 15:00-19:00"
+opening_hours: Tu-Fr 09:30-13:00, 15:30-19:15; Sa 09:00-13:00, 15:00-19:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.17571
 longitude: -0.35386
 postcode: "14000"
 city: Caen
-street: "Rue de Vaucelles"
-housenumber: 29
+street: Rue de Vaucelles
+housenumber: "29"
 phone: "+33231993532"
-opening_hours: "Tu-Fr 09:30-13:00,14:00-18:30; Sa 09:30-12:30; Su,Mo off"
-website: "https://naturehouse.fr"
+opening_hours: Tu-Fr 09:30-13:00,14:00-18:30; Sa 09:30-12:30; Su,Mo off
+website: https://naturehouse.fr

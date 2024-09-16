@@ -1,11 +1,11 @@
 id: 163652793
-type: way
+type: node
 latitude: 49.21154
 longitude: -0.35419
 postcode: "14200"
 city: Hérouville-Saint-Clair
-street: "Place de Boston"
-housenumber: 8
-phone: "+33 2 31 47 03 03"
-opening_hours: "Mo-Sa 08:30-19:00"
-website: "https://www.fournisauto.fr/"
+street: Place de Boston
+housenumber: "8"
+phone: +33 2 31 47 03 03
+opening_hours: Mo-Sa 08:30-19:00
+website: https://www.fournisauto.fr/

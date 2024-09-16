@@ -1,11 +1,11 @@
 id: 83682018
-type: way
+type: node
 latitude: 48.74729
 longitude: -0.02848
 postcode: "61200"
 city: Argentan
-street: "Rue du Relais de la Malle Poste"
-housenumber: 
+street: Rue du Relais de la Malle Poste
+housenumber: ""
 phone: "+33233355969"
 opening_hours: ""
-website: "http://lesgaleries.fr"
+website: http://lesgaleries.fr

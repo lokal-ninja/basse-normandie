@@ -1,11 +1,11 @@
 id: 968520974
-type: way
+type: node
 latitude: 49.16025
 longitude: -0.30349
 postcode: "14120"
 city: Mondeville
-street: "Rue Joseph Jacquard"
-housenumber: 
-phone: "+33 2 14 74 53 10"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.poltronesofa.com/"
+street: Rue Joseph Jacquard
+housenumber: ""
+phone: +33 2 14 74 53 10
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.poltronesofa.com/

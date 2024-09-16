@@ -4,8 +4,8 @@ latitude: 49.18287
 longitude: -0.36398
 postcode: "14000"
 city: Caen
-street: "Rue de Strasbourg"
-housenumber: 3
-phone: "+33 2 31 23 14 33"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.nafnaf.com/nos-boutiques/naf-naf-caen_caen_14000/86.html"
+street: Rue de Strasbourg
+housenumber: "3"
+phone: +33 2 31 23 14 33
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.nafnaf.com/nos-boutiques/naf-naf-caen_caen_14000/86.html

@@ -4,8 +4,8 @@ latitude: 49.09025
 longitude: -0.60733
 postcode: "14310"
 city: Parfouru-sur-Odon
-street: "Rue de l'Église"
-housenumber: 1
-phone: "+33 7 81 61 79 53"
-opening_hours: "Mo-Tu 09:00-18:00; Th 09:00-18:00; Sa 09:00-12:30"
-website: "https://www.lechemindezolelie.fr/"
+street: Rue de l'Église
+housenumber: "1"
+phone: +33 7 81 61 79 53
+opening_hours: Mo-Tu 09:00-18:00; Th 09:00-18:00; Sa 09:00-12:30
+website: https://www.lechemindezolelie.fr/

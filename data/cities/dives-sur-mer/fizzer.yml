@@ -1,11 +1,11 @@
 id: 100129368
-type: way
+type: node
 latitude: 49.28482
 longitude: -0.103
 postcode: "14160"
 city: Dives-sur-Mer
-street: "Rue Edouard Herriot"
-housenumber: 17
+street: Rue Edouard Herriot
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

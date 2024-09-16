@@ -5,7 +5,7 @@ longitude: 0.59776
 postcode: "61400"
 city: Comblot
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Apr-Sep: We,Fr,Sa après-midi, Su,PH matin || sur RDV"
+opening_hours: 'Apr-Sep: We,Fr,Sa "après-midi", Su,PH "matin" || "sur RDV"'
 website: ""

@@ -1,11 +1,11 @@
 id: 220896199
-type: way
+type: node
 latitude: 48.62884
 longitude: -1.16418
 postcode: ""
 city: Isigny Le Buat
-street: "La Huardière"
-housenumber: 50540
-phone: "+33 9 80 91 02 11"
-opening_hours: "We 16:00-18:00; Sa 10:30-12:30; We 16:00-18:00; Sa 10:30-12:30"
-website: "https://jardindutrefle.jimdo.com/"
+street: La Huardière
+housenumber: "50540"
+phone: +33 9 80 91 02 11
+opening_hours: We 16:00-18:00; Sa 10:30-12:30; We 16:00-18:00; Sa 10:30-12:30
+website: https://jardindutrefle.jimdo.com/

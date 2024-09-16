@@ -1,11 +1,11 @@
 id: 167846747
-type: way
+type: node
 latitude: 49.19835
 longitude: -1.56812
 postcode: ""
 city: Créances
-street: "Rue du Haut Chemin"
-housenumber: 146
+street: Rue du Haut Chemin
+housenumber: "146"
 phone: ""
-opening_hours: "We-Sa 06:30-13:30,14:30-19:30; Su 06:30-13:00"
+opening_hours: We-Sa 06:30-13:30,14:30-19:30; Su 06:30-13:00
 website: ""

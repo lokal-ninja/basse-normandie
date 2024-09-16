@@ -4,8 +4,8 @@ latitude: 49.16072
 longitude: -0.36004
 postcode: "14000"
 city: Caen
-street: "Place du Commerce"
-housenumber: 19
+street: Place du Commerce
+housenumber: "19"
 phone: "+33231702048"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00"
+opening_hours: Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 822167645
-type: way
+type: node
 latitude: 49.25166
 longitude: 0.01976
 postcode: "14430"
 city: Danestal
-street: "Route de Branville"
-housenumber: 
+street: Route de Branville
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.denismateriaux.com"
+website: https://www.denismateriaux.com

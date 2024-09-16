@@ -1,11 +1,11 @@
 id: 1174736426
-type: way
+type: node
 latitude: 48.60104
 longitude: -1.51236
 postcode: "50170"
 city: Beauvoir
-street: "Route du Mont-Saint-Michel"
-housenumber: 
+street: Route du Mont-Saint-Michel
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

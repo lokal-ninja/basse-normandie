@@ -4,8 +4,8 @@ latitude: 49.06961
 longitude: -1.42711
 postcode: "50200"
 city: Coutances
-street: "Rue de la Glacière"
-housenumber: 4
+street: Rue de la Glacière
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.biocoop-coutances.fr"
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.biocoop-coutances.fr

@@ -1,11 +1,11 @@
 id: 119358757
-type: way
+type: node
 latitude: 49.17392
 longitude: -0.32825
 postcode: "14000"
 city: Mondeville
-street: "Rue Émile Zola"
-housenumber: 9
+street: Rue Émile Zola
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://www.intercycle.fr/"
+website: https://www.intercycle.fr/

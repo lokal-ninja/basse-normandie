@@ -1,11 +1,11 @@
 id: 218992947
-type: way
+type: node
 latitude: 49.32554
 longitude: -0.37171
 postcode: "14830"
 city: Langrune-sur-Mer
-street: "Rue du Général Leclerc"
-housenumber: 24
-phone: "+33 231970245"
+street: Rue du Général Leclerc
+housenumber: "24"
+phone: +33 231970245
 opening_hours: ""
-website: "https://www.garage-primum.fr/adherents-normandie/garage-bourdon/"
+website: https://www.garage-primum.fr/adherents-normandie/garage-bourdon/

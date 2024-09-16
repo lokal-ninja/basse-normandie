@@ -1,11 +1,11 @@
 id: 968520977
-type: way
+type: node
 latitude: 49.15892
 longitude: -0.30247
 postcode: "14120"
 city: Mondeville
-street: "Rue Joseph Jacquart"
-housenumber: 
-phone: "+33 2 31 82 60 66"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.heth.fr/"
+street: Rue Joseph Jacquart
+housenumber: ""
+phone: +33 2 31 82 60 66
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.heth.fr/

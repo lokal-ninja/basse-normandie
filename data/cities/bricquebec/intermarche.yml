@@ -1,11 +1,11 @@
 id: 210288024
-type: way
+type: node
 latitude: 49.46762
 longitude: -1.64128
 postcode: "50260"
 city: Bricquebec
-street: "Rue Bitouzé Dausmesnil"
-housenumber: 
+street: Rue Bitouzé Dausmesnil
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

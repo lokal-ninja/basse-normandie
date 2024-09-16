@@ -1,11 +1,11 @@
 id: 239500499
-type: way
+type: node
 latitude: 49.60231
 longitude: -1.60375
 postcode: "50470"
 city: Cherbourg-en-Cotentin
-street: "Rue du Parc d'Activités"
-housenumber: 
-phone: "+33 892 01 10 10"
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://magasin.darty.com/59-darty-cherbourg"
+street: Rue du Parc d'Activités
+housenumber: ""
+phone: +33 892 01 10 10
+opening_hours: Mo-Sa 09:30-19:30
+website: https://magasin.darty.com/59-darty-cherbourg

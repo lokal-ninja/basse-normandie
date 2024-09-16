@@ -1,11 +1,12 @@
 id: 108806089
-type: way
+type: node
 latitude: 49.3017
 longitude: -0.07729
 postcode: "14510"
 city: Houlgate
-street: "Rue du Général Leclerc"
-housenumber: 9
+street: Rue du Général Leclerc
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-We 09:00-13:00,15:00-19:00; Th 09:00-14:00,15:00-19:00; Fr 09:00-14:00,15:00-19:30; Sa 09:00-19:30; Su 09:00-13:00"
+opening_hours: Mo-We 09:00-13:00,15:00-19:00; Th 09:00-14:00,15:00-19:00; Fr 09:00-14:00,15:00-19:30;
+    Sa 09:00-19:30; Su 09:00-13:00
 website: ""

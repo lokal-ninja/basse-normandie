@@ -4,8 +4,8 @@ latitude: 48.72482
 longitude: -0.58405
 postcode: "61100"
 city: Flers
-street: "Rue Aristide Boucicaut"
-housenumber: 681
+street: Rue Aristide Boucicaut
+housenumber: "681"
 phone: ""
-opening_hours: "Tu 08:30-12:00,14:00-17:30; We-Fr 14:00-17:30; Sa 08:30-12:00,14:00-17:00"
-website: "https://www.carglass.fr/centre/61100-115866/flers"
+opening_hours: Tu 08:30-12:00,14:00-17:30; We-Fr 14:00-17:30; Sa 08:30-12:00,14:00-17:00
+website: https://www.carglass.fr/centre/61100-115866/flers

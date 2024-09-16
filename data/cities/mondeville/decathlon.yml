@@ -1,11 +1,11 @@
 id: 119357707
-type: way
+type: node
 latitude: 49.15541
 longitude: -0.28663
 postcode: "14120"
 city: Mondeville
-street: "Les Carandes"
-housenumber: 
+street: Les Carandes
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.decathlon.fr/fr/store?store_id=PS_103"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.decathlon.fr/fr/store?store_id=PS_103

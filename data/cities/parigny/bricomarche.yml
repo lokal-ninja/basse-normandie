@@ -1,11 +1,11 @@
 id: 389068999
-type: way
+type: node
 latitude: 48.5816
 longitude: -1.08933
 postcode: "50600"
 city: Parigny
-street: "Zone d'Activité La Rivière"
-housenumber: 8
-phone: "+33 2 33 79 33 50"
+street: Zone d'Activité La Rivière
+housenumber: "8"
+phone: +33 2 33 79 33 50
 opening_hours: ""
 website: ""

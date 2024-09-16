@@ -1,11 +1,11 @@
 id: 1158393752
-type: way
+type: node
 latitude: 49.28547
 longitude: -0.70077
 postcode: "14400"
 city: Bayeux
-street: "Boulevard d'Eindhoven"
-housenumber: 33
+street: Boulevard d'Eindhoven
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.1827
 longitude: -0.3489
 postcode: "14000"
 city: Caen
-street: "Rue Dumont d'Urville"
-housenumber: 8
-phone: "+33 2 31 82 08 00"
-opening_hours: "Mo-Sa 07:00-19:30"
-website: "https://www.paintati-paintata.fr/"
+street: Rue Dumont d'Urville
+housenumber: "8"
+phone: +33 2 31 82 08 00
+opening_hours: Mo-Sa 07:00-19:30
+website: https://www.paintati-paintata.fr/

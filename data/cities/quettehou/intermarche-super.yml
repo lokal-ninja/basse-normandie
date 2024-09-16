@@ -1,11 +1,11 @@
 id: 494863054
-type: way
+type: node
 latitude: 49.59841
 longitude: -1.30123
 postcode: "50630"
 city: Quettehou
-street: "Rue du Val de Saire"
-housenumber: 10
-phone: "+33 2 33 43 30 99"
-opening_hours: "Mo-Sa 08:30-19:00; Su 09:00-12:30"
-website: "https://www.intermarche.com"
+street: Rue du Val de Saire
+housenumber: "10"
+phone: +33 2 33 43 30 99
+opening_hours: Mo-Sa 08:30-19:00; Su 09:00-12:30
+website: https://www.intermarche.com

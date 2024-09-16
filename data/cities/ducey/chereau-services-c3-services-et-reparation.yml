@@ -1,11 +1,11 @@
 id: 162149696
-type: way
+type: node
 latitude: 48.62754
 longitude: -1.28941
 postcode: "50220"
 city: Ducey
-street: "ZI Le Domaine"
-housenumber: 
-phone: "+33 2 33 89 36 10"
-opening_hours: "Mo-Th 08:00-17:30, Fr 08:00-16:30"
-website: "https://www.chereau.com/entretien-et-reparation.php"
+street: ZI Le Domaine
+housenumber: ""
+phone: +33 2 33 89 36 10
+opening_hours: Mo-Th 08:00-17:30, Fr 08:00-16:30
+website: https://www.chereau.com/entretien-et-reparation.php

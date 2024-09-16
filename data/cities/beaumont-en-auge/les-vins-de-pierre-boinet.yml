@@ -1,11 +1,11 @@
 id: 113603066
-type: way
+type: node
 latitude: 49.27869
 longitude: 0.11019
 postcode: "14950"
 city: Beaumont-en-Auge
-street: "Place du Colonel Langlois"
-housenumber: 14
+street: Place du Colonel Langlois
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,12 @@
 id: 445227393
-type: way
+type: node
 latitude: 49.35988
 longitude: 0.08373
 postcode: "14800"
 city: Deauville
-street: "Place Louis Armand"
-housenumber: 
-phone: "+33 9 70 83 00 14"
-opening_hours: "Mo-Th 09:00-13:00,14:00-17:15; We 09:00-13:00,14:00-14:30; Fr 09:00-13:00,14:00-18:15; Sa 10:00-13:00,14:00-16:15"
-website: "https://www.nomadcar14.fr/"
+street: Place Louis Armand
+housenumber: ""
+phone: +33 9 70 83 00 14
+opening_hours: Mo-Th 09:00-13:00,14:00-17:15; We 09:00-13:00,14:00-14:30; Fr 09:00-13:00,14:00-18:15;
+    Sa 10:00-13:00,14:00-16:15
+website: https://www.nomadcar14.fr/

@@ -1,11 +1,11 @@
 id: 987656021
-type: way
+type: node
 latitude: 48.58604
 longitude: -0.33315
 postcode: "61600"
 city: Magny-le-Desert
-street: "la brindossiere"
-housenumber: 19
+street: la brindossiere
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

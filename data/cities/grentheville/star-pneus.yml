@@ -5,7 +5,7 @@ longitude: -0.31064
 postcode: "14540"
 city: Grentheville
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-18:30"
-website: "http://www.starpneus.fr"
+opening_hours: Mo-Fr 08:00-12:00, 14:00-18:30
+website: http://www.starpneus.fr

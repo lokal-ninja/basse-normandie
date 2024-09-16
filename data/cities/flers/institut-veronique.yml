@@ -5,7 +5,7 @@ longitude: -0.5634
 postcode: "61100"
 city: Flers
 street: ""
-housenumber: 43
-phone: "+33 2 33 65 26 03"
+housenumber: "43"
+phone: +33 2 33 65 26 03
 opening_hours: ""
-website: "https://institutveronique-flers.fr/"
+website: https://institutveronique-flers.fr/

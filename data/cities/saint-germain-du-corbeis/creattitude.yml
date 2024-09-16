@@ -1,11 +1,11 @@
 id: 116049263
-type: way
+type: node
 latitude: 48.42224
 longitude: 0.08427
 postcode: "61000"
 city: Saint-Germain-du-Corbéis
-street: "Avenue de Koutiala"
-housenumber: 25
+street: Avenue de Koutiala
+housenumber: "25"
 phone: ""
 opening_hours: ""
-website: "https://www.creattitudes.net"
+website: https://www.creattitudes.net

@@ -4,8 +4,8 @@ latitude: 49.6383
 longitude: -1.6266
 postcode: "50100"
 city: Cherbourg-Octeville
-street: "Rue Gambetta"
-housenumber: 52
-phone: "+33 2 33 88 55 60"
-opening_hours: "Mo-Fr 09:00-12:30,13:30-19:00; Sa 09:00-18:00"
-website: "https://www.ecoutervoir.fr/trouver-un-magasin/cherbourg/"
+street: Rue Gambetta
+housenumber: "52"
+phone: +33 2 33 88 55 60
+opening_hours: Mo-Fr 09:00-12:30,13:30-19:00; Sa 09:00-18:00
+website: https://www.ecoutervoir.fr/trouver-un-magasin/cherbourg/

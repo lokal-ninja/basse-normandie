@@ -4,8 +4,8 @@ latitude: 48.90654
 longitude: -0.20926
 postcode: "14700"
 city: Falaise
-street: "Rue Louis Rochet"
-housenumber: 3
-phone: "+33 2 31 20 29 67"
-opening_hours: "Mo-Fr 09:30-13:00,14:00-19:00; Sa 09:30-19:00"
+street: Rue Louis Rochet
+housenumber: "3"
+phone: +33 2 31 20 29 67
+opening_hours: Mo-Fr 09:30-13:00,14:00-19:00; Sa 09:30-19:00
 website: ""

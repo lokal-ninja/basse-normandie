@@ -1,11 +1,11 @@
 id: 404796946
-type: way
+type: node
 latitude: 48.98855
 longitude: -1.03323
 postcode: "50420"
 city: Domjean
-street: "Rue du Haut du Bourg"
-housenumber: 3
+street: Rue du Haut du Bourg
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

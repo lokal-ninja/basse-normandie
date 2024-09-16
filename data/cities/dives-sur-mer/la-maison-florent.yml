@@ -1,11 +1,11 @@
 id: 1091626524
-type: way
+type: node
 latitude: 49.28508
 longitude: -0.10421
 postcode: "14160"
 city: Dives-sur-Mer
-street: "Rue du Général de Gaulle"
-housenumber: 69
+street: Rue du Général de Gaulle
+housenumber: "69"
 phone: ""
 opening_hours: ""
 website: ""

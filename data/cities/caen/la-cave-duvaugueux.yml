@@ -4,8 +4,8 @@ latitude: 49.18524
 longitude: -0.35911
 postcode: "14000"
 city: Caen
-street: "Rue des Chanoines"
-housenumber: 2
+street: Rue des Chanoines
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Sa 10:30-17:30; Su 10:30-15:00"
+opening_hours: Tu-Sa 10:30-17:30; Su 10:30-15:00
 website: ""

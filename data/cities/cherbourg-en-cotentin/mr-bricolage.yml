@@ -1,11 +1,11 @@
 id: 264890354
-type: way
+type: node
 latitude: 49.66204
 longitude: -1.68441
 postcode: "50120"
 city: Cherbourg-en-Cotentin
-street: "Rue du Marais"
-housenumber: 4000
+street: Rue du Marais
+housenumber: "4000"
 phone: ""
 opening_hours: ""
 website: ""

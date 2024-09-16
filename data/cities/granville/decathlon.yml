@@ -4,8 +4,8 @@ latitude: 48.83903
 longitude: -1.56222
 postcode: "50400"
 city: Granville
-street: "Avenue des matignons"
-housenumber: 1520
+street: Avenue des matignons
+housenumber: "1520"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.decathlon.fr"
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.decathlon.fr

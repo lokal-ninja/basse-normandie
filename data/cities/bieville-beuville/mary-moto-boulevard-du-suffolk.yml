@@ -1,11 +1,11 @@
 id: 692735902
-type: way
+type: node
 latitude: 49.22616
 longitude: -0.36668
 postcode: "14112"
 city: Biéville-Beuville
-street: "Boulevard du Suffolk"
-housenumber: 11
-phone: "+33 2 52 20 36 95"
+street: Boulevard du Suffolk
+housenumber: "11"
+phone: +33 2 52 20 36 95
 opening_hours: ""
-website: "https://www.mary-moto.fr/"
+website: https://www.mary-moto.fr/

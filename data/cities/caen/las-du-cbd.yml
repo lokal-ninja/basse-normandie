@@ -4,8 +4,8 @@ latitude: 49.1689
 longitude: -0.35211
 postcode: "14000"
 city: Caen
-street: "Rue de Falaise"
-housenumber: 129
-phone: "+33 9 82 41 99 36"
-opening_hours: "Mo-Sa 10:00-19:00"
+street: Rue de Falaise
+housenumber: "129"
+phone: +33 9 82 41 99 36
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

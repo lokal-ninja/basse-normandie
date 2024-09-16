@@ -1,11 +1,11 @@
 id: 890935060
-type: way
+type: node
 latitude: 49.2285
 longitude: -0.8723
 postcode: "14330"
 city: Le Molay-Littry
-street: "Route de Balleroy"
-housenumber: 
+street: Route de Balleroy
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

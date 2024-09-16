@@ -1,11 +1,11 @@
 id: 155279308
-type: way
+type: node
 latitude: 49.2314
 longitude: -0.04335
 postcode: "14430"
 city: Dozulé
-street: "Grande Rue"
-housenumber: 87
+street: Grande Rue
+housenumber: "87"
 phone: ""
 opening_hours: ""
 website: ""

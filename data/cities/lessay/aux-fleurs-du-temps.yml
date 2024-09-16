@@ -4,8 +4,8 @@ latitude: 49.21903
 longitude: -1.53302
 postcode: "50430"
 city: Lessay
-street: "Place Saint-Cloud"
-housenumber: 6
-phone: "+33 2 33 07 70 03"
-opening_hours: "Tu-Fr 09:15-12:00,14:30-19:00; Sa 09:15-12:15,14:00-19:00; Su 09:30-13:00"
+street: Place Saint-Cloud
+housenumber: "6"
+phone: +33 2 33 07 70 03
+opening_hours: Tu-Fr 09:15-12:00,14:30-19:00; Sa 09:15-12:15,14:00-19:00; Su 09:30-13:00
 website: ""

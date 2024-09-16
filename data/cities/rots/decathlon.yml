@@ -1,11 +1,11 @@
 id: 477485572
-type: way
+type: node
 latitude: 49.1967
 longitude: -0.45416
 postcode: "14980"
 city: Rots
-street: "Avenue des Drapeaux"
-housenumber: 
+street: Avenue des Drapeaux
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.decathlon.fr/store-view/magasin-de-sports-caen-rots-0070005700057"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.decathlon.fr/store-view/magasin-de-sports-caen-rots-0070005700057

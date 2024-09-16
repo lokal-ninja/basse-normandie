@@ -1,11 +1,11 @@
 id: 119327673
-type: way
+type: node
 latitude: 49.16645
 longitude: -0.42684
 postcode: "14760"
 city: Bretteville-sur-Odon
-street: "Rue du Long Douet"
-housenumber: 24
-phone: "+33 2 31 06 17 36"
-opening_hours: "Tu-Fr 09:30-19:30; Sa 09:30-18:30"
-website: "https://goutetqualite.fr/"
+street: Rue du Long Douet
+housenumber: "24"
+phone: +33 2 31 06 17 36
+opening_hours: Tu-Fr 09:30-19:30; Sa 09:30-18:30
+website: https://goutetqualite.fr/

@@ -1,11 +1,11 @@
 id: 224880393
-type: way
+type: node
 latitude: 49.17864
 longitude: -0.34905
 postcode: "14000"
 city: Caen
-street: "Les Rives de l'Orne"
-housenumber: 
+street: Les Rives de l'Orne
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

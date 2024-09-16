@@ -1,11 +1,11 @@
 id: 224884259
-type: way
+type: node
 latitude: 49.17751
 longitude: -0.35115
 postcode: "14000"
 city: Caen
-street: "Les Rives de l'Orne"
-housenumber: 
-phone: "+33 2 31 83 83 84"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.newyorker.de/fr"
+street: Les Rives de l'Orne
+housenumber: ""
+phone: +33 2 31 83 83 84
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.newyorker.de/fr

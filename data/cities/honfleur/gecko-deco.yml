@@ -4,8 +4,8 @@ latitude: 49.42218
 longitude: 0.23221
 postcode: "14600"
 city: Honfleur
-street: "Rue Haute"
-housenumber: 25
+street: Rue Haute
+housenumber: "25"
 phone: ""
 opening_hours: ""
-website: "https://www.geckodeco.fr/"
+website: https://www.geckodeco.fr/

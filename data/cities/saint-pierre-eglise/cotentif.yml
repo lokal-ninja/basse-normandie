@@ -1,11 +1,11 @@
 id: 605476634
-type: way
+type: node
 latitude: 49.65921
 longitude: -1.40867
 postcode: "50330"
 city: Saint-Pierre-Église
-street: "Rue du Pavillon"
-housenumber: 
+street: Rue du Pavillon
+housenumber: ""
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:30; Sa 09:00-16:30"
+opening_hours: Tu-Fr 09:00-18:30; Sa 09:00-16:30
 website: ""

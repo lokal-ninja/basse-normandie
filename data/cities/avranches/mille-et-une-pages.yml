@@ -4,8 +4,8 @@ latitude: 48.68591
 longitude: -1.3616
 postcode: "50300"
 city: Avranches
-street: "Rue du Docteur Gilbert"
-housenumber: 3
-phone: "+33 2336 09185"
-opening_hours: "Tu-Th 09:00-12:30,14:00-19:00; Fr-Sa 09:00-19:00"
-website: "http://librairie-1001pages.blogspot.fr"
+street: Rue du Docteur Gilbert
+housenumber: "3"
+phone: +33 2336 09185
+opening_hours: Tu-Th 09:00-12:30,14:00-19:00; Fr-Sa 09:00-19:00
+website: http://librairie-1001pages.blogspot.fr

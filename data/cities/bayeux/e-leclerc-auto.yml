@@ -1,11 +1,11 @@
 id: 911866527
-type: way
+type: node
 latitude: 49.27691
 longitude: -0.71615
 postcode: "14400"
 city: Bayeux
-street: "Boulevard du Six Juin"
-housenumber: 
+street: Boulevard du Six Juin
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

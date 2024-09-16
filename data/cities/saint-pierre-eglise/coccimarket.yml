@@ -4,8 +4,8 @@ latitude: 49.6685
 longitude: -1.40474
 postcode: "50330"
 city: Saint-Pierre-Église
-street: "Place de l'Abbé Saint-Pierre"
-housenumber: 2
-phone: "+33 2 33 54 31 73"
-opening_hours: "Tu-Su 08:00-20:00"
+street: Place de l'Abbé Saint-Pierre
+housenumber: "2"
+phone: +33 2 33 54 31 73
+opening_hours: Tu-Su 08:00-20:00
 website: ""

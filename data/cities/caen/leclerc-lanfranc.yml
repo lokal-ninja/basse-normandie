@@ -1,11 +1,11 @@
 id: 155700112
-type: way
+type: node
 latitude: 49.18598
 longitude: -0.38083
 postcode: "14000"
 city: Caen
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00"
+opening_hours: Mo-Sa 08:30-20:00
 website: ""

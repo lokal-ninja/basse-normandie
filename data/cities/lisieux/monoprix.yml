@@ -1,11 +1,11 @@
 id: 130312424
-type: way
+type: node
 latitude: 49.14511
 longitude: 0.22546
 postcode: "14100"
 city: Lisieux
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:30"
-website: "https://www.monoprix.fr/1196.html"
+opening_hours: Mo-Sa 08:30-20:30
+website: https://www.monoprix.fr/1196.html

@@ -1,11 +1,11 @@
 id: 124979107
-type: way
+type: node
 latitude: 48.42925
 longitude: 0.08764
 postcode: "61000"
 city: Alençon
-street: "Grande Rue"
-housenumber: 89
+street: Grande Rue
+housenumber: "89"
 phone: "0233329470"
-opening_hours: "mo-su 9:00 19:00"
+opening_hours: mo-su 9:00 19:00
 website: ""

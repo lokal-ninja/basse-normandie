@@ -1,11 +1,11 @@
 id: 748650638
-type: way
+type: node
 latitude: 49.63432
 longitude: -1.5896
 postcode: "50110"
 city: Tourlaville
-street: "Boulevard de l'Est"
-housenumber: 
+street: Boulevard de l'Est
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:30"
+opening_hours: Mo-Sa 09:30-19:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.179
 longitude: -0.35727
 postcode: "14000"
 city: Caen
-street: "Rue Saint-Jean"
-housenumber: 158
+street: Rue Saint-Jean
+housenumber: "158"
 phone: "+33231991409"
-opening_hours: "Mo-Sa 10:00-12:30, 14:00-19:00"
-website: "https://caen.fitnessboutique.fr/"
+opening_hours: Mo-Sa 10:00-12:30, 14:00-19:00
+website: https://caen.fitnessboutique.fr/

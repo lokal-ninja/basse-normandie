@@ -1,11 +1,11 @@
 id: 135522989
-type: way
+type: node
 latitude: 48.83613
 longitude: -1.60385
 postcode: "50400"
 city: Granville
-street: "Rue du Port"
-housenumber: 64
-phone: "+33 2 33 90 46 76"
+street: Rue du Port
+housenumber: "64"
+phone: +33 2 33 90 46 76
 opening_hours: ""
-website: "https://www.poissonnerie-auptitmareyeur.com/"
+website: https://www.poissonnerie-auptitmareyeur.com/

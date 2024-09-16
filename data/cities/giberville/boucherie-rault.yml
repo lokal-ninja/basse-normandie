@@ -4,8 +4,8 @@ latitude: 49.18247
 longitude: -0.28315
 postcode: "14730"
 city: Giberville
-street: "Rue Pasteur"
-housenumber: 11
-phone: "+33 2 31 72 51 13"
-opening_hours: "Tu-Sa 08:00-14:00,15:30-19:30; Su 09:30-12:00; Mo off"
-website: "https://boucherie-rault-giberville.fr/"
+street: Rue Pasteur
+housenumber: "11"
+phone: +33 2 31 72 51 13
+opening_hours: Tu-Sa 08:00-14:00,15:30-19:30; Su 09:30-12:00; Mo off
+website: https://boucherie-rault-giberville.fr/

@@ -1,11 +1,11 @@
 id: 453852319
-type: way
+type: node
 latitude: 49.22718
 longitude: -0.36844
 postcode: "14112"
 city: Biéville-Beuville
-street: "Boulevard du Suffolk"
-housenumber: 4
-phone: "+33 2 31 83 83 00"
+street: Boulevard du Suffolk
+housenumber: "4"
+phone: +33 2 31 83 83 00
 opening_hours: ""
-website: "https://yamaha-caen.fr/"
+website: https://yamaha-caen.fr/

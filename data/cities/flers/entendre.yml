@@ -4,8 +4,8 @@ latitude: 48.73193
 longitude: -0.58221
 postcode: "61100"
 city: Flers
-street: "Rue des Meletières"
-housenumber: 110
-phone: "+33 2 33 96 37 64"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00"
-website: "https://www.entendre-flers.fr"
+street: Rue des Meletières
+housenumber: "110"
+phone: +33 2 33 96 37 64
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00
+website: https://www.entendre-flers.fr

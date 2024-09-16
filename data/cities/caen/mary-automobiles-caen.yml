@@ -1,11 +1,11 @@
 id: 155640739
-type: way
+type: node
 latitude: 49.17941
 longitude: -0.38948
 postcode: "14000"
 city: Caen
-street: "Boulevard André Detolle"
-housenumber: 36
-phone: "+33 2 31 299 299"
+street: Boulevard André Detolle
+housenumber: "36"
+phone: +33 2 31 299 299
 opening_hours: ""
-website: "http://www.groupemary.fr/"
+website: http://www.groupemary.fr/

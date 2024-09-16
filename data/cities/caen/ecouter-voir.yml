@@ -1,11 +1,11 @@
 id: 889168998
-type: way
+type: node
 latitude: 49.20918
 longitude: -0.36422
 postcode: "14000"
 city: Caen
-street: "Boulevard Maréchal Juin"
-housenumber: 1
-phone: "+33 2 31 43 56 58"
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://www.ecoutervoir.fr/trouver-un-magasin/caen-cote-de-nacre/"
+street: Boulevard Maréchal Juin
+housenumber: "1"
+phone: +33 2 31 43 56 58
+opening_hours: Mo-Sa 09:30-19:30
+website: https://www.ecoutervoir.fr/trouver-un-magasin/caen-cote-de-nacre/

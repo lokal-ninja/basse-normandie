@@ -1,11 +1,11 @@
 id: 205050520
-type: way
+type: node
 latitude: 49.16975
 longitude: -0.3209
 postcode: "14120"
 city: Mondeville
-street: "Rue Michel Tournier"
-housenumber: 8
+street: Rue Michel Tournier
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Su 10:00-19:00"
-website: "https://www.stokomani.fr/magasins/mondeville"
+opening_hours: Mo-Su 10:00-19:00
+website: https://www.stokomani.fr/magasins/mondeville

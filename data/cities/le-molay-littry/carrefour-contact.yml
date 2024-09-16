@@ -1,11 +1,11 @@
 id: 732579066
-type: way
+type: node
 latitude: 49.24148
 longitude: -0.87221
 postcode: "14330"
 city: Le Molay-Littry
-street: "Route de Balleroy"
-housenumber: 
-phone: "+33 2 31 21 34 69"
-opening_hours: "Mo-Sa 08:00-20:00; Su 08:30-12:30"
-website: "https://www.carrefour.fr/magasin/contact-le-molay-littry"
+street: Route de Balleroy
+housenumber: ""
+phone: +33 2 31 21 34 69
+opening_hours: Mo-Sa 08:00-20:00; Su 08:30-12:30
+website: https://www.carrefour.fr/magasin/contact-le-molay-littry

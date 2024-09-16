@@ -1,11 +1,11 @@
 id: 489435063
-type: way
+type: node
 latitude: 49.01629
 longitude: 0.15432
 postcode: "14140"
 city: Livarot
-street: "Zone artisanale nord"
-housenumber: 
+street: Zone artisanale nord
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

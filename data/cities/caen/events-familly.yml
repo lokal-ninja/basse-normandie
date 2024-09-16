@@ -1,11 +1,11 @@
 id: 224892878
-type: way
+type: node
 latitude: 49.17755
 longitude: -0.35189
 postcode: "14000"
 city: Caen
-street: "Quai Amiral Hamelin"
+street: Quai Amiral Hamelin
 housenumber: 18-20
-phone: "+33 2 31 52 91 79"
-opening_hours: "Mo-Th 10:00-19:00; Fr,Sa 10:00-19:30"
-website: "https://www.events-family.com"
+phone: +33 2 31 52 91 79
+opening_hours: Mo-Th 10:00-19:00; Fr,Sa 10:00-19:30
+website: https://www.events-family.com

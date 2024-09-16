@@ -1,11 +1,11 @@
 id: 303939228
-type: way
+type: node
 latitude: 49.15928
 longitude: -0.30212
 postcode: "14120"
 city: Mondeville
-street: "Rue Joseph Jacquart"
-housenumber: 400
-phone: "+33 2 31 35 24 30"
-opening_hours: "Mo-Sa 10:00-12:30,14:00-19:00"
-website: "https://www.home-design.schmidt/"
+street: Rue Joseph Jacquart
+housenumber: "400"
+phone: +33 2 31 35 24 30
+opening_hours: Mo-Sa 10:00-12:30,14:00-19:00
+website: https://www.home-design.schmidt/

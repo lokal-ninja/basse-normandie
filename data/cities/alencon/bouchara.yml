@@ -1,11 +1,11 @@
 id: 124979787
-type: way
+type: node
 latitude: 48.43031
 longitude: 0.08582
 postcode: "61000"
 city: Alençon
-street: "Rue aux Sieurs"
-housenumber: 88
+street: Rue aux Sieurs
+housenumber: "88"
 phone: ""
 opening_hours: ""
 website: ""

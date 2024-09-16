@@ -4,8 +4,8 @@ latitude: 49.18338
 longitude: -0.37007
 postcode: "14000"
 city: Caen
-street: "Place Saint-Martin"
-housenumber: 15
+street: Place Saint-Martin
+housenumber: "15"
 phone: ""
-opening_hours: "Fr,Sa 10:00-12:00,14:00-19:00; Su 15:00-18:00"
+opening_hours: Fr,Sa 10:00-12:00,14:00-19:00; Su 15:00-18:00
 website: ""

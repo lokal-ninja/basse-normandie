@@ -1,11 +1,11 @@
 id: 112403630
-type: way
+type: node
 latitude: 49.2863
 longitude: 0.18561
 postcode: "14130"
 city: Pont-l'Évêque
-street: "Rue Saint-Michel"
-housenumber: 17
-phone: "+33 2 31 64 06 25"
-opening_hours: "Mo-Sa 08:30-13:00,15:00-19:30; Su 08:30-13:00"
-website: "https://www.facebook.com/Poissonnerie-lEcume-Pont-lEv%C3%AAque-2207781706141000/"
+street: Rue Saint-Michel
+housenumber: "17"
+phone: +33 2 31 64 06 25
+opening_hours: Mo-Sa 08:30-13:00,15:00-19:30; Su 08:30-13:00
+website: https://www.facebook.com/Poissonnerie-lEcume-Pont-lEv%C3%AAque-2207781706141000/

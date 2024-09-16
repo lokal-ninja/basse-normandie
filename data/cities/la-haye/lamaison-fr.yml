@@ -1,11 +1,11 @@
 id: 207054806
-type: way
+type: node
 latitude: 49.29319
 longitude: -1.55122
 postcode: "50250"
 city: La Haye
-street: "Avenue de la Cote des Isles"
-housenumber: 27
-phone: "+332 33 76 81 00"
-opening_hours: "Mo-Sa 09:00-12:15,14:00-19:00"
-website: "https://www.lamaison.fr/stores/la-haye-lamaison-fr#49.293071,-1.551561"
+street: Avenue de la Cote des Isles
+housenumber: "27"
+phone: +332 33 76 81 00
+opening_hours: Mo-Sa 09:00-12:15,14:00-19:00
+website: https://www.lamaison.fr/stores/la-haye-lamaison-fr#49.293071,-1.551561

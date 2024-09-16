@@ -1,11 +1,11 @@
 id: 228138978
-type: way
+type: node
 latitude: 49.29703
 longitude: -0.37507
 postcode: "14440"
 city: Douvres-la-Délivrande
-street: "Rue du Général de Gaulle"
-housenumber: 4
+street: Rue du Général de Gaulle
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

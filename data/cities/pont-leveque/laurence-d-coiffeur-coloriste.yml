@@ -4,8 +4,9 @@ latitude: 49.28777
 longitude: 0.18799
 postcode: "14130"
 city: Pont-l'Évêque
-street: "Rue Hamelin"
-housenumber: 25
-phone: "+33 2 31 64 07 86"
-opening_hours: "Mo 09:00-13:00, Tu-Th 09:00-12:00,14:00-18:30, Fr  08:30-19:00, Sa 08:30-18:00"
+street: Rue Hamelin
+housenumber: "25"
+phone: +33 2 31 64 07 86
+opening_hours: Mo 09:00-13:00, Tu-Th 09:00-12:00,14:00-18:30, Fr  08:30-19:00, Sa
+    08:30-18:00
 website: ""

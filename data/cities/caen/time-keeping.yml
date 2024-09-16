@@ -5,7 +5,7 @@ longitude: -0.37414
 postcode: "14000"
 city: Caen
 street: ""
-housenumber: 41
+housenumber: "41"
 phone: "+33231402747"
-opening_hours: "Mo,Tu,Th,Fr 14:00-18:30; Sa 14:30-18:00"
-website: "https://timekeeping.fr/"
+opening_hours: Mo,Tu,Th,Fr 14:00-18:30; Sa 14:30-18:00
+website: https://timekeeping.fr/

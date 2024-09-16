@@ -1,11 +1,12 @@
 id: 261700475
-type: way
+type: node
 latitude: 48.58991
 longitude: -0.36525
 postcode: "61600"
 city: La Ferté-Macé
-street: "Rue des Tisserands"
-housenumber: 
-phone: "+33 2 33 38 56 53"
-opening_hours: "Mo 14:30-19:30; Tu-Fr 09:30-13:00,14:30-19:30; Sa 09:30-13:00,14:30-19:00; Su 10:00-12:30"
-website: "http://www.natureandaines.fr/"
+street: Rue des Tisserands
+housenumber: ""
+phone: +33 2 33 38 56 53
+opening_hours: Mo 14:30-19:30; Tu-Fr 09:30-13:00,14:30-19:30; Sa 09:30-13:00,14:30-19:00;
+    Su 10:00-12:30
+website: http://www.natureandaines.fr/

@@ -4,8 +4,8 @@ latitude: 49.27664
 longitude: -0.70081
 postcode: "14400"
 city: Bayeux
-street: "Rue Saint-Jean"
-housenumber: 6
-phone: "+33 2 31 22 27 86"
-opening_hours: "Mo-Sa 10:15-12:30,15:00-19:00"
+street: Rue Saint-Jean
+housenumber: "6"
+phone: +33 2 31 22 27 86
+opening_hours: Mo-Sa 10:15-12:30,15:00-19:00
 website: ""

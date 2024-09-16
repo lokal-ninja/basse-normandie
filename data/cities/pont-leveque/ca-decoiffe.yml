@@ -1,11 +1,11 @@
 id: 932349577
-type: way
+type: node
 latitude: 49.28575
 longitude: 0.18471
 postcode: "14130"
 city: Pont-l'Évêque
-street: "Rue Saint-Michel"
-housenumber: 32
+street: Rue Saint-Michel
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

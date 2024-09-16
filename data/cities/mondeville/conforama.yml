@@ -1,11 +1,11 @@
 id: 144783560
-type: way
+type: node
 latitude: 49.16402
 longitude: -0.29245
 postcode: "14120"
 city: Mondeville
-street: "Centre Commercial Mondeville 2"
-housenumber: 
+street: Centre Commercial Mondeville 2
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:30"
-website: "https://www.conforama.fr/magasins-conforama/caen?lat=49.1637478&long=-0.2927036&name=CAEN"
+opening_hours: Mo-Sa 10:00-19:30
+website: https://www.conforama.fr/magasins-conforama/caen?lat=49.1637478&long=-0.2927036&name=CAEN

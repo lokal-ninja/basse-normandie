@@ -1,11 +1,11 @@
 id: 112403934
-type: way
+type: node
 latitude: 49.28625
 longitude: 0.18547
 postcode: "14130"
 city: Pont-l'Évêque
-street: "Rue Saint-Michel"
-housenumber: 19
-phone: "+33 2 31 64 06 06"
-opening_hours: "Fr-Tu 06:30-19:30"
-website: "https://www.facebook.com/Inspiration-Gourmande-Maison-Duhamel-370621686641280/"
+street: Rue Saint-Michel
+housenumber: "19"
+phone: +33 2 31 64 06 06
+opening_hours: Fr-Tu 06:30-19:30
+website: https://www.facebook.com/Inspiration-Gourmande-Maison-Duhamel-370621686641280/

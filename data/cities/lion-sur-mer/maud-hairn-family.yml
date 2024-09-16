@@ -1,11 +1,11 @@
 id: 139724320
-type: way
+type: node
 latitude: 49.30227
 longitude: -0.31534
 postcode: "14780"
 city: Lion-sur-Mer
-street: "Rue Edmond Bellin"
-housenumber: 43
-phone: "+33 9 87 00 12 78"
+street: Rue Edmond Bellin
+housenumber: "43"
+phone: +33 9 87 00 12 78
 opening_hours: ""
 website: ""

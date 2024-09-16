@@ -4,8 +4,8 @@ latitude: 48.84373
 longitude: 0.0325
 postcode: "61160"
 city: Trun
-street: "Place du Canada"
-housenumber: 49
-phone: "+33 2 33 36 70 09"
-opening_hours: "Tu-Su 06:45-19:30"
+street: Place du Canada
+housenumber: "49"
+phone: +33 2 33 36 70 09
+opening_hours: Tu-Su 06:45-19:30
 website: ""

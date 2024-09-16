@@ -1,11 +1,11 @@
 id: 153911185
-type: way
+type: node
 latitude: 49.11758
 longitude: -1.09577
 postcode: "50000"
 city: Saint-Lô
-street: "Boulevard de la Dollée"
+street: Boulevard de la Dollée
 housenumber: 1 bis
-phone: "+33 2 33 57 54 91"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00"
-website: "https://www.labicyclette-stlo.fr"
+phone: +33 2 33 57 54 91
+opening_hours: Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00
+website: https://www.labicyclette-stlo.fr

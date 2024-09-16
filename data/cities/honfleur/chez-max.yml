@@ -1,11 +1,11 @@
 id: 827808959
-type: way
+type: node
 latitude: 49.41395
 longitude: 0.24868
 postcode: "14600"
 city: Honfleur
-street: "Cours Jean de Vienne"
-housenumber: 9173
+street: Cours Jean de Vienne
+housenumber: "9173"
 phone: ""
 opening_hours: ""
 website: ""

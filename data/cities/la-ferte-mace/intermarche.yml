@@ -1,11 +1,11 @@
 id: 172175326
-type: way
+type: node
 latitude: 48.58747
 longitude: -0.36714
 postcode: "61600"
 city: La Ferté-Macé
-street: "Boulevard de la Forêt d'Andaine"
-housenumber: 
-phone: "+33 233301400"
-opening_hours: "Mo-Sa 09:00-19:15"
-website: "https://www.intermarche.com/magasins/04259/la-ferte-mace-61600/infos-pratiques"
+street: Boulevard de la Forêt d'Andaine
+housenumber: ""
+phone: +33 233301400
+opening_hours: Mo-Sa 09:00-19:15
+website: https://www.intermarche.com/magasins/04259/la-ferte-mace-61600/infos-pratiques

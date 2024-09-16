@@ -1,11 +1,11 @@
 id: 135536187
-type: way
+type: node
 latitude: 48.67973
 longitude: -1.3412
 postcode: "50300"
 city: Avranches
-street: "Rue de la Division Leclerc"
-housenumber: 
+street: Rue de la Division Leclerc
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

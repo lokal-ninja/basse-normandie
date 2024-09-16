@@ -1,11 +1,11 @@
 id: 139686118
-type: way
+type: node
 latitude: 49.6028
 longitude: -1.66229
 postcode: "50690"
 city: Martinvast
-street: "Rue Charles Delauney"
-housenumber: 15
-phone: "+33 2 33 93 93 03"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.biocoop-lerabio.fr/"
+street: Rue Charles Delauney
+housenumber: "15"
+phone: +33 2 33 93 93 03
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.biocoop-lerabio.fr/

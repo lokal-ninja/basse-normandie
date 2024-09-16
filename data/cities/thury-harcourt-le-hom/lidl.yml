@@ -1,11 +1,11 @@
 id: 278103568
-type: way
+type: node
 latitude: 48.98004
 longitude: -0.4703
 postcode: "14220"
 city: Thury-Harcourt-le-Hom
-street: "Rue d'Esson"
-housenumber: 11
+street: Rue d'Esson
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://www.lidl.fr/s/fr-FR/supermarch%C3%A9s/thury-harcourt/rue-de-falaise/"
+website: https://www.lidl.fr/s/fr-FR/supermarch%C3%A9s/thury-harcourt/rue-de-falaise/

@@ -1,11 +1,11 @@
 id: 112405824
-type: way
+type: node
 latitude: 49.28617
 longitude: 0.1857
 postcode: "14130"
 city: Pont-l'Évêque
-street: "Rue Saint-Michel"
-housenumber: 18
-phone: "+33 2 31 64 02 10"
-opening_hours: "We-Sa 08:00-19:30; Su 08:30-13:30"
+street: Rue Saint-Michel
+housenumber: "18"
+phone: +33 2 31 64 02 10
+opening_hours: We-Sa 08:00-19:30; Su 08:30-13:30
 website: ""

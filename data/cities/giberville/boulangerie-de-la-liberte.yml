@@ -1,11 +1,11 @@
 id: 419761671
-type: way
+type: node
 latitude: 49.18608
 longitude: -0.28697
 postcode: "14730"
 city: Giberville
-street: "Rue de la Liberté"
-housenumber: 36
-phone: "+33 2 31348766"
-opening_hours: "Mo-Sa 06:30-13:30, 15:00-19:30"
+street: Rue de la Liberté
+housenumber: "36"
+phone: +33 2 31348766
+opening_hours: Mo-Sa 06:30-13:30, 15:00-19:30
 website: ""

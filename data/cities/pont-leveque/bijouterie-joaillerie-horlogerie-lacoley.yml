@@ -4,8 +4,8 @@ latitude: 49.28671
 longitude: 0.18658
 postcode: "14130"
 city: Pont-l'Évêque
-street: "Place Jean Bureau"
-housenumber: 5
-phone: "+33 2 31 64 03 71"
-opening_hours: "Mo,We-Sa 09:30-13:00,14:15-19:15"
-website: "http://www.bijouterielacoley.fr/"
+street: Place Jean Bureau
+housenumber: "5"
+phone: +33 2 31 64 03 71
+opening_hours: Mo,We-Sa 09:30-13:00,14:15-19:15
+website: http://www.bijouterielacoley.fr/

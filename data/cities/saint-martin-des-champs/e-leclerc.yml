@@ -1,11 +1,11 @@
 id: 135533221
-type: way
+type: node
 latitude: 48.67969
 longitude: -1.34052
 postcode: "50300"
 city: Saint-Martin-des-Champs
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -5,7 +5,7 @@ longitude: -0.37353
 postcode: "14000"
 city: Caen
 street: ""
-housenumber: 38
+housenumber: "38"
 phone: "+33231089753"
-opening_hours: "Tu-Sa 10:00-13:00,14:00-18:00"
-website: "https://www.cmpouest.com/magasins/caen/"
+opening_hours: Tu-Sa 10:00-13:00,14:00-18:00
+website: https://www.cmpouest.com/magasins/caen/

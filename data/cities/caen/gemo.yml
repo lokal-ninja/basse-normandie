@@ -1,11 +1,11 @@
 id: 889169014
-type: way
+type: node
 latitude: 49.20981
 longitude: -0.36512
 postcode: "14000"
 city: Caen
-street: "Boulevard Maréchal Juin"
-housenumber: 1
-phone: "+33 2 31 44 47 40"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.gemo.fr/magasin/GEMO_CAEN_chaussures_et_vetements/GEMO_5541"
+street: Boulevard Maréchal Juin
+housenumber: "1"
+phone: +33 2 31 44 47 40
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.gemo.fr/magasin/GEMO_CAEN_chaussures_et_vetements/GEMO_5541

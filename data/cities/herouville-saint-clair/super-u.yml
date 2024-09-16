@@ -1,11 +1,11 @@
 id: 164353449
-type: way
+type: node
 latitude: 49.18879
 longitude: -0.33523
 postcode: "14200"
 city: Hérouville-Saint-Clair
-street: "Boulevard de la Paix"
-housenumber: 31
-phone: "+33 2 31 06 18 40"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-12:45"
-website: "https://www.magasins-u.com/magasin/superu-herouvillesaintclair"
+street: Boulevard de la Paix
+housenumber: "31"
+phone: +33 2 31 06 18 40
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-12:45
+website: https://www.magasins-u.com/magasin/superu-herouvillesaintclair

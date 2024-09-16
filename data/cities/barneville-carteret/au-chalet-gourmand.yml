@@ -1,11 +1,11 @@
 id: 154056662
-type: way
+type: node
 latitude: 49.38592
 longitude: -1.75278
 postcode: "50270"
 city: Barneville-Carteret
-street: "Rue du Pont Rose"
-housenumber: 23
-phone: "+33 2 33 04 61 40"
+street: Rue du Pont Rose
+housenumber: "23"
+phone: +33 2 33 04 61 40
 opening_hours: ""
-website: "https://www.au-chalet-gourmand.com/"
+website: https://www.au-chalet-gourmand.com/

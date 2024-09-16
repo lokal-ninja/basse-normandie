@@ -1,11 +1,11 @@
 id: 178318082
-type: way
+type: node
 latitude: 48.89006
 longitude: -0.12436
 postcode: "14700"
 city: Fresné-la-Mère
-street: "Route de Trun"
-housenumber: 8
+street: Route de Trun
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

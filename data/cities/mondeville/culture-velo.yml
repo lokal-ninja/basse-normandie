@@ -1,11 +1,11 @@
 id: 304196000
-type: way
+type: node
 latitude: 49.16066
 longitude: -0.30017
 postcode: "14120"
 city: Mondeville
-street: "Rue Joseph Jacquard"
-housenumber: 30
+street: Rue Joseph Jacquard
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.culturevelo.com/-caen-"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.culturevelo.com/-caen-

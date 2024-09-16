@@ -1,11 +1,11 @@
 id: 304196013
-type: way
+type: node
 latitude: 49.16018
 longitude: -0.29974
 postcode: "14120"
 city: Mondeville
-street: "Rue Joseph Jacquard"
-housenumber: 
-phone: "+33 2 31 52 16 74"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-19:30"
-website: "https://www.t-a-o.com/"
+street: Rue Joseph Jacquard
+housenumber: ""
+phone: +33 2 31 52 16 74
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-19:30
+website: https://www.t-a-o.com/

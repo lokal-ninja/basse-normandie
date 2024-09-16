@@ -1,11 +1,11 @@
 id: 224884263
-type: way
+type: node
 latitude: 49.17741
 longitude: -0.35143
 postcode: "14000"
 city: Caen
-street: "Les Rives de l'Orne"
-housenumber: 
-phone: "+33 2 31 34 40 95"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.calzedonia.com/fr"
+street: Les Rives de l'Orne
+housenumber: ""
+phone: +33 2 31 34 40 95
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.calzedonia.com/fr

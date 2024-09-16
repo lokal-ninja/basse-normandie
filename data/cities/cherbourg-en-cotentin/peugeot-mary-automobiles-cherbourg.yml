@@ -1,11 +1,11 @@
 id: 112203103
-type: way
+type: node
 latitude: 49.6353
 longitude: -1.58337
 postcode: "50110"
 city: Cherbourg-en-Cotentin
-street: "Rue des Pommiers"
-housenumber: 129
-phone: "+33 2 33 88 48 00"
-opening_hours: "Mo-Th 08:30-12:30,13:30-17:00; Fr 08:30-12:30, 13:30-16:30"
-website: "https://concessions.peugeot.fr/cherbourg/"
+street: Rue des Pommiers
+housenumber: "129"
+phone: +33 2 33 88 48 00
+opening_hours: Mo-Th 08:30-12:30,13:30-17:00; Fr 08:30-12:30, 13:30-16:30
+website: https://concessions.peugeot.fr/cherbourg/

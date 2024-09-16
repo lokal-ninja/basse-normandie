@@ -4,8 +4,8 @@ latitude: 48.43168
 longitude: 0.07011
 postcode: "61000"
 city: Alençon
-street: "Rue André Mazeline"
-housenumber: 16
-phone: "+33 2 33 26 81 48"
-opening_hours: "Tu-Fr 09:30-19:00; Sa 09:30-18:00"
-website: "https://www.magasin-bio-alencon.fr/"
+street: Rue André Mazeline
+housenumber: "16"
+phone: +33 2 33 26 81 48
+opening_hours: Tu-Fr 09:30-19:00; Sa 09:30-18:00
+website: https://www.magasin-bio-alencon.fr/

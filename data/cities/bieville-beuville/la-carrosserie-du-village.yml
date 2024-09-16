@@ -1,11 +1,11 @@
 id: 109717712
-type: way
+type: node
 latitude: 49.22714
 longitude: -0.36552
 postcode: "14112"
 city: Biéville-Beuville
-street: "Boulevard du Suffolk"
-housenumber: 9
-phone: "+33 2 31 43 04 30"
-opening_hours: "Mo-Fr 08:00-12:00,13:30-17:30"
+street: Boulevard du Suffolk
+housenumber: "9"
+phone: +33 2 31 43 04 30
+opening_hours: Mo-Fr 08:00-12:00,13:30-17:30
 website: ""

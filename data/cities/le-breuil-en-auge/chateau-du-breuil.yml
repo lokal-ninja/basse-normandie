@@ -1,11 +1,11 @@
 id: 249234182
-type: way
+type: node
 latitude: 49.23115
 longitude: 0.21351
 postcode: "14130"
 city: Le Breuil-en-Auge
 street: ""
-housenumber: 
-phone: "+33 2 31 65 60 00"
+housenumber: ""
+phone: +33 2 31 65 60 00
 opening_hours: ""
-website: "http://www.chateau-breuil.com/"
+website: http://www.chateau-breuil.com/

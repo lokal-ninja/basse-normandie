@@ -4,8 +4,8 @@ latitude: 49.27592
 longitude: -0.70568
 postcode: "14400"
 city: Bayeux
-street: "Rue de la Maîtrise"
-housenumber: 16
+street: Rue de la Maîtrise
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 15:00-18:00; Sa,Su off"
-website: "https://www.inohop.com/"
+opening_hours: Mo-Fr 15:00-18:00; Sa,Su off
+website: https://www.inohop.com/

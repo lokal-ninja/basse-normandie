@@ -1,11 +1,11 @@
 id: 889168987
-type: way
+type: node
 latitude: 49.20922
 longitude: -0.36457
 postcode: "14000"
 city: Caen
-street: "Boulevard Maréchal Juin"
-housenumber: 1
-phone: "+33 2 31 47 34 95"
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://misterminit.eu/fr_fr/boutiques/mister-minit-caen-carrefour"
+street: Boulevard Maréchal Juin
+housenumber: "1"
+phone: +33 2 31 47 34 95
+opening_hours: Mo-Sa 09:30-19:30
+website: https://misterminit.eu/fr_fr/boutiques/mister-minit-caen-carrefour

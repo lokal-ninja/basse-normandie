@@ -1,11 +1,11 @@
 id: 889168986
-type: way
+type: node
 latitude: 49.20921
 longitude: -0.36467
 postcode: "14000"
 city: Caen
-street: "Boulevard Maréchal Juin"
-housenumber: 1
-phone: "+33 2 31 95 72 36"
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://www.colinvautiercoiffeur.fr/coiffeur-caen-cote-de-nacre/"
+street: Boulevard Maréchal Juin
+housenumber: "1"
+phone: +33 2 31 95 72 36
+opening_hours: Mo-Sa 09:30-19:30
+website: https://www.colinvautiercoiffeur.fr/coiffeur-caen-cote-de-nacre/

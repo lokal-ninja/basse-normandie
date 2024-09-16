@@ -4,8 +4,8 @@ latitude: 49.17806
 longitude: -0.62353
 postcode: "14250"
 city: Tilly-sur-Seulles
-street: "Chemin Cour Péron"
-housenumber: 3
-phone: "+33 2 31 80 87 88"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/contact-tilly-sur-seulles"
+street: Chemin Cour Péron
+housenumber: "3"
+phone: +33 2 31 80 87 88
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-13:00
+website: https://www.carrefour.fr/magasin/contact-tilly-sur-seulles

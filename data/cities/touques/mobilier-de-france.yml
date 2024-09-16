@@ -4,8 +4,8 @@ latitude: 49.34391
 longitude: 0.09932
 postcode: "14800"
 city: Touques
-street: "Rue des Anciennes Salines"
-housenumber: 2
-phone: "+33 2 31 89 01 46"
-opening_hours: "Mo-Fr 10:00-12:30,14:30-19:00; Sa 10:00-19:00"
-website: "https://www.mobilierdefrance.com/"
+street: Rue des Anciennes Salines
+housenumber: "2"
+phone: +33 2 31 89 01 46
+opening_hours: Mo-Fr 10:00-12:30,14:30-19:00; Sa 10:00-19:00
+website: https://www.mobilierdefrance.com/

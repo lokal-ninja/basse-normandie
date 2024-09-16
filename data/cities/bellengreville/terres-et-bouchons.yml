@@ -4,8 +4,9 @@ latitude: 49.12541
 longitude: -0.20964
 postcode: "14370"
 city: Bellengreville
-street: "Place Saint-Clair"
-housenumber: 13
-phone: "+33 2 49 88 23 16"
-opening_hours: "Tu 10:00-12:30,15:00-19:00; We-Fr 10:00-12:30,15:00-19:30; Sa 10:00-13:00,15:00-20:00; Su 10:00-12:30; PH off"
-website: "https://www.terres-bouchons.fr"
+street: Place Saint-Clair
+housenumber: "13"
+phone: +33 2 49 88 23 16
+opening_hours: Tu 10:00-12:30,15:00-19:00; We-Fr 10:00-12:30,15:00-19:30; Sa 10:00-13:00,15:00-20:00;
+    Su 10:00-12:30; PH off
+website: https://www.terres-bouchons.fr

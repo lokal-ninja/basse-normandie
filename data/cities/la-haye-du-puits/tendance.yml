@@ -1,11 +1,11 @@
 id: 198498335
-type: way
+type: node
 latitude: 49.29025
 longitude: -1.54304
 postcode: "50250"
 city: La Haye-du-Puits
-street: "Rue du Docteur Callégari"
-housenumber: 2
-phone: "+33 2 33 07 29 83"
-opening_hours: "Mo 14:00-18:00; Tu-Sa 9:00-12:30,14:00-19:00"
-website: "https://boutiques-tendance.fr/"
+street: Rue du Docteur Callégari
+housenumber: "2"
+phone: +33 2 33 07 29 83
+opening_hours: Mo 14:00-18:00; Tu-Sa 9:00-12:30,14:00-19:00
+website: https://boutiques-tendance.fr/

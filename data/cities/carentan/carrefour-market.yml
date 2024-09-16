@@ -1,11 +1,11 @@
 id: 154020657
-type: way
+type: node
 latitude: 49.30945
 longitude: -1.25602
 postcode: "50500"
 city: Carentan
-street: "Route de Saint-Côme"
-housenumber: 
+street: Route de Saint-Côme
+housenumber: ""
 phone: "+33233717070"
-opening_hours: "Mo-Th, Sa 08:30-19:30; Fr 08:30-20:00; Su 09:00-12:30"
-website: "https://www.carrefour.fr/magasin/market-carentan-les-marais"
+opening_hours: Mo-Th, Sa 08:30-19:30; Fr 08:30-20:00; Su 09:00-12:30
+website: https://www.carrefour.fr/magasin/market-carentan-les-marais

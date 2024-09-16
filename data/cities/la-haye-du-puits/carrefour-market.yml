@@ -1,11 +1,11 @@
 id: 198498342
-type: way
+type: node
 latitude: 49.28952
 longitude: -1.54464
 postcode: "50250"
 city: La Haye-du-Puits
-street: "Place du Général de Gaulle"
-housenumber: 19
-phone: "+332 33 46 00 55"
-opening_hours: "Mo-Sa 08:30-19:30; Su 09:00-12:00"
-website: "https://www.carrefour.fr/magasin/market-la-haye-du-puits"
+street: Place du Général de Gaulle
+housenumber: "19"
+phone: +332 33 46 00 55
+opening_hours: Mo-Sa 08:30-19:30; Su 09:00-12:00
+website: https://www.carrefour.fr/magasin/market-la-haye-du-puits

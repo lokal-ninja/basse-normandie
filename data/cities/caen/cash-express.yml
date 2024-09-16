@@ -4,8 +4,8 @@ latitude: 49.18299
 longitude: -0.36063
 postcode: "14000"
 city: Caen
-street: "Rue Saint-Jean"
-housenumber: 10
-phone: "+33 2 31 79 28 32"
-opening_hours: ""
-website: "https://www.cashexpress.fr/magasin-caen,398.html"
+street: Rue Saint-Jean
+housenumber: "10"
+phone: +33 2 31 79 28 32
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:00-13:00,14:00-19:00
+website: https://www.cashexpress.fr/magasin-caen,398.html

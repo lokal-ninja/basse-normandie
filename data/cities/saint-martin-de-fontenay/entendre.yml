@@ -4,8 +4,8 @@ latitude: 49.11424
 longitude: -0.37516
 postcode: "14320"
 city: Saint-Martin-de-Fontenay
-street: "Rue du Clos Saint-Joseph"
-housenumber: 2
-phone: "+33 2 49 88 07 60"
-opening_hours: "Mo-Fr 09:00-12:00, 14:00-18:00"
-website: "https://www.entendre-saint-martin-de-fontenay.fr"
+street: Rue du Clos Saint-Joseph
+housenumber: "2"
+phone: +33 2 49 88 07 60
+opening_hours: Mo-Fr 09:00-12:00, 14:00-18:00
+website: https://www.entendre-saint-martin-de-fontenay.fr

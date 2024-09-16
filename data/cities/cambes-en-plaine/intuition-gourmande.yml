@@ -4,8 +4,8 @@ latitude: 49.23215
 longitude: -0.3851
 postcode: "14610"
 city: Cambes-en-Plaine
-street: "Rue du Bourg"
-housenumber: 2
-phone: "+33 2 31 58 12 21"
-opening_hours: "Mo,Tu,Th-Sa 08:00-12:30,15:00-17:30; Su 08:00-12:30"
+street: Rue du Bourg
+housenumber: "2"
+phone: +33 2 31 58 12 21
+opening_hours: Mo,Tu,Th-Sa 08:00-12:30,15:00-17:30; Su 08:00-12:30
 website: ""

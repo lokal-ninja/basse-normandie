@@ -1,11 +1,11 @@
 id: 228068312
-type: way
+type: node
 latitude: 49.55124
 longitude: -1.5659
 postcode: "50700"
 city: Brix
-street: "Rue Pierre de Belleville"
-housenumber: 19
-phone: "+33 2 33 52 31 06"
-opening_hours: "Tu-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.lapassiondu2roues.com/"
+street: Rue Pierre de Belleville
+housenumber: "19"
+phone: +33 2 33 52 31 06
+opening_hours: Tu-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.lapassiondu2roues.com/

@@ -1,11 +1,11 @@
 id: 304196001
-type: way
+type: node
 latitude: 49.16052
 longitude: -0.30129
 postcode: "14120"
 city: Mondeville
-street: "Rue Joseph Jacquard"
-housenumber: 
-phone: "+33 2 31 72 55 37"
-opening_hours: "Mo-Th 09:30-19:00; Fr,Sa 09:30-20:00"
-website: "https://reaute-chocolat.com/"
+street: Rue Joseph Jacquard
+housenumber: ""
+phone: +33 2 31 72 55 37
+opening_hours: Mo-Th 09:30-19:00; Fr,Sa 09:30-20:00
+website: https://reaute-chocolat.com/

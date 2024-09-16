@@ -1,11 +1,11 @@
 id: 168048683
-type: way
+type: node
 latitude: 49.23606
 longitude: -1.6096
 postcode: "50430"
 city: Saint-Germain-sur-Ay
-street: "Rue du Corps de Garde"
-housenumber: 2
-phone: "+33 2 33 07 17 95"
+street: Rue du Corps de Garde
+housenumber: "2"
+phone: +33 2 33 07 17 95
 opening_hours: ""
-website: "https://www.legumes-joret.com/"
+website: https://www.legumes-joret.com/

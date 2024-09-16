@@ -1,11 +1,11 @@
 id: 162148745
-type: way
+type: node
 latitude: 48.62632
 longitude: -1.28951
 postcode: "50220"
 city: Ducey
-street: "ZI Le Domaine"
-housenumber: 
+street: ZI Le Domaine
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Th 08:00-17:30, Fr 08:00-16:30"
+opening_hours: Mo-Th 08:00-17:30, Fr 08:00-16:30
 website: ""

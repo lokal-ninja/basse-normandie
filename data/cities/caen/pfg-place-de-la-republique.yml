@@ -1,11 +1,11 @@
 id: 265345244
-type: way
+type: node
 latitude: 49.18154
 longitude: -0.36286
 postcode: "14000"
 city: Caen
-street: "Place de la République"
-housenumber: 13
+street: Place de la République
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00,14:00-17:00"
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00,14:00-17:00
 website: ""

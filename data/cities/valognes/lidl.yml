@@ -1,11 +1,11 @@
 id: 808896629
-type: way
+type: node
 latitude: 49.51401
 longitude: -1.4823
 postcode: "50700"
 city: Valognes
-street: "Boulevard Division Leclerc"
-housenumber: 56
+street: Boulevard Division Leclerc
+housenumber: "56"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00"
+opening_hours: Mo-Sa 08:30-20:00
 website: ""

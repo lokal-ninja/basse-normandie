@@ -4,8 +4,8 @@ latitude: 49.63869
 longitude: -1.61623
 postcode: "50100"
 city: Cherbourg-en-Cotentin
-street: "Rue du Val de Saire"
-housenumber: 10
-phone: "+33 2 33 88 64 71"
-opening_hours: "Mo-Tu,Th,Su 09:00-19:30; We 09:00-14:30; Fr-Sa 09:00-20:00"
-website: "https://www.lejardindesfleurs.com/fleuristes/cherbourg"
+street: Rue du Val de Saire
+housenumber: "10"
+phone: +33 2 33 88 64 71
+opening_hours: Mo-Tu,Th,Su 09:00-19:30; We 09:00-14:30; Fr-Sa 09:00-20:00
+website: https://www.lejardindesfleurs.com/fleuristes/cherbourg

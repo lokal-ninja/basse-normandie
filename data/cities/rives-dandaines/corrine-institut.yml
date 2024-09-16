@@ -1,11 +1,11 @@
 id: 257098829
-type: way
+type: node
 latitude: 48.51201
 longitude: -0.41586
 postcode: "61410"
 city: Rives d'Andaines
-street: "Place de l'Église"
-housenumber: 2
+street: Place de l'Église
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 167847096
-type: way
+type: node
 latitude: 49.20229
 longitude: -1.56585
 postcode: ""
 city: Créances
-street: "Place de la Liberté"
-housenumber: 35
-phone: "+33 2 33 46 31 20"
+street: Place de la Liberté
+housenumber: "35"
+phone: +33 2 33 46 31 20
 opening_hours: ""
 website: ""

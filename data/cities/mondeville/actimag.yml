@@ -1,11 +1,11 @@
 id: 304195994
-type: way
+type: node
 latitude: 49.16033
 longitude: -0.30162
 postcode: "14120"
 city: Mondeville
-street: "Rue Joseph Jacquard"
-housenumber: 
-phone: "+33 2 31 35 11 22"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.actimag.biz/"
+street: Rue Joseph Jacquard
+housenumber: ""
+phone: +33 2 31 35 11 22
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.actimag.biz/

@@ -1,11 +1,11 @@
 id: 1050307255
-type: way
+type: node
 latitude: 49.16623
 longitude: -0.2941
 postcode: "14120"
 city: Mondeville
-street: "Centre Commercial Mondeville 2"
-housenumber: 
-phone: "+33 2 31 52 15 73"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://magasins.aubert.com/fr/france-FR/M11/aubert-mondeville/details"
+street: Centre Commercial Mondeville 2
+housenumber: ""
+phone: +33 2 31 52 15 73
+opening_hours: Mo-Sa 10:00-19:00
+website: https://magasins.aubert.com/fr/france-FR/M11/aubert-mondeville/details

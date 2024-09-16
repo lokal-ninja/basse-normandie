@@ -1,11 +1,11 @@
 id: 462334272
-type: way
+type: node
 latitude: 49.16282
 longitude: -0.40322
 postcode: ""
 city: Louvigny
-street: "Longue Vue des Architectes"
-housenumber: 4
-phone: "+33 2 31 74 36 04"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00"
-website: "https://www.alphaservice-jec.com"
+street: Longue Vue des Architectes
+housenumber: "4"
+phone: +33 2 31 74 36 04
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00
+website: https://www.alphaservice-jec.com

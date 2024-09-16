@@ -1,11 +1,11 @@
 id: 723995845
-type: way
+type: node
 latitude: 49.59036
 longitude: -1.27914
 postcode: "50550"
 city: Saint-Vaast-la-Hougue
-street: "Rue Marcel Pignot"
-housenumber: 1
-phone: "+33 2 33 23 35 65"
-opening_hours: "Mo-Sa 08:30-19:30; Su 08:30-12:30"
-website: "https://www.carrefour.fr/magasin/market-saint-vaast-la-hougue"
+street: Rue Marcel Pignot
+housenumber: "1"
+phone: +33 2 33 23 35 65
+opening_hours: Mo-Sa 08:30-19:30; Su 08:30-12:30
+website: https://www.carrefour.fr/magasin/market-saint-vaast-la-hougue

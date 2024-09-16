@@ -1,11 +1,11 @@
 id: 879766021
-type: way
+type: node
 latitude: 49.09481
 longitude: -0.34057
 postcode: "14320"
 city: Fontenay-le-Marmion
-street: "Rue de la Mine"
-housenumber: 2
-phone: "+33 2 31 79 82 94"
+street: Rue de la Mine
+housenumber: "2"
+phone: +33 2 31 79 82 94
 opening_hours: ""
-website: "https://www.roperh-automobiles.com/"
+website: https://www.roperh-automobiles.com/

@@ -4,8 +4,8 @@ latitude: 49.11514
 longitude: -1.08984
 postcode: "50000"
 city: Saint-Lô
-street: "Place du Général de Gaulle"
-housenumber: 9
+street: Place du Général de Gaulle
+housenumber: "9"
 phone: ""
-opening_hours: "Mo 14:00-19:00; Tu-Sa 09:30-19:00"
-website: "https://www.yves-rocher.fr/tout-sur-les-magasins/normandie/st-lo/st-lo/S-FRYROC153"
+opening_hours: Mo 14:00-19:00; Tu-Sa 09:30-19:00
+website: https://www.yves-rocher.fr/tout-sur-les-magasins/normandie/st-lo/st-lo/S-FRYROC153

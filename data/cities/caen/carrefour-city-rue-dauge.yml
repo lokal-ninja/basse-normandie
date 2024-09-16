@@ -4,8 +4,8 @@ latitude: 49.17466
 longitude: -0.34272
 postcode: "14000"
 city: Caen
-street: "Rue d'Auge"
-housenumber: 194
+street: Rue d'Auge
+housenumber: "194"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 09:00-20:00"
-website: "https://www.carrefour.fr/magasin/city-caen-auge"
+opening_hours: Mo-Sa 07:00-22:00; Su 09:00-20:00
+website: https://www.carrefour.fr/magasin/city-caen-auge

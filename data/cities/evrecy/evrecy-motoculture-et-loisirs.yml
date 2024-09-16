@@ -1,11 +1,11 @@
 id: 286695762
-type: way
+type: node
 latitude: 49.10442
 longitude: -0.49393
 postcode: "14210"
 city: Évrecy
-street: "Rue des Cerisiers"
-housenumber: 4
+street: Rue des Cerisiers
+housenumber: "4"
 phone: "+33231804215"
-opening_hours: "Mo,Sa 08:00-12:00,14:00-18:00; Tu-Fr 08:00-12:00,14:00-19:00"
-website: "https://evrecy-motoculture.com/"
+opening_hours: Mo,Sa 08:00-12:00,14:00-18:00; Tu-Fr 08:00-12:00,14:00-19:00
+website: https://evrecy-motoculture.com/

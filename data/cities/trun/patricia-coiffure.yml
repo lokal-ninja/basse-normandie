@@ -1,11 +1,11 @@
 id: 868719838
-type: way
+type: node
 latitude: 48.84312
 longitude: 0.03364
 postcode: "61160"
 city: Trun
-street: "Rue de la République"
-housenumber: 29
-phone: "+33 2 33 36 76 01"
-opening_hours: "Tu-Th 08:30-12:00,13:30-19:00; Fr 08:00-19:00; Sa 08:00-17:00"
+street: Rue de la République
+housenumber: "29"
+phone: +33 2 33 36 76 01
+opening_hours: Tu-Th 08:30-12:00,13:30-19:00; Fr 08:00-19:00; Sa 08:00-17:00
 website: ""

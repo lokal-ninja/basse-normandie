@@ -4,8 +4,8 @@ latitude: 49.18178
 longitude: -0.36714
 postcode: "14000"
 city: Caen
-street: "Rue Arcisse de Caumont"
-housenumber: 3
+street: Rue Arcisse de Caumont
+housenumber: "3"
 phone: "+33231246776"
-opening_hours: "Tu-Sa 10:30-13:00,14:30-19:00"
-website: "https://www.scala-caen.com/"
+opening_hours: Tu-Sa 10:30-13:00,14:30-19:00
+website: https://www.scala-caen.com/

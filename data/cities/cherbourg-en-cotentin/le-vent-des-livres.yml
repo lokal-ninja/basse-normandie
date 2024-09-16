@@ -4,8 +4,8 @@ latitude: 49.64023
 longitude: -1.59889
 postcode: "50110"
 city: Cherbourg-en-Cotentin
-street: "Rue du Général Leclerc"
-housenumber: 120
-phone: "+33 2 33 54 33 14"
-opening_hours: "Tu-Sa 11:00-18:30"
-website: "https://bouquinerie-cherbourg.fr/"
+street: Rue du Général Leclerc
+housenumber: "120"
+phone: +33 2 33 54 33 14
+opening_hours: Tu-Sa 11:00-18:30
+website: https://bouquinerie-cherbourg.fr/

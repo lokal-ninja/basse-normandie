@@ -1,11 +1,11 @@
 id: 139724482
-type: way
+type: node
 latitude: 49.30133
 longitude: -0.31725
 postcode: "14780"
 city: Lion-sur-Mer
-street: "Boulevard Paul Doumer"
-housenumber: 12
-phone: "+33 2 31 77 24 89"
-opening_hours: "Mo-Tu 07:00-19:30; Th-Sa 07:00-19:30; Su 07:00-19:15"
+street: Boulevard Paul Doumer
+housenumber: "12"
+phone: +33 2 31 77 24 89
+opening_hours: Mo-Tu 07:00-19:30; Th-Sa 07:00-19:30; Su 07:00-19:15
 website: ""

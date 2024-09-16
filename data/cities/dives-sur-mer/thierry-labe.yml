@@ -1,11 +1,11 @@
 id: 98613239
-type: way
+type: node
 latitude: 49.2746
 longitude: -0.09303
 postcode: "14160"
 city: Dives-sur-Mer
-street: "Rue de la Vignerie"
-housenumber: 
-phone: "+33 2 31 91 54 10"
+street: Rue de la Vignerie
+housenumber: ""
+phone: +33 2 31 91 54 10
 opening_hours: ""
-website: "http://thierry-labe-tapissier.com"
+website: http://thierry-labe-tapissier.com

@@ -1,11 +1,11 @@
 id: 112272253
-type: way
+type: node
 latitude: 49.6603
 longitude: -1.68647
 postcode: "50460"
 city: Cherbourg-en-Cotentin
-street: "Avenue des Claires"
-housenumber: 5
+street: Avenue des Claires
+housenumber: "5"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

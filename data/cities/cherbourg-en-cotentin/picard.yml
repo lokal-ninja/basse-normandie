@@ -1,11 +1,11 @@
 id: 153639806
-type: way
+type: node
 latitude: 49.66149
 longitude: -1.68816
 postcode: "50460"
 city: Cherbourg-en-Cotentin
 street: ""
-housenumber: 
-phone: "+33 2 33 41 39 12"
-opening_hours: "Mo-Fr 09:30-13:00,14:30-19:30; Sa 09:30-19:30"
-website: "https://magasins.picard.fr/773-picard-querqueville"
+housenumber: ""
+phone: +33 2 33 41 39 12
+opening_hours: Mo-Fr 09:30-13:00,14:30-19:30; Sa 09:30-19:30
+website: https://magasins.picard.fr/773-picard-querqueville

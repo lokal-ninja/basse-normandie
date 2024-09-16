@@ -1,11 +1,11 @@
 id: 304196009
-type: way
+type: node
 latitude: 49.15918
 longitude: -0.3019
 postcode: "14120"
 city: Mondeville
-street: "Rue Joseph Jacquard"
-housenumber: 340
-phone: "+33 2 31 83 97 48"
-opening_hours: "Mo-Sa 09:30-12:00,14:00-18:30"
-website: "https://www.lapeyre.fr/"
+street: Rue Joseph Jacquard
+housenumber: "340"
+phone: +33 2 31 83 97 48
+opening_hours: Mo-Sa 09:30-12:00,14:00-18:30
+website: https://www.lapeyre.fr/

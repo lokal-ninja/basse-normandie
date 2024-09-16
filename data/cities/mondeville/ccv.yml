@@ -1,11 +1,11 @@
 id: 304195998
-type: way
+type: node
 latitude: 49.15917
 longitude: -0.30163
 postcode: "14120"
 city: Mondeville
-street: "Rue Joseph Jacquart"
-housenumber: 
-phone: "+33 2 31 84 01 32"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.ccvmode.com/"
+street: Rue Joseph Jacquart
+housenumber: ""
+phone: +33 2 31 84 01 32
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.ccvmode.com/

@@ -4,8 +4,8 @@ latitude: 49.29117
 longitude: -1.54499
 postcode: "50250"
 city: La Haye
-street: "Place Patton"
-housenumber: 2
-phone: "+33 2 61 76 00 15"
-opening_hours: "Tu-Fr 9:00-12:00,14:00-19:00; Sa 9:00-12:00"
-website: "https://www.spid-informatique.fr/"
+street: Place Patton
+housenumber: "2"
+phone: +33 2 61 76 00 15
+opening_hours: Tu-Fr 9:00-12:00,14:00-19:00; Sa 9:00-12:00
+website: https://www.spid-informatique.fr/

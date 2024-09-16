@@ -1,11 +1,11 @@
 id: 274858614
-type: way
+type: node
 latitude: 49.09121
 longitude: -0.30641
 postcode: "14540"
 city: Le Castelet
-street: "Rue de Lorguichon"
-housenumber: 1
+street: Rue de Lorguichon
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1220071267
-type: way
+type: node
 latitude: 49.24829
 longitude: -0.35173
 postcode: "14112"
 city: Périers-sur-le-Dan
-street: "Rue du Londel"
-housenumber: 16
+street: Rue du Londel
+housenumber: "16"
 phone: ""
 opening_hours: ""
-website: "https://www.american-cars.fr/"
+website: https://www.american-cars.fr/

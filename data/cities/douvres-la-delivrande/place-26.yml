@@ -4,8 +4,8 @@ latitude: 49.2989
 longitude: -0.37394
 postcode: "14440"
 city: Douvres-la-Délivrande
-street: "Place Georges Lesage"
-housenumber: 26
-phone: "+33 9 62610178"
-opening_hours: "Mo-Fr 09:00-12:30,15:00-19:00; Sa 09:00-12:30,15:00-18:00; Su 10:00-12:30"
+street: Place Georges Lesage
+housenumber: "26"
+phone: +33 9 62610178
+opening_hours: Mo-Fr 09:00-12:30,15:00-19:00; Sa 09:00-12:30,15:00-18:00; Su 10:00-12:30
 website: ""

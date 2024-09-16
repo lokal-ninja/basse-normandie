@@ -4,8 +4,8 @@ latitude: 48.83803
 longitude: -0.89064
 postcode: "14500"
 city: Vire Normandie
-street: "Rue Saulnerie"
-housenumber: 19
-phone: "02 31 68 07 78"
-opening_hours: "Mo-Sa 07:00-22:00 Su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/vire-saulnerie"
+street: Rue Saulnerie
+housenumber: "19"
+phone: 02 31 68 07 78
+opening_hours: Mo-Sa 07:00-22:00 Su 09:00-13:00
+website: https://www.carrefour.fr/magasin/vire-saulnerie

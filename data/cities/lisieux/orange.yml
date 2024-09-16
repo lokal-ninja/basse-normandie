@@ -4,8 +4,8 @@ latitude: 49.14477
 longitude: 0.22452
 postcode: "14100"
 city: Lisieux
-street: "Rue des Mathurins"
-housenumber: 4
-phone: "+33 800 10 14 28"
-opening_hours: "Tu-Fr 10:00-12:00,14:00-19:00; Sa 10:00-19:00"
-website: "https://agence.orange.fr/"
+street: Rue des Mathurins
+housenumber: "4"
+phone: +33 800 10 14 28
+opening_hours: Tu-Fr 10:00-12:00,14:00-19:00; Sa 10:00-19:00
+website: https://agence.orange.fr/

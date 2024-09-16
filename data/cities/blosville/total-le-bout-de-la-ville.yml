@@ -1,11 +1,11 @@
 id: 209083021
-type: way
+type: node
 latitude: 49.38021
 longitude: -1.29552
 postcode: "50480"
 city: Blosville
-street: "Le Bout de la Ville"
-housenumber: 28
+street: Le Bout de la Ville
+housenumber: "28"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

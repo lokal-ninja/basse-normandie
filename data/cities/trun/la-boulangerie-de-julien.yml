@@ -4,8 +4,8 @@ latitude: 48.84336
 longitude: 0.03323
 postcode: "61160"
 city: Trun
-street: "Place Charles de Gaulle"
-housenumber: 7
-phone: "+33 2 78845984"
-opening_hours: "Mo-Sa 06:30-20:00; Fr off; Su 07:00-20:00"
-website: "https://www.la-boulangerie-de-julien.fr/"
+street: Place Charles de Gaulle
+housenumber: "7"
+phone: +33 2 78845984
+opening_hours: Mo-Sa 06:30-20:00; Fr off; Su 07:00-20:00
+website: https://www.la-boulangerie-de-julien.fr/

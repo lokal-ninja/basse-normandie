@@ -1,11 +1,11 @@
 id: 167447531
-type: way
+type: node
 latitude: 49.38294
 longitude: -1.55024
 postcode: "50390"
 city: Saint-Sauveur-le-Vicompe
-street: "Route de Portbail"
-housenumber: 38
-phone: "+33 2 33 41 62 09"
+street: Route de Portbail
+housenumber: "38"
+phone: +33 2 33 41 62 09
 opening_hours: ""
 website: ""

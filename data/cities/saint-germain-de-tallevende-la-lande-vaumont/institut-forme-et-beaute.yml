@@ -1,11 +1,11 @@
 id: 273884092
-type: way
+type: node
 latitude: 48.80039
 longitude: -0.89962
 postcode: "14500"
 city: Saint-Germain-de-Tallevende-la-Lande-Vaumont
-street: "Rue de la Mairie"
-housenumber: 3
-phone: "+33 2 31 69 41 35"
+street: Rue de la Mairie
+housenumber: "3"
+phone: +33 2 31 69 41 35
 opening_hours: ""
-website: "https://www.institut-aquabike-vire.fr/contact"
+website: https://www.institut-aquabike-vire.fr/contact

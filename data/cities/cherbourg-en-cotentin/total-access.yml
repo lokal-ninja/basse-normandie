@@ -1,11 +1,11 @@
 id: 112096880
-type: way
+type: node
 latitude: 49.63467
 longitude: -1.61454
 postcode: "50100"
 city: Cherbourg-en-Cotentin
-street: "Rue de la Saline"
-housenumber: 
+street: Rue de la Saline
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

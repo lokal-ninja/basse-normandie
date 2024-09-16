@@ -1,11 +1,11 @@
 id: 218435120
-type: way
+type: node
 latitude: 49.28105
 longitude: -0.31672
 postcode: "14880"
 city: Hermanville-sur-Mer
-street: "Grande Rue"
-housenumber: 773
-phone: "+33 2 31 35 13 46"
+street: Grande Rue
+housenumber: "773"
+phone: +33 2 31 35 13 46
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.18244
 longitude: -0.3645
 postcode: "14000"
 city: Caen
-street: "Rue de Bras"
-housenumber: 9
-phone: "+33 2 31 15 31 45"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.pullandbear.com/fr/store-locator.html"
+street: Rue de Bras
+housenumber: "9"
+phone: +33 2 31 15 31 45
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.pullandbear.com/fr/store-locator.html

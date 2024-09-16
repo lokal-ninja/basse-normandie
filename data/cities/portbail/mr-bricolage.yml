@@ -1,11 +1,11 @@
 id: 169535472
-type: way
+type: node
 latitude: 49.33543
 longitude: -1.68562
 postcode: "50580"
 city: Portbail
-street: "Rue du Père Albert"
-housenumber: 
+street: Rue du Père Albert
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

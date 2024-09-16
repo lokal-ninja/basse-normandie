@@ -4,8 +4,8 @@ latitude: 49.6393
 longitude: -1.59553
 postcode: "50110"
 city: Cherbourg-en-Cotentin
-street: "Rue du Grand Pré"
-housenumber: 260
-phone: "+33 9 73 71 72 72"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.stokomani.fr/cherbourg.html"
+street: Rue du Grand Pré
+housenumber: "260"
+phone: +33 9 73 71 72 72
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.stokomani.fr/cherbourg.html

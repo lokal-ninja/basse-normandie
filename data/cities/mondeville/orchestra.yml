@@ -1,11 +1,11 @@
 id: 304199167
-type: way
+type: node
 latitude: 49.15974
 longitude: -0.30326
 postcode: "14120"
 city: Mondeville
-street: "Rue Joseph Jacquard"
-housenumber: 
-phone: "+33 2 31 84 19 38"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://fr.shop-orchestra.com/"
+street: Rue Joseph Jacquard
+housenumber: ""
+phone: +33 2 31 84 19 38
+opening_hours: Mo-Sa 09:30-19:00
+website: https://fr.shop-orchestra.com/

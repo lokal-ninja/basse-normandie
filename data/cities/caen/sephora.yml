@@ -1,11 +1,11 @@
 id: 224896206
-type: way
+type: node
 latitude: 49.1775
 longitude: -0.352
 postcode: "14000"
 city: Caen
-street: "Quai Amiral Hamelin"
-housenumber: 
-phone: "+33 2 31 78 54 00"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.sephora.fr/information-magasin?storeID=S876004"
+street: Quai Amiral Hamelin
+housenumber: ""
+phone: +33 2 31 78 54 00
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.sephora.fr/information-magasin?storeID=S876004

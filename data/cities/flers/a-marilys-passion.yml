@@ -5,7 +5,7 @@ longitude: -0.56516
 postcode: "61100"
 city: Flers
 street: ""
-housenumber: 15
-phone: "+33 2 33 65 07 54"
-opening_hours: "Tu-Fr 09:00-12:30,14:00-19:15; Sa 09:00-12:30,14:00-19:30; Su 09:00-13:00"
-website: "https://www.amarilyspassion.fr/"
+housenumber: "15"
+phone: +33 2 33 65 07 54
+opening_hours: Tu-Fr 09:00-12:30,14:00-19:15; Sa 09:00-12:30,14:00-19:30; Su 09:00-13:00
+website: https://www.amarilyspassion.fr/

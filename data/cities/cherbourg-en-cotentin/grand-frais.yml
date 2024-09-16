@@ -1,11 +1,11 @@
 id: 804385098
-type: way
+type: node
 latitude: 49.60214
 longitude: -1.59554
 postcode: "50470"
 city: Cherbourg-en-Cotentin
-street: "Rue du Château d'Eau"
-housenumber: 
-phone: "+33 2 33 20 16 54"
-opening_hours: "Mo-Sa 09:00-20:00; Su 09:00-12:30"
-website: "https://www.grandfrais.com/cherbourg-en-cotentin/magasin-260.html"
+street: Rue du Château d'Eau
+housenumber: ""
+phone: +33 2 33 20 16 54
+opening_hours: Mo-Sa 09:00-20:00; Su 09:00-12:30
+website: https://www.grandfrais.com/cherbourg-en-cotentin/magasin-260.html

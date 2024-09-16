@@ -1,11 +1,11 @@
 id: 331956966
-type: way
+type: node
 latitude: 49.11868
 longitude: -0.17979
 postcode: "14370"
 city: Moult-Chicheboville
-street: "Route de Paris"
-housenumber: 
-phone: "+33 2 31 23 72 74"
+street: Route de Paris
+housenumber: ""
+phone: +33 2 31 23 72 74
 opening_hours: ""
-website: "https://concessions.peugeot.fr/argences"
+website: https://concessions.peugeot.fr/argences

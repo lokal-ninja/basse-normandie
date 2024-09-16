@@ -4,8 +4,9 @@ latitude: 48.76444
 longitude: 0.62854
 postcode: "61300"
 city: L'Aigle
-street: "Rue Romain Darchy"
+street: Rue Romain Darchy
 housenumber: 5 à 7
-phone: "02 33 24 03 12"
-opening_hours: "Mo 09:00-12:30,14:00-19:00; Tu-Fr 08:30-12:30,14:00-19:00; Sa 08:30-19:00; Su 08:30-12:30"
+phone: 02 33 24 03 12
+opening_hours: Mo 09:00-12:30,14:00-19:00; Tu-Fr 08:30-12:30,14:00-19:00; Sa 08:30-19:00;
+    Su 08:30-12:30
 website: ""

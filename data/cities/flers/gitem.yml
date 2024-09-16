@@ -4,8 +4,8 @@ latitude: 48.72491
 longitude: -0.58442
 postcode: "61100"
 city: Flers
-street: "Rue Aristide Boucicaut"
-housenumber: 689
-phone: "+33 2 33 65 32 03"
-opening_hours: "Mo 14:30-18:00; Tu-Sa 09:30-12:00,14:15-19:00"
-website: "https://flers.gitem.fr/"
+street: Rue Aristide Boucicaut
+housenumber: "689"
+phone: +33 2 33 65 32 03
+opening_hours: Mo 14:30-18:00; Tu-Sa 09:30-12:00,14:15-19:00
+website: https://flers.gitem.fr/

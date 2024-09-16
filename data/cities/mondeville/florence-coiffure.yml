@@ -4,8 +4,8 @@ latitude: 49.17646
 longitude: -0.32199
 postcode: "14120"
 city: Mondeville
-street: "Rue Chapron"
-housenumber: 38
-phone: "+33 2 31 82 34 59"
-opening_hours: "Su,Mo off; Tu-Fr 09:00-12:00,15:00-18:00; Sa 09:00-16:00"
+street: Rue Chapron
+housenumber: "38"
+phone: +33 2 31 82 34 59
+opening_hours: Su,Mo off; Tu-Fr 09:00-12:00,15:00-18:00; Sa 09:00-16:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.18207
 longitude: -0.36702
 postcode: "14000"
 city: Caen
-street: "Place Malherbe"
-housenumber: 8
+street: Place Malherbe
+housenumber: "8"
 phone: "+33231399950"
-opening_hours: "Tu 09:30-19:30; We-Sa 09:30-19:00; Su 09:00-13:00"
-website: "https://www.leonidas.com/fr_fr/boutiques/caen/leonidas-caen-malherbe"
+opening_hours: Tu 09:30-19:30; We-Sa 09:30-19:00; Su 09:00-13:00
+website: https://www.leonidas.com/fr_fr/boutiques/caen/leonidas-caen-malherbe

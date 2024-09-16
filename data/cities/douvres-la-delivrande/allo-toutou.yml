@@ -1,11 +1,11 @@
 id: 228139449
-type: way
+type: node
 latitude: 49.28813
 longitude: -0.37293
 postcode: "14440"
 city: Douvres-la-Délivrande
-street: "Rue Alfred Kastler"
-housenumber: 10
-phone: "+33 2 31 71 02 35"
+street: Rue Alfred Kastler
+housenumber: "10"
+phone: +33 2 31 71 02 35
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.33917
 longitude: 0.10236
 postcode: "14800"
 city: Saint-Arnoult
-street: "Zone Artisanale la Touques"
-housenumber: 3
-phone: "+33 2 31 88 22 80"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00"
-website: "https://www.dolley-stores.fr/"
+street: Zone Artisanale la Touques
+housenumber: "3"
+phone: +33 2 31 88 22 80
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00
+website: https://www.dolley-stores.fr/

@@ -1,11 +1,11 @@
 id: 614567091
-type: way
+type: node
 latitude: 49.11281
 longitude: -1.0514
 postcode: "50000"
 city: Saint-Lô
-street: "Rue Joseph Cugnot"
-housenumber: 24
+street: Rue Joseph Cugnot
+housenumber: "24"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

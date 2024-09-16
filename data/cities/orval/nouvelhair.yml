@@ -1,11 +1,11 @@
 id: 472414150
-type: way
+type: node
 latitude: 49.01367
 longitude: -1.47114
 postcode: "50660"
 city: Orval
-street: "Rue de l'Église"
-housenumber: 15
+street: Rue de l'Église
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

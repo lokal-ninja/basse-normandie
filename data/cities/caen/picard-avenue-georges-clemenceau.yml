@@ -1,11 +1,11 @@
 id: 882121673
-type: way
+type: node
 latitude: 49.19081
 longitude: -0.34341
 postcode: "14000"
 city: Caen
-street: "Avenue Georges Clemenceau"
-housenumber: 143
-phone: "+33 2 31 44 11 33"
-opening_hours: "Mo-Th 09:00-13:00, 14:30-19:30; Fr, Sa 09:00-19:30"
-website: "https://magasins.picard.fr/161-picard-caen-clemenceau"
+street: Avenue Georges Clemenceau
+housenumber: "143"
+phone: +33 2 31 44 11 33
+opening_hours: Mo-Th 09:00-13:00, 14:30-19:30; Fr, Sa 09:00-19:30
+website: https://magasins.picard.fr/161-picard-caen-clemenceau

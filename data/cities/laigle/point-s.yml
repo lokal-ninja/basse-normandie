@@ -1,11 +1,11 @@
 id: 282564165
-type: way
+type: node
 latitude: 48.76491
 longitude: 0.62304
 postcode: "61300"
 city: L'Aigle
-street: "Avenue du Président Kennedy"
-housenumber: 4
-phone: "02 33 34 59 00"
+street: Avenue du Président Kennedy
+housenumber: "4"
+phone: 02 33 34 59 00
 opening_hours: ""
-website: "https://www.points.fr/centre/centre-auto-de-la-risle-laigle/"
+website: https://www.points.fr/centre/centre-auto-de-la-risle-laigle/

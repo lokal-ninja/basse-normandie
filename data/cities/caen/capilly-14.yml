@@ -4,8 +4,8 @@ latitude: 49.17545
 longitude: -0.35373
 postcode: "14000"
 city: Caen
-street: "Rue de Vaucelles"
-housenumber: 39
-phone: "+33 2 31 83 97 75"
-opening_hours: "Mo 13:30-18:30; Tu-Fr 09:00-12:00,13:00-18:30; Sa 09:00-14:00"
+street: Rue de Vaucelles
+housenumber: "39"
+phone: +33 2 31 83 97 75
+opening_hours: Mo 13:30-18:30; Tu-Fr 09:00-12:00,13:00-18:30; Sa 09:00-14:00
 website: ""

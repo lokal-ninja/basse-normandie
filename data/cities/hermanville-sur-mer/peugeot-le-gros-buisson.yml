@@ -1,11 +1,11 @@
 id: 1190918754
-type: way
+type: node
 latitude: 49.27821
 longitude: -0.31751
 postcode: "14880"
 city: Hermanville-sur-Mer
-street: "Route de Caen"
-housenumber: 288
-phone: "+33 2 31 97 27 13"
+street: Route de Caen
+housenumber: "288"
+phone: +33 2 31 97 27 13
 opening_hours: ""
-website: "https://concessions.peugeot.fr/hermanville-sur-mer"
+website: https://concessions.peugeot.fr/hermanville-sur-mer

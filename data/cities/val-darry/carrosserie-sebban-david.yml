@@ -1,11 +1,11 @@
 id: 1301937335
-type: way
+type: node
 latitude: 49.12371
 longitude: -0.56327
 postcode: "14210"
 city: Val d'Arry
-street: "Rue des Écoles"
-housenumber: 8
+street: Rue des Écoles
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

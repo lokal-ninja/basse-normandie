@@ -1,11 +1,11 @@
 id: 112200483
-type: way
+type: node
 latitude: 49.63951
 longitude: -1.57056
 postcode: "50110"
 city: Tourlaville
-street: "Place des Résistants"
-housenumber: 138
+street: Place des Résistants
+housenumber: "138"
 phone: ""
 opening_hours: ""
 website: ""

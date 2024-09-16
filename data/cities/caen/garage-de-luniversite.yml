@@ -4,8 +4,8 @@ latitude: 49.18813
 longitude: -0.36764
 postcode: "14000"
 city: Caen
-street: "Rue Bosnières"
-housenumber: 18
-phone: "+33 2 31 85 49 63"
-opening_hours: "Mo-Th 08:00-12:00,13:45-18:00; Fr 08:00-12:00,13:45-17:00"
+street: Rue Bosnières
+housenumber: "18"
+phone: +33 2 31 85 49 63
+opening_hours: Mo-Th 08:00-12:00,13:45-18:00; Fr 08:00-12:00,13:45-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 303939225
-type: way
+type: node
 latitude: 49.16045
 longitude: -0.30396
 postcode: "14120"
 city: Mondeville
-street: "Rue Joseph Jacquard"
-housenumber: 
-phone: "+33 2 31 78 55 40"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.cultura.com/"
+street: Rue Joseph Jacquard
+housenumber: ""
+phone: +33 2 31 78 55 40
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.cultura.com/

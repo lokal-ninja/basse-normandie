@@ -1,11 +1,11 @@
 id: 160169134
-type: way
+type: node
 latitude: 49.21135
 longitude: -1.5198
 postcode: ""
 city: Lessay
-street: "Rue du Ferrage"
-housenumber: 20
-phone: "+33 2 33 46 22 46"
-opening_hours: "Mo 09:00-12:00,14:00-18:00; Tu-Fr 08:30-12:00,14:00-18:30; Sa 09:00-12:00"
-website: "https://garagelamarelessay.wixsite.com/garage-lamare"
+street: Rue du Ferrage
+housenumber: "20"
+phone: +33 2 33 46 22 46
+opening_hours: Mo 09:00-12:00,14:00-18:00; Tu-Fr 08:30-12:00,14:00-18:30; Sa 09:00-12:00
+website: https://garagelamarelessay.wixsite.com/garage-lamare

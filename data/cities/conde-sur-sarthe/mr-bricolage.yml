@@ -1,11 +1,11 @@
 id: 156633110
-type: way
+type: node
 latitude: 48.43214
 longitude: 0.06282
 postcode: "61250"
 city: Condé-sur-Sarthe
-street: "Rue de Bretagne"
-housenumber: 
-phone: "+33 2 33 82 35 60"
-opening_hours: "Mo-Fr 09:00-12:30, 14:00-19:00; Sa 09:00-19:00"
-website: "https://magasin.mr-bricolage.fr/69-mr-bricolage-conde-sur-sarthe"
+street: Rue de Bretagne
+housenumber: ""
+phone: +33 2 33 82 35 60
+opening_hours: Mo-Fr 09:00-12:30, 14:00-19:00; Sa 09:00-19:00
+website: https://magasin.mr-bricolage.fr/69-mr-bricolage-conde-sur-sarthe

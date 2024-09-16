@@ -1,11 +1,11 @@
 id: 262985171
-type: way
+type: node
 latitude: 49.33408
 longitude: -0.41835
 postcode: "14990"
 city: Bernières-sur-Mer
-street: "Voie du Débarquement"
-housenumber: 245
-phone: "+33 2 31 36 10 80"
+street: Voie du Débarquement
+housenumber: "245"
+phone: +33 2 31 36 10 80
 opening_hours: ""
-website: "https://www.intermarche.com/magasins/04364/Berni%C3%A8res-sur-Mer-14990/infos-pratiques"
+website: https://www.intermarche.com/magasins/04364/Berni%C3%A8res-sur-Mer-14990/infos-pratiques

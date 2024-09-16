@@ -1,11 +1,11 @@
 id: 741186888
-type: way
+type: node
 latitude: 49.25871
 longitude: -0.46241
 postcode: "14610"
 city: Thaon
-street: "Rue du Chemin dit du Fresne"
-housenumber: 2
-phone: "+33 2 31 80 03 03"
+street: Rue du Chemin dit du Fresne
+housenumber: "2"
+phone: +33 2 31 80 03 03
 opening_hours: ""
-website: "https://www.eurorepar.fr/garage-glt-thaon-9816.html"
+website: https://www.eurorepar.fr/garage-glt-thaon-9816.html

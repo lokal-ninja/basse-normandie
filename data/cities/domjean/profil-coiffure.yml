@@ -1,11 +1,11 @@
 id: 404706812
-type: way
+type: node
 latitude: 48.98706
 longitude: -1.03264
 postcode: "50420"
 city: Domjean
-street: "Place Saint-Michel"
-housenumber: 1
+street: Place Saint-Michel
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

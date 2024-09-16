@@ -1,11 +1,11 @@
 id: 153909356
-type: way
+type: node
 latitude: 49.11525
 longitude: -1.04588
 postcode: "50000"
 city: Saint-Lô
-street: "Etienne Lenoir"
-housenumber: 45
+street: Etienne Lenoir
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

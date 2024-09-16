@@ -1,11 +1,11 @@
 id: 325725979
-type: way
+type: node
 latitude: 48.4356
 longitude: 0.0648
 postcode: "61000"
 city: Alençon
-street: "rue de Bretagne"
-housenumber: 194
+street: rue de Bretagne
+housenumber: "194"
 phone: ""
 opening_hours: ""
 website: ""

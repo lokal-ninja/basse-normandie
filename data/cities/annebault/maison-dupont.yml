@@ -1,11 +1,11 @@
 id: 332743576
-type: way
+type: node
 latitude: 49.25523
 longitude: 0.05526
 postcode: "14430"
 city: Annebault
-street: "Route de Caen"
-housenumber: 2
+street: Route de Caen
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 224878907
-type: way
+type: node
 latitude: 49.17818
 longitude: -0.34923
 postcode: "14000"
 city: Caen
-street: "Les Rives de l'Orne"
-housenumber: 
+street: Les Rives de l'Orne
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.leclercdrive.fr/region-normandie/caen/drive-pieton-les-rives-de-lorne.aspx"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.leclercdrive.fr/region-normandie/caen/drive-pieton-les-rives-de-lorne.aspx

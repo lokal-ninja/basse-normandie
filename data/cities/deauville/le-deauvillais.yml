@@ -1,11 +1,11 @@
 id: 63612134
-type: way
+type: node
 latitude: 49.36067
 longitude: 0.08343
 postcode: "14800"
 city: Deauville
-street: "Avenue de la République"
-housenumber: 20
-phone: "+33 2 31 98 02 43"
+street: Avenue de la République
+housenumber: "20"
+phone: +33 2 31 98 02 43
 opening_hours: ""
 website: ""

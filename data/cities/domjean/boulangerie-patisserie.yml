@@ -1,11 +1,11 @@
 id: 404707438
-type: way
+type: node
 latitude: 48.98695
 longitude: -1.03241
 postcode: "50420"
 city: Domjean
-street: "Rue Dame Gonnor"
-housenumber: 18
+street: Rue Dame Gonnor
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

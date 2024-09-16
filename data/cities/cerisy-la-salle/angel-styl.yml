@@ -1,11 +1,11 @@
 id: 183900581
-type: way
+type: node
 latitude: 49.02617
 longitude: -1.2818
 postcode: "50210"
 city: Cerisy-la-Salle
-street: "Rue des Écoles"
-housenumber: 
+street: Rue des Écoles
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

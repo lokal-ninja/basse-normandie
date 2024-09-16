@@ -1,11 +1,11 @@
 id: 139688075
-type: way
+type: node
 latitude: 49.60227
 longitude: -1.66201
 postcode: "50690"
 city: Martinvast
 street: ""
-housenumber: 
-phone: "+33 2 33 03 04 32"
+housenumber: ""
+phone: +33 2 33 03 04 32
 opening_hours: ""
-website: "https://www.maison-des-produits-regionaux.fr/"
+website: https://www.maison-des-produits-regionaux.fr/

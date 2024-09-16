@@ -1,11 +1,11 @@
 id: 1254519186
-type: way
+type: node
 latitude: 49.09509
 longitude: -0.40756
 postcode: "14320"
 city: Laize-Clinchamps
-street: "Chemin de la Chesnaie"
-housenumber: 10
-phone: "+33 6 32 05 77 28"
+street: Chemin de la Chesnaie
+housenumber: "10"
+phone: +33 6 32 05 77 28
 opening_hours: ""
-website: "https://uibie.com/"
+website: https://uibie.com/

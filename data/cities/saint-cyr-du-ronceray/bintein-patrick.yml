@@ -1,11 +1,11 @@
 id: 220349459
-type: way
+type: node
 latitude: 49.05375
 longitude: 0.29724
 postcode: ""
 city: Saint-Cyr-du-Ronceray
-street: "Rue des Tourterelles"
-housenumber: 2
-phone: "+33 2 31 63 71 56"
-opening_hours: "Tu-Sa 07:30-13:00,15:00-19:00; Su 07:30-13:00"
+street: Rue des Tourterelles
+housenumber: "2"
+phone: +33 2 31 63 71 56
+opening_hours: Tu-Sa 07:30-13:00,15:00-19:00; Su 07:30-13:00
 website: ""

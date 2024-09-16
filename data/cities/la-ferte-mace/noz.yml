@@ -1,11 +1,11 @@
 id: 172175654
-type: way
+type: node
 latitude: 48.57427
 longitude: -0.36648
 postcode: "61600"
 city: La-Ferté-Macé
-street: "Z.I. du Parc"
-housenumber: 
+street: Z.I. du Parc
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.nozarrivages.com/magasin/la-ferte-mace/"
+website: https://www.nozarrivages.com/magasin/la-ferte-mace/

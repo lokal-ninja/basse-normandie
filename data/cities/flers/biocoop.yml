@@ -4,8 +4,8 @@ latitude: 48.73179
 longitude: -0.58156
 postcode: "61100"
 city: Flers
-street: "Rue des Meletières"
-housenumber: 108
-phone: "+33 2 33 65 14 65"
-opening_hours: "Mo-Th 09:30-13:00,14:30-19:00; Fr,Sa 09:30-19:00"
-website: "https://www.source-verte-magasin-bio.fr/"
+street: Rue des Meletières
+housenumber: "108"
+phone: +33 2 33 65 14 65
+opening_hours: Mo-Th 09:30-13:00,14:30-19:00; Fr,Sa 09:30-19:00
+website: https://www.source-verte-magasin-bio.fr/

@@ -1,11 +1,11 @@
 id: 108806761
-type: way
+type: node
 latitude: 49.30326
 longitude: -0.07745
 postcode: "14510"
 city: Houlgate
-street: "Rue des Bains"
-housenumber: 63
+street: Rue des Bains
+housenumber: "63"
 phone: ""
-opening_hours: "Mo-Su 09:30-13:00,14:30-19:00"
+opening_hours: Mo-Su 09:30-13:00,14:30-19:00
 website: ""

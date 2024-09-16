@@ -1,11 +1,11 @@
 id: 63615468
-type: way
+type: node
 latitude: 49.35922
 longitude: 0.0713
 postcode: "14800"
 city: Deauville
-street: "Rue Eugène Colas"
-housenumber: 103
-phone: "+33 9 77 40 40 77"
+street: Rue Eugène Colas
+housenumber: "103"
+phone: +33 9 77 40 40 77
 opening_hours: ""
-website: "https://fr.louisvuitton.com/fra-fr/magasin/france/louis-vuitton-deauville"
+website: https://fr.louisvuitton.com/fra-fr/magasin/france/louis-vuitton-deauville

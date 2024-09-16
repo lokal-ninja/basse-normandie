@@ -1,11 +1,11 @@
 id: 304199165
-type: way
+type: node
 latitude: 49.15997
 longitude: -0.30433
 postcode: "14120"
 city: Mondeville
-street: "Rue Joseph Jacquard"
-housenumber: 
+street: Rue Joseph Jacquard
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:30; Su 11:00-19:00"
-website: "https://www.bmstores.fr/"
+opening_hours: Mo-Sa 09:30-19:30; Su 11:00-19:00
+website: https://www.bmstores.fr/

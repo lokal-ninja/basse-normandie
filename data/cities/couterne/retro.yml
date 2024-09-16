@@ -1,11 +1,11 @@
 id: 257099157
-type: way
+type: node
 latitude: 48.5126
 longitude: -0.41547
 postcode: "61410"
 city: Couterne
-street: "Rue de Lassay"
-housenumber: 11
+street: Rue de Lassay
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

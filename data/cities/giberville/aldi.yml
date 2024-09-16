@@ -1,11 +1,11 @@
 id: 69354774
-type: way
+type: node
 latitude: 49.18196
 longitude: -0.27818
 postcode: "14730"
 city: Giberville
-street: "Rue Pierre de Coubertin"
-housenumber: 
+street: Rue Pierre de Coubertin
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30;Su 08:30-12:30"
+opening_hours: Mo-Sa 08:30-19:30;Su 08:30-12:30
 website: ""

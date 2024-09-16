@@ -4,8 +4,8 @@ latitude: 48.7254
 longitude: -0.5865
 postcode: "61100"
 city: Flers
-street: "Rue du Bon Marché"
-housenumber: 483
-phone: "+33 2 33 98 12 00"
-opening_hours: "Mo-Th 07:30-12:00,13:30-17:30; Fr 07:30-12:00,13:30-16:30"
-website: "https://portail.rexel.fr/agence/6102/rexel-flers"
+street: Rue du Bon Marché
+housenumber: "483"
+phone: +33 2 33 98 12 00
+opening_hours: Mo-Th 07:30-12:00,13:30-17:30; Fr 07:30-12:00,13:30-16:30
+website: https://portail.rexel.fr/agence/6102/rexel-flers

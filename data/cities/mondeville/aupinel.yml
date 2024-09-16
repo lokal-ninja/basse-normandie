@@ -1,11 +1,11 @@
 id: 938838879
-type: way
+type: node
 latitude: 49.16784
 longitude: -0.31357
 postcode: "14120"
 city: Mondeville
-street: "Rue Robert Schumann"
-housenumber: 4
+street: Rue Robert Schumann
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-12:00,13:30-18:00"
+opening_hours: Mo-Sa 08:00-12:00,13:30-18:00
 website: ""

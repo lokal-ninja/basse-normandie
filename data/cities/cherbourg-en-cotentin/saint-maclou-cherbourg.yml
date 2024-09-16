@@ -1,11 +1,11 @@
 id: 112111154
-type: way
+type: node
 latitude: 49.63373
 longitude: -1.61601
 postcode: "50100"
 city: Cherbourg-en-Cotentin
-street: "Avenue Jean François Millet"
-housenumber: 15
-phone: "+33 2 33 20 46 32"
-opening_hours: "Mo-Sa 09:30-12:00, 14:00-19:00"
-website: "https://www.saint-maclou.com/storelocator/index/view/id/5"
+street: Avenue Jean François Millet
+housenumber: "15"
+phone: +33 2 33 20 46 32
+opening_hours: Mo-Sa 09:30-12:00, 14:00-19:00
+website: https://www.saint-maclou.com/storelocator/index/view/id/5

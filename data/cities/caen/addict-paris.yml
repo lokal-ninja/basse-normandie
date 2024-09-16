@@ -4,8 +4,8 @@ latitude: 49.17716
 longitude: -0.35346
 postcode: "14000"
 city: Caen
-street: "Quai Amiral Hamelin"
-housenumber: 10
-phone: "+33 2 31 82 91 09"
-opening_hours: "Tu-Fr 09:30-19:00; Sa 09:30-18:00"
+street: Quai Amiral Hamelin
+housenumber: "10"
+phone: +33 2 31 82 91 09
+opening_hours: Tu-Fr 09:30-19:00; Sa 09:30-18:00
 website: ""

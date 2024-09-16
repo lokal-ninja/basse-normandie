@@ -1,11 +1,11 @@
 id: 111574464
-type: way
+type: node
 latitude: 49.34021
 longitude: 0.09877
 postcode: "14800"
 city: Touques
-street: "Chemin des Salines"
-housenumber: 
+street: Chemin des Salines
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

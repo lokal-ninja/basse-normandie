@@ -4,8 +4,8 @@ latitude: 49.17839
 longitude: -0.38881
 postcode: "14000"
 city: Caen
-street: "Boulevard André Detolle"
-housenumber: 65
-phone: "+33 2 58 47 02 11"
-opening_hours: "Mo-Fr 10:00-12:00,14:00-19:00; Sa 10:00-12:00,14:00-18:00"
-website: "https://cuisines-maxima.com/"
+street: Boulevard André Detolle
+housenumber: "65"
+phone: +33 2 58 47 02 11
+opening_hours: Mo-Fr 10:00-12:00,14:00-19:00; Sa 10:00-12:00,14:00-18:00
+website: https://cuisines-maxima.com/

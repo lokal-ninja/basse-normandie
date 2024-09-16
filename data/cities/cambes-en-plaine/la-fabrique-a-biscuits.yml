@@ -1,11 +1,11 @@
 id: 264356534
-type: way
+type: node
 latitude: 49.23361
 longitude: -0.37152
 postcode: "14610"
 city: Cambes-en-Plaine
-street: "Route du Londel"
-housenumber: 10
-phone: "+33 9 62 65 76 16"
-opening_hours: "10:00-19:00"
-website: "https://lafabriqueabiscuits.fr/"
+street: Route du Londel
+housenumber: "10"
+phone: +33 9 62 65 76 16
+opening_hours: 10:00-19:00
+website: https://lafabriqueabiscuits.fr/

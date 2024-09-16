@@ -1,11 +1,11 @@
 id: 224880394
-type: way
+type: node
 latitude: 49.17872
 longitude: -0.34913
 postcode: "14000"
 city: Caen
-street: "Les Rives de l'Orne"
-housenumber: 
-phone: "+33 2 31 35 12 57"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.troispar3.com/"
+street: Les Rives de l'Orne
+housenumber: ""
+phone: +33 2 31 35 12 57
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.troispar3.com/

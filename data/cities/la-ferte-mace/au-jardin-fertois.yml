@@ -1,11 +1,11 @@
 id: 172175711
-type: way
+type: node
 latitude: 48.57847
 longitude: -0.3696
 postcode: "61600"
 city: La Ferté Macé
-street: "Route de Bagnoles"
-housenumber: 
+street: Route de Bagnoles
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00"
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00
 website: ""

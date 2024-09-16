@@ -4,8 +4,8 @@ latitude: 49.63845
 longitude: -1.60915
 postcode: "50100"
 city: Cherbourg-en-Cotentin
-street: "Rue du Val de Saire"
-housenumber: 86
-phone: "+33 2 33 20 42 45"
-opening_hours: "Mo-Sa 08:30-12:30,15:00-19:00; Su 08:30-12:30"
+street: Rue du Val de Saire
+housenumber: "86"
+phone: +33 2 33 20 42 45
+opening_hours: Mo-Sa 08:30-12:30,15:00-19:00; Su 08:30-12:30
 website: ""

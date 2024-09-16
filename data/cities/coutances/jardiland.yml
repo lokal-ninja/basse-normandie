@@ -1,11 +1,11 @@
 id: 68664021
-type: way
+type: node
 latitude: 49.06994
 longitude: -1.42877
 postcode: "50200"
 city: Coutances
-street: "Rue de la Glacière"
-housenumber: 2
-phone: "+33 2 33 45 85 85"
-opening_hours: "Mo-Fr 09:30-12:00,14:00-19:00; Sa 09:30-12:30,14:00-19:00; Su 10:00-12:30,14:00-18:30"
-website: "https://www.jardiland.com/magasins/magasin-coutances"
+street: Rue de la Glacière
+housenumber: "2"
+phone: +33 2 33 45 85 85
+opening_hours: Mo-Fr 09:30-12:00,14:00-19:00; Sa 09:30-12:30,14:00-19:00; Su 10:00-12:30,14:00-18:30
+website: https://www.jardiland.com/magasins/magasin-coutances

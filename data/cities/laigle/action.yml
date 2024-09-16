@@ -1,11 +1,11 @@
 id: 1254902010
-type: way
+type: node
 latitude: 48.76353
 longitude: 0.61765
 postcode: "61300"
 city: L'Aigle
-street: "Avenue Comtesse de Ségur"
-housenumber: 3
+street: Avenue Comtesse de Ségur
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 139724634
-type: way
+type: node
 latitude: 49.29998
 longitude: -0.31532
 postcode: "14780"
 city: Lion-sur-Mer
-street: "Rue Marcotte"
-housenumber: 10
-phone: "+33 2 55 59 54 21"
+street: Rue Marcotte
+housenumber: "10"
+phone: +33 2 55 59 54 21
 opening_hours: ""
-website: "https://vb-automobile.fr/"
+website: https://vb-automobile.fr/

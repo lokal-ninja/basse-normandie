@@ -1,6 +1,6 @@
 ---
 title: Évrecy
 url: /evrecy/
-latitude: 49.1
-longitude: -0.503
+latitude: 49.099
+longitude: -0.504
 ---

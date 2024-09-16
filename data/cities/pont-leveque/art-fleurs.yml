@@ -1,11 +1,11 @@
 id: 932349590
-type: way
+type: node
 latitude: 49.28596
 longitude: 0.18519
 postcode: "14130"
 city: Pont-l'Évêque
-street: "Rue Saint-Michel"
-housenumber: 26
-phone: "+33 2 31 64 01 77"
-opening_hours: "We-Mo 09:00-12:45,14:30-19:30"
-website: "http://artfleurs.free.fr/"
+street: Rue Saint-Michel
+housenumber: "26"
+phone: +33 2 31 64 01 77
+opening_hours: We-Mo 09:00-12:45,14:30-19:30
+website: http://artfleurs.free.fr/

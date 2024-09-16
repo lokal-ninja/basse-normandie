@@ -4,8 +4,8 @@ latitude: 49.28621
 longitude: -0.31266
 postcode: "14880"
 city: Hermanville-sur-Mer
-street: "Place de la Liberté"
-housenumber: 30
-phone: "+33 2 31 37 85 69"
-opening_hours: "Tu-Sa 09:00-13:00,15:00-19:30; Su 09:00-13:00,17:00-19:00; Mo off"
+street: Place de la Liberté
+housenumber: "30"
+phone: +33 2 31 37 85 69
+opening_hours: Tu-Sa 09:00-13:00,15:00-19:30; Su 09:00-13:00,17:00-19:00; Mo off
 website: ""

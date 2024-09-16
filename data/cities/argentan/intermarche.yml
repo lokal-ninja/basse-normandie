@@ -1,11 +1,11 @@
 id: 83682043
-type: way
+type: node
 latitude: 48.73284
 longitude: -0.03206
 postcode: "61200"
 city: Argentan
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Th 09:00-19:30; Fr 09:00-20:00; Sa 09:00-19:30"
-website: "https://www.intermarche.com/magasins/04136/argentan-61200/infos-pratiques"
+opening_hours: Mo-Th 09:00-19:30; Fr 09:00-20:00; Sa 09:00-19:30
+website: https://www.intermarche.com/magasins/04136/argentan-61200/infos-pratiques

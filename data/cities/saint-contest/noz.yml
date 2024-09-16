@@ -1,11 +1,11 @@
 id: 263543534
-type: way
+type: node
 latitude: 49.19973
 longitude: -0.39976
 postcode: "14280"
 city: Saint-Contest
-street: "Rue du Clos Barbey"
-housenumber: 21
+street: Rue du Clos Barbey
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.nozarrivages.com/magasin/saint-contest/"
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.nozarrivages.com/magasin/saint-contest/

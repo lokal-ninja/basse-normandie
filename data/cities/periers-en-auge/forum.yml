@@ -1,11 +1,11 @@
 id: 100539687
-type: way
+type: node
 latitude: 49.27721
 longitude: -0.10451
 postcode: "14160"
 city: Périers-en-Auge
-street: "Boulevard Maurice Thorez"
-housenumber: 
+street: Boulevard Maurice Thorez
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

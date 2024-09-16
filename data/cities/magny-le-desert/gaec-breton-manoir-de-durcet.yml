@@ -1,11 +1,11 @@
 id: 208851100
-type: way
+type: node
 latitude: 48.55943
 longitude: -0.33192
 postcode: "61600"
 city: Magny-le-Desert
 street: ""
-housenumber: 
-phone: "+33 2 33 37 16 47"
-opening_hours: "Mo-Sa 10:00-12:30,14:00-19:00"
-website: "https://www.breton-manoirdedurcet.fr/"
+housenumber: ""
+phone: +33 2 33 37 16 47
+opening_hours: Mo-Sa 10:00-12:30,14:00-19:00
+website: https://www.breton-manoirdedurcet.fr/

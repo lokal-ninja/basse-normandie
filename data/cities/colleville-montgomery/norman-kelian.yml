@@ -4,8 +4,9 @@ latitude: 49.29032
 longitude: -0.28393
 postcode: "14880"
 city: Colleville-Montgomery
-street: "Rue de la Mer"
-housenumber: 
-phone: "+33 2 31 96 10 85"
-opening_hours: "Mo-We 09:00-12:00, 14:00-19:00; Th 09:00-19:00; Fr 09:00-12:00, 14:00-19:00; Sa 09:00-13:00, 14:00-18:00"
+street: Rue de la Mer
+housenumber: ""
+phone: +33 2 31 96 10 85
+opening_hours: Mo-We 09:00-12:00, 14:00-19:00; Th 09:00-19:00; Fr 09:00-12:00, 14:00-19:00;
+    Sa 09:00-13:00, 14:00-18:00
 website: ""

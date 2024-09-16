@@ -1,11 +1,11 @@
 id: 1091014633
-type: way
+type: node
 latitude: 49.16225
 longitude: -0.40019
 postcode: "14111"
 city: Louvigny
-street: "ZAC du long cours"
-housenumber: 
+street: ZAC du long cours
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 09:30-19:00"
+opening_hours: Mo-Su 09:30-19:00
 website: ""

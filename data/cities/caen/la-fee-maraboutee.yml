@@ -4,8 +4,8 @@ latitude: 49.1835
 longitude: -0.3633
 postcode: "14000"
 city: Caen
-street: "Rue Saint-Pierre"
-housenumber: 46
+street: Rue Saint-Pierre
+housenumber: "46"
 phone: ""
-opening_hours: "Tu-Sa 11:00-13:30,14:30-19:00"
-website: "https://lafeemaraboutee.fr/pages/caen"
+opening_hours: Tu-Sa 11:00-13:30,14:30-19:00
+website: https://lafeemaraboutee.fr/pages/caen

@@ -1,11 +1,11 @@
 id: 153896677
-type: way
+type: node
 latitude: 49.11649
 longitude: -1.04326
 postcode: "50000"
 city: Saint-Lô
-street: "Avenue de Paris"
-housenumber: 
+street: Avenue de Paris
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

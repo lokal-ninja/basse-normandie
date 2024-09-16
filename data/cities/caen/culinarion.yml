@@ -4,8 +4,8 @@ latitude: 49.18297
 longitude: -0.36022
 postcode: "14000"
 city: Caen
-street: "Rue Saint-Jean"
-housenumber: 13
+street: Rue Saint-Jean
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.culinarion.com/magasins/culinarion-caen.42"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.culinarion.com/magasins/culinarion-caen.42

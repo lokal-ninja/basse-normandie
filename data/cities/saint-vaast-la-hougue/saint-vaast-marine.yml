@@ -1,11 +1,11 @@
 id: 1228506507
-type: way
+type: node
 latitude: 49.58989
 longitude: -1.28381
 postcode: "50550"
 city: Saint-Vaast-la-Hougue
-street: "Rue Maréchal Foch"
-housenumber: 166
-phone: "+33 2 33 43 90 80"
+street: Rue Maréchal Foch
+housenumber: "166"
+phone: +33 2 33 43 90 80
 opening_hours: ""
-website: "https://www.saintvaastmarine.com/"
+website: https://www.saintvaastmarine.com/

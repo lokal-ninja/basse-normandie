@@ -1,11 +1,11 @@
 id: 81885382
-type: way
+type: node
 latitude: 48.92914
 longitude: 0.20047
 postcode: "61120"
 city: Vimoutiers
-street: "Rue du Perré"
-housenumber: 27
+street: Rue du Perré
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Sa 08:30-12:30,14:00-19:00; Su 9:30-12:30"
+opening_hours: Mo-Sa 08:30-12:30,14:00-19:00; Su 9:30-12:30
 website: ""

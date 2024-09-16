@@ -4,8 +4,8 @@ latitude: 49.28627
 longitude: 0.207
 postcode: "14130"
 city: Pont-l'Évêque
-street: "Rue Marie Curie"
-housenumber: 3
-phone: "+33 2 33 35 35 35"
-opening_hours: "Mo-Th 09:00-12:30,14:00-19:00, Fr-Sa 09:00-19:00, Su 09:00-12:30"
-website: "https://leseleveursdelacharentonne.fr"
+street: Rue Marie Curie
+housenumber: "3"
+phone: +33 2 33 35 35 35
+opening_hours: Mo-Th 09:00-12:30,14:00-19:00, Fr-Sa 09:00-19:00, Su 09:00-12:30
+website: https://leseleveursdelacharentonne.fr

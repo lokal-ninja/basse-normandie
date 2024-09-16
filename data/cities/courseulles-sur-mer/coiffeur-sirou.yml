@@ -1,11 +1,11 @@
 id: 69698363
-type: way
+type: node
 latitude: 49.3297
 longitude: -0.45646
 postcode: "14470"
 city: Courseulles-sur-Mer
-street: "Place du Marché"
-housenumber: 10
+street: Place du Marché
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

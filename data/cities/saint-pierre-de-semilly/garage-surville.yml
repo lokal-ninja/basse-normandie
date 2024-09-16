@@ -1,11 +1,11 @@
 id: 810542217
-type: way
+type: node
 latitude: 49.1225
 longitude: -1.02078
 postcode: "50810"
 city: Saint-Pierre-de-Semilly
-street: "Croix des 12 Chênes"
-housenumber: 30
+street: Croix des 12 Chênes
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

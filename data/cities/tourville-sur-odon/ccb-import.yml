@@ -1,11 +1,11 @@
 id: 288934757
-type: way
+type: node
 latitude: 49.13987
 longitude: -0.50795
 postcode: "14210"
 city: Tourville-sur-Odon
-street: "Route de Bretagne"
-housenumber: 34
-phone: "+33 2 31 77 72 72"
+street: Route de Bretagne
+housenumber: "34"
+phone: +33 2 31 77 72 72
 opening_hours: ""
-website: "http://www.ccbimport.com/"
+website: http://www.ccbimport.com/

@@ -4,8 +4,8 @@ latitude: 49.11482
 longitude: -1.09008
 postcode: "50000"
 city: Saint-Lô
-street: "Rue Maréchal Leclerc"
-housenumber: 4
-phone: "+33 2 33 77 17 77"
-opening_hours: "Mo-Sa 09:00-19:30"
+street: Rue Maréchal Leclerc
+housenumber: "4"
+phone: +33 2 33 77 17 77
+opening_hours: Mo-Sa 09:00-19:30
 website: ""

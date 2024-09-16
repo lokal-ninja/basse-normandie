@@ -1,11 +1,11 @@
 id: 112220384
-type: way
+type: node
 latitude: 49.28443
 longitude: -0.26197
 postcode: "14150"
 city: Ouistreham
-street: "Route de Lion-sur-Mer"
-housenumber: 13
+street: Route de Lion-sur-Mer
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

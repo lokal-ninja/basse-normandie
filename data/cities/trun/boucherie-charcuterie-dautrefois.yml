@@ -4,8 +4,8 @@ latitude: 48.84333
 longitude: 0.0333
 postcode: "61160"
 city: Trun
-street: "Place Charles de Gaulle"
-housenumber: 5
-phone: "+33 9 87 76 27 81"
-opening_hours: "Mo-Sa 07:30-13:30,15:30-19:30; We off; Su 07:30-13:00"
+street: Place Charles de Gaulle
+housenumber: "5"
+phone: +33 9 87 76 27 81
+opening_hours: Mo-Sa 07:30-13:30,15:30-19:30; We off; Su 07:30-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 332743619
-type: way
+type: node
 latitude: 49.25282
 longitude: 0.05814
 postcode: "14430"
 city: Annebault
-street: "Route de Lisieux"
-housenumber: 13
+street: Route de Lisieux
+housenumber: "13"
 phone: ""
-opening_hours: "Mo,Tu,Th-Su,PH 07:30-19:00"
+opening_hours: Mo,Tu,Th-Su,PH 07:30-19:00
 website: ""

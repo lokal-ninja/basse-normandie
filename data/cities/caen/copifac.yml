@@ -4,8 +4,8 @@ latitude: 49.18754
 longitude: -0.36606
 postcode: "14000"
 city: Caen
-street: "Rue de Geôle"
-housenumber: 116
-phone: "+33 2 31 38 98 66"
-opening_hours: "Mo-Tu"
+street: Rue de Geôle
+housenumber: "116"
+phone: +33 2 31 38 98 66
+opening_hours: Mo-Tu
 website: ""

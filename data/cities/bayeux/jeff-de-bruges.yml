@@ -4,8 +4,8 @@ latitude: 49.27823
 longitude: -0.70611
 postcode: "14400"
 city: Bayeux
-street: "Rue Saint-Malo"
-housenumber: 55
+street: Rue Saint-Malo
+housenumber: "55"
 phone: ""
-opening_hours: "Tu-Fr 10:00-12:30,13:30-19:00; Sa 10:00-19:00; Su,Mo off"
-website: "https://www.jeff-de-bruges.com/jeff-de-bruges-bayeux"
+opening_hours: Tu-Fr 10:00-12:30,13:30-19:00; Sa 10:00-19:00; Su,Mo off
+website: https://www.jeff-de-bruges.com/jeff-de-bruges-bayeux

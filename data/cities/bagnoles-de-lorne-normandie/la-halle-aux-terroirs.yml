@@ -1,11 +1,11 @@
 id: 129771061
-type: way
+type: node
 latitude: 48.55011
 longitude: -0.41748
 postcode: "61140"
 city: Bagnoles-de-l'Orne-Normandie
-street: "Avenue du Chateau de Bagnoles"
-housenumber: 2
+street: Avenue du Chateau de Bagnoles
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

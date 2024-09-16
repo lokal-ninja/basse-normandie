@@ -4,8 +4,8 @@ latitude: 48.42633
 longitude: 0.08908
 postcode: "61000"
 city: Alençon
-street: "Rue du Mans"
-housenumber: 32
+street: Rue du Mans
+housenumber: "32"
 phone: ""
 opening_hours: ""
-website: "https://crushonapp.com/vendor/back-to-the-style"
+website: https://crushonapp.com/vendor/back-to-the-style

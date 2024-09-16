@@ -1,11 +1,11 @@
 id: 119357034
-type: way
+type: node
 latitude: 49.1643
 longitude: -0.30886
 postcode: "14120"
 city: Mondeville
-street: "Rue Charles de Coulomb"
-housenumber: 4
+street: Rue Charles de Coulomb
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

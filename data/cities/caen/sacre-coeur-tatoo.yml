@@ -4,8 +4,8 @@ latitude: 49.18388
 longitude: -0.36143
 postcode: "14000"
 city: Caen
-street: "Place Saint-Pierre"
-housenumber: 16
-phone: "+33 9 87 37 83 63"
-opening_hours: "Mo-Sa 11:00-19:00"
+street: Place Saint-Pierre
+housenumber: "16"
+phone: +33 9 87 37 83 63
+opening_hours: Mo-Sa 11:00-19:00
 website: ""

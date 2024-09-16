@@ -1,11 +1,11 @@
 id: 303939240
-type: way
+type: node
 latitude: 49.15992
 longitude: -0.30187
 postcode: "14120"
 city: Mondeville
-street: "Rue Joseph Jacquard"
-housenumber: 
-phone: "+33 2 31 84 16 99"
-opening_hours: "Mo-Sa 09:30-19:00; Fr 09:30-19:30"
-website: "https://www.coiffandco.com/"
+street: Rue Joseph Jacquard
+housenumber: ""
+phone: +33 2 31 84 16 99
+opening_hours: Mo-Sa 09:30-19:00; Fr 09:30-19:30
+website: https://www.coiffandco.com/

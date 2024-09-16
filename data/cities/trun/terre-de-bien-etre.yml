@@ -4,8 +4,8 @@ latitude: 48.84382
 longitude: 0.03173
 postcode: "61160"
 city: Trun
-street: "Rue de la République"
-housenumber: 56
-phone: "+33 2 50 25 95 70"
-opening_hours: "Mo-Fr 09:30-12:00,14:00-18:00; Sa 09:30-13:00"
-website: "https://www.terre-de-bien-etre.fr/"
+street: Rue de la République
+housenumber: "56"
+phone: +33 2 50 25 95 70
+opening_hours: Mo-Fr 09:30-12:00,14:00-18:00; Sa 09:30-13:00
+website: https://www.terre-de-bien-etre.fr/

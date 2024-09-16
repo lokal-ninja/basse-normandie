@@ -4,8 +4,8 @@ latitude: 49.14429
 longitude: 0.22511
 postcode: "14100"
 city: Lisieux
-street: "Place de la République"
-housenumber: 24
-phone: "+33 231 32 86 60"
-opening_hours: "Tu-Fr 10:00-19:00; Sa 09:00-19:00"
-website: "https://librairielesgrandschemins.fr"
+street: Place de la République
+housenumber: "24"
+phone: +33 231 32 86 60
+opening_hours: Tu-Fr 10:00-19:00; Sa 09:00-19:00
+website: https://librairielesgrandschemins.fr

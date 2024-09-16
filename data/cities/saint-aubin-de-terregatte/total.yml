@@ -1,11 +1,11 @@
 id: 162869475
-type: way
+type: node
 latitude: 48.58492
 longitude: -1.32661
 postcode: "50240"
 city: Saint-Aubin-de-Terregatte
 street: ""
-housenumber: 
-phone: "+33 2 33 89 65 50"
-opening_hours: "24/7"
-website: "https://store.totalenergies.fr/en_EN/NF078244"
+housenumber: ""
+phone: +33 2 33 89 65 50
+opening_hours: 24/7
+website: https://store.totalenergies.fr/en_EN/NF078244

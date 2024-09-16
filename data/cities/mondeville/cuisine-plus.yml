@@ -1,11 +1,11 @@
 id: 304196016
-type: way
+type: node
 latitude: 49.1593
 longitude: -0.30225
 postcode: "14120"
 city: Mondeville
-street: "Rue Joseph Jacquart"
-housenumber: 
-phone: "+33 2 31 84 64 64"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.cuisine-plus.fr/"
+street: Rue Joseph Jacquart
+housenumber: ""
+phone: +33 2 31 84 64 64
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.cuisine-plus.fr/

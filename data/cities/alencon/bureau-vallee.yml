@@ -1,11 +1,11 @@
 id: 124616762
-type: way
+type: node
 latitude: 48.43344
 longitude: 0.09314
 postcode: "61000"
 city: Alençon
-street: "Rue Saint-Blaise"
-housenumber: 92
+street: Rue Saint-Blaise
+housenumber: "92"
 phone: ""
 opening_hours: ""
 website: ""

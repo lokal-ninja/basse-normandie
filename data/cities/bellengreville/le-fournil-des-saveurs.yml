@@ -4,8 +4,8 @@ latitude: 49.12718
 longitude: -0.213
 postcode: "14370"
 city: Bellengreville
-street: "Route de Paris"
-housenumber: 2
-phone: "+33 2 31 08 25 88"
-opening_hours: "Mo-Fr 06:00-20:00"
+street: Route de Paris
+housenumber: "2"
+phone: +33 2 31 08 25 88
+opening_hours: Mo-Fr 06:00-20:00
 website: ""

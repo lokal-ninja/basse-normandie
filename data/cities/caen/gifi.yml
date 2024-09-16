@@ -1,11 +1,11 @@
 id: 155632771
-type: way
+type: node
 latitude: 49.20957
 longitude: -0.36431
 postcode: "14000"
 city: Caen
-street: "Boulevard Maréchal Juin"
-housenumber: 1
-phone: "+33 2 31 47 42 11"
-opening_hours: "Mo-Sa 09:00-19:00; Su 14:00-18:30"
-website: "https://magasins.gifi.fr/fr/gifi-cote-de-nacre-29898"
+street: Boulevard Maréchal Juin
+housenumber: "1"
+phone: +33 2 31 47 42 11
+opening_hours: Mo-Sa 09:00-19:00; Su 14:00-18:30
+website: https://magasins.gifi.fr/fr/gifi-cote-de-nacre-29898

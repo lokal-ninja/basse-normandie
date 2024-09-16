@@ -1,11 +1,11 @@
 id: 153890570
-type: way
+type: node
 latitude: 49.10279
 longitude: -1.11507
 postcode: "50000"
 city: Saint-Lô
-street: "Rue Henri Dunant"
-housenumber: 
+street: Rue Henri Dunant
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.carrefour.fr/magasin/contact-saint-lo-dunant"
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.carrefour.fr/magasin/contact-saint-lo-dunant

@@ -1,11 +1,11 @@
 id: 236365999
-type: way
+type: node
 latitude: 49.28132
 longitude: -0.71193
 postcode: "14400"
 city: Bayeux
-street: "Rue Saint-Patrice"
+street: Rue Saint-Patrice
 housenumber: 54 bis
-phone: "+33 2 31 92 84 94"
-opening_hours: "Mo-Sa 08:30-19:30; Su 09:00-12:30"
-website: "https://www.magasins-u.com/magasin/uexpress-bayeux"
+phone: +33 2 31 92 84 94
+opening_hours: Mo-Sa 08:30-19:30; Su 09:00-12:30
+website: https://www.magasins-u.com/magasin/uexpress-bayeux

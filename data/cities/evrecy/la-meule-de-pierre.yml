@@ -1,11 +1,11 @@
 id: 286696199
-type: way
+type: node
 latitude: 49.10527
 longitude: -0.4947
 postcode: "14210"
 city: Évrecy
-street: "Rue des Gallois"
-housenumber: 1
-phone: "+33 2 31 82 52 12"
+street: Rue des Gallois
+housenumber: "1"
+phone: +33 2 31 82 52 12
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 155656155
-type: way
+type: node
 latitude: 49.1728
 longitude: -0.38969
 postcode: "14000"
 city: Caen
-street: "Boulevard Yves Guillou"
-housenumber: 83
-phone: "+33 2 31 94 53 86"
-opening_hours: "24/7"
+street: Boulevard Yves Guillou
+housenumber: "83"
+phone: +33 2 31 94 53 86
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 69355723
-type: way
+type: node
 latitude: 49.17195
 longitude: -0.28368
 postcode: "14730"
 city: Giberville
-street: "Route de Rouen"
-housenumber: 
-phone: "+33 2 31 72 55 21"
+street: Route de Rouen
+housenumber: ""
+phone: +33 2 31 72 55 21
 opening_hours: ""
-website: "https://concessions.peugeot.fr/giberville"
+website: https://concessions.peugeot.fr/giberville

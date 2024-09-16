@@ -4,8 +4,8 @@ latitude: 49.63489
 longitude: -1.61644
 postcode: "50100"
 city: Cherbourg-en-Cotentin
-street: "Rue de la Saline"
-housenumber: 3
-phone: "+33 2 33 44 19 44"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 09:00-16:00"
-website: "https://www.midas.fr/cherbourg_1193"
+street: Rue de la Saline
+housenumber: "3"
+phone: +33 2 33 44 19 44
+opening_hours: Mo-Fr 08:30-18:30; Sa 09:00-16:00
+website: https://www.midas.fr/cherbourg_1193

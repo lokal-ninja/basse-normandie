@@ -4,8 +4,8 @@ latitude: 49.24688
 longitude: -0.27762
 postcode: "14970"
 city: Bénouville
-street: "Rue de Bellevue"
-housenumber: 7
-phone: "+33 2 31461234"
-opening_hours: "Mo-Sa 09:00-12:00,14:00-18:30"
-website: "https://www.nivault.com"
+street: Rue de Bellevue
+housenumber: "7"
+phone: +33 2 31461234
+opening_hours: Mo-Sa 09:00-12:00,14:00-18:30
+website: https://www.nivault.com

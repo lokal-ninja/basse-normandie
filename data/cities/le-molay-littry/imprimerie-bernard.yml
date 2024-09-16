@@ -1,11 +1,11 @@
 id: 290927151
-type: way
+type: node
 latitude: 49.24206
 longitude: -0.87451
 postcode: "14330"
 city: Le Molay-Littry
-street: "Route de Tournières"
-housenumber: 8
+street: Route de Tournières
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

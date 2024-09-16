@@ -1,11 +1,11 @@
 id: 129769505
-type: way
+type: node
 latitude: 48.55796
 longitude: -0.41358
 postcode: "61140"
 city: Bagnoles-de-l'Orne-Normandie
-street: "Avenue du Docteur Pierre Poulain"
-housenumber: 26
+street: Avenue du Docteur Pierre Poulain
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

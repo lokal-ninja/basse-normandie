@@ -1,11 +1,11 @@
 id: 109716915
-type: way
+type: node
 latitude: 49.22652
 longitude: -0.3663
 postcode: "14112"
 city: Biéville-Beuville
-street: "Boulevard du Suffolk"
-housenumber: 12
+street: Boulevard du Suffolk
+housenumber: "12"
 phone: "+33231430011"
-opening_hours: "Mo-Sa 08:30-12:30,14:00-19:00"
-website: "https://groupe-polmar.fr/concessions/caen-hyundai-2/"
+opening_hours: Mo-Sa 08:30-12:30,14:00-19:00
+website: https://groupe-polmar.fr/concessions/caen-hyundai-2/

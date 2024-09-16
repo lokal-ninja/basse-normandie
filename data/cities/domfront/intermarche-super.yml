@@ -1,11 +1,11 @@
 id: 484177087
-type: way
+type: node
 latitude: 48.58201
 longitude: -0.63875
 postcode: "61700"
 city: Domfront
-street: "La Halte de Saint-Front"
-housenumber: 
+street: La Halte de Saint-Front
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:15"
-website: "https://www.intermarche.com/magasins/05132/domfront-61700/infos-pratiques"
+opening_hours: Mo-Sa 08:30-19:15
+website: https://www.intermarche.com/magasins/05132/domfront-61700/infos-pratiques

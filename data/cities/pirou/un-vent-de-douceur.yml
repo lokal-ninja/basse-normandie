@@ -4,8 +4,8 @@ latitude: 49.16788
 longitude: -1.59589
 postcode: ""
 city: Pirou
-street: "Place du Général de Gaulle"
-housenumber: 13
-phone: "+33 2 50 52 96 88"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-18:30; Sa 09:00-12:00"
+street: Place du Général de Gaulle
+housenumber: "13"
+phone: +33 2 50 52 96 88
+opening_hours: Tu-Fr 09:00-12:00,14:00-18:30; Sa 09:00-12:00
 website: ""

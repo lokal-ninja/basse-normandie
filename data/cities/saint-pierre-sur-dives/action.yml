@@ -1,11 +1,11 @@
 id: 161909795
-type: way
+type: node
 latitude: 49.02467
 longitude: -0.02771
 postcode: "14170"
 city: Saint-Pierre-sur-Dives
-street: "Rue d'Harmonville"
-housenumber: 34
+street: Rue d'Harmonville
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

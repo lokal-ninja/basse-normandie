@@ -1,11 +1,11 @@
 id: 111578142
-type: way
+type: node
 latitude: 49.34513
 longitude: 0.09842
 postcode: "14800"
 city: Saint-Arnoult
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

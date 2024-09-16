@@ -4,8 +4,8 @@ latitude: 49.23949
 longitude: -0.28341
 postcode: "14970"
 city: Bénouville
-street: "Rue des Écordières"
-housenumber: 4
-phone: "+33 2 31 44 62 38"
-opening_hours: "Fermé temporairement (affiche)."
+street: Rue des Écordières
+housenumber: "4"
+phone: +33 2 31 44 62 38
+opening_hours: '"Fermé temporairement (affiche)."'
 website: ""

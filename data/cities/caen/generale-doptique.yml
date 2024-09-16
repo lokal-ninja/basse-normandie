@@ -1,11 +1,11 @@
 id: 889169013
-type: way
+type: node
 latitude: 49.20977
 longitude: -0.36534
 postcode: "14000"
 city: Caen
-street: "Boulevard Maréchal Juin"
-housenumber: 1
-phone: "+33 2 31 53 18 82"
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://www.generale-optique.com/opticien/caen/53"
+street: Boulevard Maréchal Juin
+housenumber: "1"
+phone: +33 2 31 53 18 82
+opening_hours: Mo-Sa 09:30-19:30
+website: https://www.generale-optique.com/opticien/caen/53

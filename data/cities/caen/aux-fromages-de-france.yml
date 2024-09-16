@@ -4,8 +4,8 @@ latitude: 49.17996
 longitude: -0.35828
 postcode: "14000"
 city: Caen
-street: "Rue Saint-Jean"
-housenumber: 116
+street: Rue Saint-Jean
+housenumber: "116"
 phone: ""
-opening_hours: "Tu-Fr 09:00-13:00,15:30-19:15, Fr,Sa 09:00-13:00,15:00-19:15"
+opening_hours: Tu-Fr 09:00-13:00,15:30-19:15, Fr,Sa 09:00-13:00,15:00-19:15
 website: ""

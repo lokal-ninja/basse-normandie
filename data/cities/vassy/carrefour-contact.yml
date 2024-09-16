@@ -1,11 +1,11 @@
 id: 460973242
-type: way
+type: node
 latitude: 48.85349
 longitude: -0.66394
 postcode: "14410"
 city: Vassy
-street: "La Criere"
-housenumber: 
-phone: "+33 2 31 68 60 84"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/contact-vassy"
+street: La Criere
+housenumber: ""
+phone: +33 2 31 68 60 84
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-13:00
+website: https://www.carrefour.fr/magasin/contact-vassy

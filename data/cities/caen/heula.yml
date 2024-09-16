@@ -4,8 +4,8 @@ latitude: 49.18306
 longitude: -0.365
 postcode: "14000"
 city: Caen
-street: "Rue Froide"
-housenumber: 7
-phone: "+33 2 31 43 98 25"
-opening_hours: "Tu-Sa 11:00-13:00,14:00-19:00"
+street: Rue Froide
+housenumber: "7"
+phone: +33 2 31 43 98 25
+opening_hours: Tu-Sa 11:00-13:00,14:00-19:00
 website: ""

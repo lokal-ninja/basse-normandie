@@ -1,11 +1,11 @@
 id: 652753304
-type: way
+type: node
 latitude: 49.28549
 longitude: 0.2032
 postcode: "14130"
 city: Pont-l'Évêque
-street: "Rue Laplace"
-housenumber: 3
-phone: "+33 1 55 56 41 52"
-opening_hours: "Mo-Sa 08:30-19:30; Su 09:00-18:00"
-website: "https://www.action.com/fr-fr/points-de-vente/?utm_campaign=localbusiness&utm_source=google&utm_medium=organic&utm_content=4475"
+street: Rue Laplace
+housenumber: "3"
+phone: +33 1 55 56 41 52
+opening_hours: Mo-Sa 08:30-19:30; Su 09:00-18:00
+website: https://www.action.com/fr-fr/points-de-vente/?utm_campaign=localbusiness&utm_source=google&utm_medium=organic&utm_content=4475

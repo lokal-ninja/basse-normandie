@@ -4,8 +4,9 @@ latitude: 49.32401
 longitude: -0.3716
 postcode: "14830"
 city: Langrune-sur-Mer
-street: "Rue de la Mer"
+street: Rue de la Mer
 housenumber: 45bis
-phone: "+33 2 31 77 36 19"
-opening_hours: "Mo,Tu 09:00-12:00,14:00-18:00; Th,Fr 09:00-19:00; Sa 09:00-17:00; Jul-Aug Mo,Th-Sa off; Jul-Aug Tu-Sa 09:00-19:00"
+phone: +33 2 31 77 36 19
+opening_hours: Mo,Tu 09:00-12:00,14:00-18:00; Th,Fr 09:00-19:00; Sa 09:00-17:00; Jul-Aug
+    Mo,Th-Sa off; Jul-Aug Tu-Sa 09:00-19:00
 website: ""

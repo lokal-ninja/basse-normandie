@@ -1,11 +1,11 @@
 id: 239504379
-type: way
+type: node
 latitude: 49.60421
 longitude: -1.59512
 postcode: "50470"
 city: Cherbourg-en-Cotentin
-street: "Rue des Marettes"
-housenumber: 
+street: Rue des Marettes
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

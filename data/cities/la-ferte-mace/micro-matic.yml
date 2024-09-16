@@ -1,11 +1,11 @@
 id: 172176057
-type: way
+type: node
 latitude: 48.57419
 longitude: -0.36686
 postcode: "61600"
 city: La-Ferté-Macé
-street: "Z.I. du Parc"
-housenumber: 
-phone: "+33 2 33 30 89 82"
+street: Z.I. du Parc
+housenumber: ""
+phone: +33 2 33 30 89 82
 opening_hours: ""
-website: "https://micro-matic.fr/"
+website: https://micro-matic.fr/

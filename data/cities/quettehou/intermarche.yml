@@ -1,11 +1,11 @@
 id: 943509777
-type: way
+type: node
 latitude: 49.599
 longitude: -1.29927
 postcode: "50630"
 city: Quettehou
-street: "Rue du Val de Saire"
-housenumber: 10
+street: Rue du Val de Saire
+housenumber: "10"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.28836
 longitude: 0.18858
 postcode: "14130"
 city: Pont-l'Évêque
-street: "Rue Hamelin"
-housenumber: 33
-phone: "+33 2 31 64 10 65"
-opening_hours: "24/7"
-website: "https://services.totalenergies.fr/"
+street: Rue Hamelin
+housenumber: "33"
+phone: +33 2 31 64 10 65
+opening_hours: 24/7
+website: https://services.totalenergies.fr/

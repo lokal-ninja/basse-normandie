@@ -1,11 +1,11 @@
 id: 256231916
-type: way
+type: node
 latitude: 48.78977
 longitude: -1.3903
 postcode: "50320"
 city: La Lucerne-d'Outremer
-street: "La Carrougère"
-housenumber: 
+street: La Carrougère
+housenumber: ""
 phone: ""
-opening_hours: "Mo 09:00-12:00,14:00-18:30; Tu-Th 08:30-12:00,14:00-18:30; Fr,Sa 08:30-12:00,14:00-18:00"
+opening_hours: Mo 09:00-12:00,14:00-18:30; Tu-Th 08:30-12:00,14:00-18:30; Fr,Sa 08:30-12:00,14:00-18:00
 website: ""

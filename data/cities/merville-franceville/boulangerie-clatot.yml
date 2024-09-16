@@ -1,11 +1,11 @@
 id: 188104047
-type: way
+type: node
 latitude: 49.28112
 longitude: -0.20306
 postcode: ""
 city: Merville-Franceville
-street: "Avenue de Paris"
-housenumber: 14
+street: Avenue de Paris
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

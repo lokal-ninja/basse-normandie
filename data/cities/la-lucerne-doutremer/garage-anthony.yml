@@ -1,11 +1,11 @@
 id: 256232981
-type: way
+type: node
 latitude: 48.79056
 longitude: -1.40235
 postcode: "50320"
 city: La Lucerne-d'Outremer
-street: "Rue Saint-Jacques"
-housenumber: 2
+street: Rue Saint-Jacques
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:00,14:00-19:00"
+opening_hours: Mo-Fr 08:30-12:00,14:00-19:00
 website: ""

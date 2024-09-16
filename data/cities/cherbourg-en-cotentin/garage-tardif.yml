@@ -4,8 +4,8 @@ latitude: 49.6402
 longitude: -1.60897
 postcode: "50100"
 city: Cherbourg-en-Cotentin
-street: "Rue Dom Pedro"
-housenumber: 102
-phone: "+33 2 33 44 07 76"
-opening_hours: "Mo-Th 09:00-12:00,13:30-18:00; Fr 09:00-12:00"
-website: "https://garage-cherbourg-tardif.fr/"
+street: Rue Dom Pedro
+housenumber: "102"
+phone: +33 2 33 44 07 76
+opening_hours: Mo-Th 09:00-12:00,13:30-18:00; Fr 09:00-12:00
+website: https://garage-cherbourg-tardif.fr/

@@ -1,11 +1,11 @@
 id: 232013140
-type: way
+type: node
 latitude: 49.26345
 longitude: -0.28061
 postcode: "14970"
 city: Saint-Aubin-d'Arquenay
-street: "Route de Ouistreham"
-housenumber: 19
-phone: "+33 2 31 36 68 70"
+street: Route de Ouistreham
+housenumber: "19"
+phone: +33 2 31 36 68 70
 opening_hours: ""
-website: "https://www.coccinelle.fr/Trouver_Un_Magasin/Details/coccinelle-express/st-aubin-darquenay/39-route-douistreham"
+website: https://www.coccinelle.fr/Trouver_Un_Magasin/Details/coccinelle-express/st-aubin-darquenay/39-route-douistreham

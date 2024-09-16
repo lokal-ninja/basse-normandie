@@ -1,11 +1,11 @@
 id: 112271577
-type: way
+type: node
 latitude: 49.6436
 longitude: -1.64449
 postcode: "50120"
 city: Equeurdreville-Hainneville
-street: "Rue des Maçons"
-housenumber: 102
+street: Rue des Maçons
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

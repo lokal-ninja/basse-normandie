@@ -1,11 +1,11 @@
 id: 239500498
-type: way
+type: node
 latitude: 49.6025
 longitude: -1.59932
 postcode: "50470"
 city: Cherbourg-en-Cotentin
 street: ""
-housenumber: 
-phone: "+33 2 33 88 13 13"
-opening_hours: "Mo-Th 08:30-21:00; Fr-Sa 08:30-21:30; Su 09:00-12:30"
+housenumber: ""
+phone: +33 2 33 88 13 13
+opening_hours: Mo-Th 08:30-21:00; Fr-Sa 08:30-21:30; Su 09:00-12:30
 website: ""

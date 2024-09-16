@@ -1,11 +1,11 @@
 id: 198498332
-type: way
+type: node
 latitude: 49.2885
 longitude: -1.54276
 postcode: "50250"
 city: La Haye-du-Puits
-street: "Rue du Calvaire"
-housenumber: 11
-phone: "+332 33 46 04 00"
-opening_hours: "Tu-Sa 09:00-12:00,14:00-18:30"
+street: Rue du Calvaire
+housenumber: "11"
+phone: +332 33 46 04 00
+opening_hours: Tu-Sa 09:00-12:00,14:00-18:30
 website: ""

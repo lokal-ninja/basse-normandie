@@ -4,8 +4,8 @@ latitude: 49.17344
 longitude: -0.39314
 postcode: "14000"
 city: Caen
-street: "Avenue Henry Chéron"
-housenumber: 48
-phone: "+33 2 31 73 30 25"
-opening_hours: "Mo-Sa 07:00-22:00; Su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/express-caen-cheron"
+street: Avenue Henry Chéron
+housenumber: "48"
+phone: +33 2 31 73 30 25
+opening_hours: Mo-Sa 07:00-22:00; Su 09:00-13:00
+website: https://www.carrefour.fr/magasin/express-caen-cheron

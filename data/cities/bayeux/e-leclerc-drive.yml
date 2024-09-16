@@ -1,11 +1,11 @@
 id: 821625969
-type: way
+type: node
 latitude: 49.27853
 longitude: -0.72018
 postcode: "14400"
 city: Bayeux
-street: "Chemin Saint-Julien"
-housenumber: 
+street: Chemin Saint-Julien
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

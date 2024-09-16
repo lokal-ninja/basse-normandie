@@ -5,7 +5,7 @@ longitude: -0.56794
 postcode: "61100"
 city: Flers
 street: ""
-housenumber: 35
-phone: "+33 2 33 64 95 55"
-opening_hours: "Mo 14:00-19:00; Tu-Th 10:00-12:15,14:00-19:00; Fr,Sa 10:00-19:00"
-website: "http://lesgaleries.fr/flers/"
+housenumber: "35"
+phone: +33 2 33 64 95 55
+opening_hours: Mo 14:00-19:00; Tu-Th 10:00-12:15,14:00-19:00; Fr,Sa 10:00-19:00
+website: http://lesgaleries.fr/flers/

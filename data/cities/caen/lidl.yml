@@ -1,11 +1,11 @@
 id: 155640814
-type: way
+type: node
 latitude: 49.1848
 longitude: -0.34889
 postcode: "14000"
 city: Caen
-street: "Avenue de Tourville"
-housenumber: 57
+street: Avenue de Tourville
+housenumber: "57"
 phone: ""
-opening_hours: "Mo-Fr 08:30-20:00; Sa 8:30-19:00"
+opening_hours: Mo-Fr 08:30-20:00; Sa 8:30-19:00
 website: ""

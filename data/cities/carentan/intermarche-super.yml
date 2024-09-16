@@ -1,11 +1,11 @@
 id: 154020462
-type: way
+type: node
 latitude: 49.3027
 longitude: -1.26078
 postcode: "50500"
 city: Carentan
-street: "Rue de la Guinguette"
-housenumber: 
+street: Rue de la Guinguette
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

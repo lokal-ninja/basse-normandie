@@ -1,11 +1,11 @@
 id: 332743593
-type: way
+type: node
 latitude: 49.25783
 longitude: 0.05362
 postcode: "14430"
 city: Annebault
-street: "Les Quatre Routes"
-housenumber: 12
+street: Les Quatre Routes
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

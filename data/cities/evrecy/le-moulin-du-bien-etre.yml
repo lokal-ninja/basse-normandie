@@ -1,11 +1,11 @@
 id: 286695576
-type: way
+type: node
 latitude: 49.09869
 longitude: -0.49913
 postcode: "14210"
 city: Évrecy
-street: "Rue d'Yverdon"
-housenumber: 12
-phone: "+33 2 31 08 41 00"
+street: Rue d'Yverdon
+housenumber: "12"
+phone: +33 2 31 08 41 00
 opening_hours: ""
-website: "https://www.lemoulindubienetre.fr/"
+website: https://www.lemoulindubienetre.fr/

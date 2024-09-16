@@ -1,11 +1,11 @@
 id: 70900922
-type: way
+type: node
 latitude: 48.7436
 longitude: -0.56308
 postcode: "61100"
 city: Flers
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

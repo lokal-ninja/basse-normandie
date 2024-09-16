@@ -1,11 +1,11 @@
 id: 764193994
-type: way
+type: node
 latitude: 49.21325
 longitude: -1.5269
 postcode: "50430"
 city: Lessay
-street: "Rue du Ferrage"
-housenumber: 15
+street: Rue du Ferrage
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00"
+opening_hours: Mo-Sa 08:30-20:00
 website: ""

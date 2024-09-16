@@ -1,11 +1,11 @@
 id: 155674675
-type: way
+type: node
 latitude: 49.19105
 longitude: -0.33938
 postcode: "14000"
 city: Caen
-street: "Avenue Georges Clemenceau"
-housenumber: 52
+street: Avenue Georges Clemenceau
+housenumber: "52"
 phone: ""
 opening_hours: ""
 website: ""

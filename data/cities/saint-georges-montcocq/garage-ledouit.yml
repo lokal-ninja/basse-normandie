@@ -1,11 +1,11 @@
 id: 217002609
-type: way
+type: node
 latitude: 49.12988
 longitude: -1.09452
 postcode: "50000"
 city: Saint-Georges-Montcocq
-street: "Avenue du Cotentin"
-housenumber: 45
+street: Avenue du Cotentin
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

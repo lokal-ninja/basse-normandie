@@ -1,11 +1,11 @@
 id: 1014015901
-type: way
+type: node
 latitude: 48.76225
 longitude: 0.61607
 postcode: "61300"
 city: L'Aigle
-street: "Avenue du Mont Saint-Michel"
-housenumber: 
-phone: "02 50 76 73 89"
+street: Avenue du Mont Saint-Michel
+housenumber: ""
+phone: 02 50 76 73 89
 opening_hours: ""
-website: "https://laigle.biocoop.net/"
+website: https://laigle.biocoop.net/

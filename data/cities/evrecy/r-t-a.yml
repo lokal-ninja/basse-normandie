@@ -1,11 +1,11 @@
 id: 286695912
-type: way
+type: node
 latitude: 49.10601
 longitude: -0.49331
 postcode: "14210"
 city: Évrecy
-street: "Rue des Gallois"
-housenumber: 4
-phone: "+33 2 31 06 60 00"
-opening_hours: "Mo-Fr 09:30-12:00, 14:00-19:00; Sa 08:30-12:00, 14:00-18:00"
-website: "https://rta-evrecy.fr"
+street: Rue des Gallois
+housenumber: "4"
+phone: +33 2 31 06 60 00
+opening_hours: Mo-Fr 09:30-12:00, 14:00-19:00; Sa 08:30-12:00, 14:00-18:00
+website: https://rta-evrecy.fr

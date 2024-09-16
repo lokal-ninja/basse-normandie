@@ -1,11 +1,11 @@
 id: 96735069
-type: way
+type: node
 latitude: 48.55306
 longitude: -1.50875
 postcode: "50170"
 city: Pontorson
-street: "Rue Couesnon"
-housenumber: 78
+street: Rue Couesnon
+housenumber: "78"
 phone: ""
 opening_hours: ""
 website: ""

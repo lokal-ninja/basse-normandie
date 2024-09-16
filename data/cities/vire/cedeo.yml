@@ -1,11 +1,11 @@
 id: 273878144
-type: way
+type: node
 latitude: 48.86161
 longitude: -0.87448
 postcode: "14500"
 city: Vire
-street: "Route de Caen"
-housenumber: 
+street: Route de Caen
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://cedeo.fr/"
+website: https://cedeo.fr/

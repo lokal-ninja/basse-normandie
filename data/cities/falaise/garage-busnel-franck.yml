@@ -1,11 +1,11 @@
 id: 693774983
-type: way
+type: node
 latitude: 48.88732
 longitude: -0.18479
 postcode: "14700"
 city: Falaise
-street: "Rue Pascal"
-housenumber: 
-phone: "+33 2 31 40 79 25"
-opening_hours: "Mo-Fr 08:30-18:30"
-website: "https://www.garage-busnel.fr/"
+street: Rue Pascal
+housenumber: ""
+phone: +33 2 31 40 79 25
+opening_hours: Mo-Fr 08:30-18:30
+website: https://www.garage-busnel.fr/

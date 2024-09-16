@@ -1,11 +1,11 @@
 id: 53093503
-type: way
+type: node
 latitude: 49.16226
 longitude: -0.29303
 postcode: "14120"
 city: Mondeville
-street: "Centre Commercial Mondeville 2"
-housenumber: 
-phone: "+33 2 31 35 20 70"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.kiabi.com/magasin/kiabi-MONDEVILLE_FMCAENM"
+street: Centre Commercial Mondeville 2
+housenumber: ""
+phone: +33 2 31 35 20 70
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.kiabi.com/magasin/kiabi-MONDEVILLE_FMCAENM

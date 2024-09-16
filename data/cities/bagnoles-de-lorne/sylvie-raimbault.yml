@@ -1,11 +1,11 @@
 id: 129772283
-type: way
+type: node
 latitude: 48.55159
 longitude: -0.41968
 postcode: "61140"
 city: Bagnoles-de-l'Orne
-street: "Avenue Docteur Joly"
-housenumber: 29
+street: Avenue Docteur Joly
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

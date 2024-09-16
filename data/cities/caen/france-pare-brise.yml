@@ -4,8 +4,8 @@ latitude: 49.1792
 longitude: -0.34505
 postcode: "14000"
 city: Caen
-street: "Cours Montalivet"
-housenumber: 6
-phone: "+33 231340411"
-opening_hours: "Mo-Fr 08:30-12:00,13:30-18:00; Sa 08:30-12:00"
-website: "https://centre.franceparebrise.fr/reparation-pare-brise/normandie/calvados/caen/caen"
+street: Cours Montalivet
+housenumber: "6"
+phone: +33 231340411
+opening_hours: Mo-Fr 08:30-12:00,13:30-18:00; Sa 08:30-12:00
+website: https://centre.franceparebrise.fr/reparation-pare-brise/normandie/calvados/caen/caen

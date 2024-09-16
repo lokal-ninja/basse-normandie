@@ -4,8 +4,8 @@ latitude: 49.50846
 longitude: -1.46904
 postcode: "50700"
 city: Valognes
-street: "Place Vicq d'Azir"
-housenumber: 12
-phone: "+33 2 33 40 12 32"
-opening_hours: "Tu-Th,Sa 06:45-19:15; Fr 06:45-18:15"
+street: Place Vicq d'Azir
+housenumber: "12"
+phone: +33 2 33 40 12 32
+opening_hours: Tu-Th,Sa 06:45-19:15; Fr 06:45-18:15
 website: ""

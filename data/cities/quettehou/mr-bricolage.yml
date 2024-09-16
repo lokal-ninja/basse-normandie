@@ -1,11 +1,11 @@
 id: 203472506
-type: way
+type: node
 latitude: 49.59805
 longitude: -1.29862
 postcode: "50630"
 city: Quettehou
-street: "Rue du Val de Saire"
-housenumber: 15
-phone: "+33 2 33 54 11 03"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-18:00"
-website: "https://magasin.mr-bricolage.fr/190-mr-bricolage-quettehou"
+street: Rue du Val de Saire
+housenumber: "15"
+phone: +33 2 33 54 11 03
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-18:00
+website: https://magasin.mr-bricolage.fr/190-mr-bricolage-quettehou

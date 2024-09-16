@@ -1,11 +1,11 @@
 id: 154046935
-type: way
+type: node
 latitude: 49.37185
 longitude: -1.78989
 postcode: "50270"
 city: Barneville-Carteret
-street: "Rue du Port"
-housenumber: 
+street: Rue du Port
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.manche-iles.com/fr/"
+website: https://www.manche-iles.com/fr/

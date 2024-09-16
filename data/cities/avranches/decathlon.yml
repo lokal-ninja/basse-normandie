@@ -4,8 +4,8 @@ latitude: 48.65679
 longitude: -1.35535
 postcode: "50300"
 city: Avranches
-street: "Parc de la baie"
-housenumber: 
+street: Parc de la baie
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.decathlon.fr/fr/store?store_id=PS_127"
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.decathlon.fr/fr/store?store_id=PS_127

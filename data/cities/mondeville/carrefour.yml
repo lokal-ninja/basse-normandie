@@ -1,11 +1,11 @@
 id: 144779207
-type: way
+type: node
 latitude: 49.16634
 longitude: -0.29307
 postcode: "14120"
 city: Mondeville
-street: "Centre Commercial Mondeville 2"
-housenumber: 
-phone: "+33 2 31 35 90 79"
-opening_hours: "Mo-Sa 08:30-21:00"
-website: "https://www.carrefour.fr/magasin/mondeville"
+street: Centre Commercial Mondeville 2
+housenumber: ""
+phone: +33 2 31 35 90 79
+opening_hours: Mo-Sa 08:30-21:00
+website: https://www.carrefour.fr/magasin/mondeville

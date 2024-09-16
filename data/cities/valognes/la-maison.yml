@@ -1,11 +1,12 @@
 id: 153559458
-type: way
+type: node
 latitude: 49.50927
 longitude: -1.47368
 postcode: "50700"
 city: Valognes
-street: "place du château"
-housenumber: 11
+street: place du château
+housenumber: "11"
 phone: "+33233216310"
-opening_hours: "Mo 14:00-18:30; Tu-Th 8:45-12:00, 14:00-18:30; Fr 8:45-12:30, 14:00-18:30; Sa 9:00-12:00, 14:00-18:00"
-website: "https://lamaison.fr/magasin/valognes/"
+opening_hours: Mo 14:00-18:30; Tu-Th 8:45-12:00, 14:00-18:30; Fr 8:45-12:30, 14:00-18:30;
+    Sa 9:00-12:00, 14:00-18:00
+website: https://lamaison.fr/magasin/valognes/

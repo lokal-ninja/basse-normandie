@@ -4,8 +4,8 @@ latitude: 49.18347
 longitude: -0.37105
 postcode: "14000"
 city: Caen
-street: "Rue Saint-Martin"
-housenumber: 21
-phone: "+33 2 14 40 14 22"
-opening_hours: "Mo-Sa 10:00-19:00"
+street: Rue Saint-Martin
+housenumber: "21"
+phone: +33 2 14 40 14 22
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

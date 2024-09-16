@@ -4,8 +4,8 @@ latitude: 49.18434
 longitude: -0.36371
 postcode: "14000"
 city: Caen
-street: "Place Jean Letellier"
-housenumber: 1
-phone: "+336 78 24 02 26"
-opening_hours: "Tu-Sa 10:00-18:30"
-website: "https://www.polar-sf.fr/"
+street: Place Jean Letellier
+housenumber: "1"
+phone: +336 78 24 02 26
+opening_hours: Tu-Sa 10:00-18:30
+website: https://www.polar-sf.fr/

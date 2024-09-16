@@ -1,11 +1,11 @@
 id: 83480121
-type: way
+type: node
 latitude: 49.22652
 longitude: -0.30516
 postcode: "14550"
 city: Blainville-sur-Orne
-street: "Rue Jacques Duclos"
-housenumber: 18
+street: Rue Jacques Duclos
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

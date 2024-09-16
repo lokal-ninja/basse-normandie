@@ -4,8 +4,8 @@ latitude: 49.17759
 longitude: -0.35712
 postcode: "14000"
 city: Caen
-street: "Rue du 11 Novembre"
-housenumber: 20
+street: Rue du 11 Novembre
+housenumber: "20"
 phone: "+33231839238"
-opening_hours: "Mo 09:30-18:00; Tu-Th 09:30-19:00; Fr 09:00-19:00; Sa 09:00-17:00"
-website: "https://www.soho-caen.fr/"
+opening_hours: Mo 09:30-18:00; Tu-Th 09:30-19:00; Fr 09:00-19:00; Sa 09:00-17:00
+website: https://www.soho-caen.fr/

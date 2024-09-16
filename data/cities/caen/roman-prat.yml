@@ -4,8 +4,8 @@ latitude: 49.18198
 longitude: -0.36889
 postcode: "14000"
 city: Caen
-street: "Rue Écuyère"
-housenumber: 44
-phone: "+33 9 81 61 79 18"
-opening_hours: "Mo 14:00-17:30; Tu-We 10:30-13:30,14:30-17:30; Th-Sa 10:30-17:30"
+street: Rue Écuyère
+housenumber: "44"
+phone: +33 9 81 61 79 18
+opening_hours: Mo 14:00-17:30; Tu-We 10:30-13:30,14:30-17:30; Th-Sa 10:30-17:30
 website: ""

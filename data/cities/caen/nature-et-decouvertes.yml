@@ -4,8 +4,8 @@ latitude: 49.18279
 longitude: -0.36505
 postcode: "14000"
 city: Caen
-street: "Rue Saint-Pierre"
-housenumber: 88
-phone: "+33 2 31 27 86 00"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.natureetdecouvertes.com/magasins/calvados/caen"
+street: Rue Saint-Pierre
+housenumber: "88"
+phone: +33 2 31 27 86 00
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.natureetdecouvertes.com/magasins/calvados/caen

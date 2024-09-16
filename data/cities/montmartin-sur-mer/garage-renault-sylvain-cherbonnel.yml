@@ -1,11 +1,11 @@
 id: 157673129
-type: way
+type: node
 latitude: 48.98654
 longitude: -1.51603
 postcode: "50590"
 city: Montmartin-sur-mer
-street: "Rue du Clos"
-housenumber: 21
-phone: "02 33 45 06 31"
-opening_hours: "Mo-Sa 08:00-19:00"
+street: Rue du Clos
+housenumber: "21"
+phone: 02 33 45 06 31
+opening_hours: Mo-Sa 08:00-19:00
 website: ""

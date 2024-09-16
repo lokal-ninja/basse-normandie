@@ -4,8 +4,8 @@ latitude: 49.30891
 longitude: -1.25475
 postcode: "50500"
 city: Carentan
-street: "Route de Saint-Côme"
-housenumber: 29
-phone: "+33 2 33 71 17 15"
-opening_hours: "Tu-Fr 09:00-12:00, 14:00-19:00; Sa 09:00-12:00, 14:00-18:00"
-website: "http://www.carentan-moto.com/"
+street: Route de Saint-Côme
+housenumber: "29"
+phone: +33 2 33 71 17 15
+opening_hours: Tu-Fr 09:00-12:00, 14:00-19:00; Sa 09:00-12:00, 14:00-18:00
+website: http://www.carentan-moto.com/

@@ -1,11 +1,11 @@
 id: 155680488
-type: way
+type: node
 latitude: 49.1828
 longitude: -0.38747
 postcode: "14000"
 city: Caen
-street: "Boulevard André Detolle"
-housenumber: 6
+street: Boulevard André Detolle
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-We 06:00-20:30; Th off; Fr-Su 06:00-20:30"
+opening_hours: Mo-We 06:00-20:30; Th off; Fr-Su 06:00-20:30
 website: ""

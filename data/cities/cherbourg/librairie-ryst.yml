@@ -4,8 +4,8 @@ latitude: 49.63983
 longitude: -1.62357
 postcode: "50100"
 city: Cherbourg
-street: "Rue Grande Rue"
-housenumber: 16
-phone: "+33 2335 34857"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 09:00-19:00"
-website: "https://numerique.librairieryst.fr/"
+street: Rue Grande Rue
+housenumber: "16"
+phone: +33 2335 34857
+opening_hours: Mo 14:00-19:00; Tu-Sa 09:00-19:00
+website: https://numerique.librairieryst.fr/

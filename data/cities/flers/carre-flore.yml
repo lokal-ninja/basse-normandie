@@ -4,8 +4,8 @@ latitude: 48.74998
 longitude: -0.56657
 postcode: "61100"
 city: Flers
-street: "Place Charles de Gaulle"
-housenumber: 5
-phone: "+33 2 33 62 35 30"
-opening_hours: "Tu-Sa 08:30-19:30; Mo 09:00-19:00; Su 09:00-13:00"
-website: "https://www.carre-flore.com"
+street: Place Charles de Gaulle
+housenumber: "5"
+phone: +33 2 33 62 35 30
+opening_hours: Tu-Sa 08:30-19:30; Mo 09:00-19:00; Su 09:00-13:00
+website: https://www.carre-flore.com
