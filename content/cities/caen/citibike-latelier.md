@@ -1,5 +1,5 @@
 ---
-title: "Citibike L'ATELIER"
+title: "Citibike L'Atelier"
 url: /caen/citibike-latelier/
 shop: vélo
 ---
