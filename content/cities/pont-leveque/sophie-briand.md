@@ -1,5 +1,5 @@
 ---
 title: "Sophie Briand"
-url: /pontl-eveque/sophie-briand/
+url: /pont-leveque/sophie-briand/
 shop: boulangerie
 ---
