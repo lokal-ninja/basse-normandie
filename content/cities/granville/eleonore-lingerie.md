@@ -1,5 +1,5 @@
 ---
-title: "Eleonore lingerie"
+title: "Eleonore Lingerie"
 url: /granville/eleonore-lingerie/
 shop: vêtements
 ---
