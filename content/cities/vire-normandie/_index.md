@@ -1,6 +1,6 @@
 ---
 title: Vire Normandie
 url: /vire-normandie/
-latitude: 48.837
-longitude: -0.892
+latitude: 48.838
+longitude: -0.891
 ---
