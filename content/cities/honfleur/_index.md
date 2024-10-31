@@ -1,6 +1,6 @@
 ---
 title: Honfleur
 url: /honfleur/
-latitude: 49.416
-longitude: 0.245
+latitude: 49.422
+longitude: 0.232
 ---
