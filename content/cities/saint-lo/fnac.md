@@ -1,5 +1,5 @@
 ---
 title: "Fnac"
 url: /saint-lo/fnac/
-shop: livres
+shop: électronique
 ---
