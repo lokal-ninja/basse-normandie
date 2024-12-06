@@ -1,5 +1,5 @@
 ---
 title: "Ferme Fouques"
-url: /saint-croix-sur-mer/ferme-fouques/
+url: /sainte-croix-sur-mer/ferme-fouques/
 shop: ferme
 ---
