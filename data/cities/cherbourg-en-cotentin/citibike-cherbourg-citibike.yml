@@ -1,11 +1,11 @@
 id: 8531508103
 type: node
-latitude: 49.63972
+latitude: 49.6397
 longitude: -1.62526
 postcode: "50100"
 city: Cherbourg-en-Cotentin
 street: Rue Albert Mahieu
 housenumber: "11"
-phone: "+33950737004"
-opening_hours: Tu-Sa 10:00-13:00,14:00-19:00
+phone: +33950737004;+33 9 50 73 70 04
+opening_hours: Tu-Sa 10:00-13:00,14:00-19:00;Tu-Sa 10:00-13:00, 14:00-19:00
 website: https://www.citibike.fr/

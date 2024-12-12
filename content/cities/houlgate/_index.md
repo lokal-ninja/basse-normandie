@@ -2,5 +2,5 @@
 title: Houlgate
 url: /houlgate/
 latitude: 49.304
-longitude: -0.078
+longitude: -0.077
 ---
