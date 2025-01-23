@@ -1,5 +1,5 @@
 ---
-title: "Monsieur détecteur"
+title: "monsieur detecteur"
 url: /cagny/monsieur-detecteur/
-shop: shop
+shop: supermarché
 ---
