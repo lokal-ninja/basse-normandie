@@ -1,6 +1,6 @@
 ---
 title: Grentheville
 url: /grentheville/
-latitude: 49.154
-longitude: -0.311
+latitude: 49.141
+longitude: -0.306
 ---
