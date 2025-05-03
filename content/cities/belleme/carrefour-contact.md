@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Contact"
-url: /digosville/carrefour-contact/
+url: /belleme/carrefour-contact/
 shop: commodité
 ---
