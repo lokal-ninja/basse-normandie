@@ -1,5 +1,5 @@
 ---
 title: "CocciMarket"
-url: /domjean/coccimarket/
+url: /cherbourg-en-cotentin/coccimarket/
 shop: commodité
 ---
