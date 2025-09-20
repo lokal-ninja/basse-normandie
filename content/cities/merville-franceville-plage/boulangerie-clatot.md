@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Clatot"
-url: /merville-franceville/boulangerie-clatot/
+url: /merville-franceville-plage/boulangerie-clatot/
 shop: boulangerie
 ---
