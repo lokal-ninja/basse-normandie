@@ -1,6 +1,6 @@
 ---
 title: Moult-Chicheboville
 url: /moult-chicheboville/
-latitude: 49.116
-longitude: -0.165
+latitude: 49.118
+longitude: -0.178
 ---
