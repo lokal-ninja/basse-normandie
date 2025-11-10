@@ -7,5 +7,6 @@ city: Mondeville
 street: Centre Commercial Mondeville 2
 housenumber: ""
 phone: +33 2 31 99 94 20
-opening_hours: Mo-Sa 09:30-19:30
+opening_hours: Mo 11:00-19:30; Tu 09:30-17:30; Th 11:30-19:30; Fr 09:30-18:00; Sa
+    10:30-19:00
 website: https://www.milome.fr/
