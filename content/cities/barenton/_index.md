@@ -1,6 +1,6 @@
 ---
 title: Barenton
 url: /barenton/
-latitude: 48.588
-longitude: -0.806
+latitude: 48.6
+longitude: -0.833
 ---
