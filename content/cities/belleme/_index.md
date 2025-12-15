@@ -1,6 +1,6 @@
 ---
 title: Bellême
 url: /belleme/
-latitude: 48.375
-longitude: 0.566
+latitude: 48.368
+longitude: 0.563
 ---
