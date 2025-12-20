@@ -1,6 +1,6 @@
 ---
 title: Les Pieux
 url: /les-pieux/
-latitude: 49.517
-longitude: -1.812
+latitude: 49.518
+longitude: -1.799
 ---

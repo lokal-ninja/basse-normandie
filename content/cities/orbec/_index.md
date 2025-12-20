@@ -1,6 +1,6 @@
 ---
 title: Orbec
 url: /orbec/
-latitude: 49.022
+latitude: 49.021
 longitude: 0.407
 ---
