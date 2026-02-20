@@ -1,6 +1,6 @@
 ---
 title: L'Aigle
 url: /laigle/
-latitude: 48.764
-longitude: 0.626
+latitude: 48.765
+longitude: 0.627
 ---
