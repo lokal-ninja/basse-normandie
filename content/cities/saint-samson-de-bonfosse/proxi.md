@@ -1,5 +1,5 @@
 ---
 title: "Proxi"
-url: /livarot-pays-dauge/proxi/
+url: /saint-samson-de-bonfosse/proxi/
 shop: commodité
 ---
