@@ -1,6 +1,6 @@
 ---
 title: Souleuvre-en-Bocage
 url: /souleuvre-en-bocage/
-latitude: 48.936
-longitude: -0.839
+latitude: 48.889
+longitude: -0.864
 ---
