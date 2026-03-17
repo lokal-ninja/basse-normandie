@@ -1,6 +1,6 @@
 ---
 title: Merville-Franceville-Plage
 url: /merville-franceville-plage/
-latitude: 49.28
-longitude: -0.204
+latitude: 49.284
+longitude: -0.202
 ---

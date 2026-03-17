@@ -1,6 +1,6 @@
 ---
 title: Tourlaville
 url: /tourlaville/
-latitude: 49.634
-longitude: -1.59
+latitude: 49.637
+longitude: -1.576
 ---
