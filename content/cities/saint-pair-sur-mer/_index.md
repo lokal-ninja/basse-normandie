@@ -1,6 +1,6 @@
 ---
-title: Saint-Pair-Sur-Mer
+title: Saint-Pair-sur-Mer
 url: /saint-pair-sur-mer/
-latitude: 48.794
-longitude: -1.565
+latitude: 48.815
+longitude: -1.57
 ---
