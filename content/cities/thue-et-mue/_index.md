@@ -1,6 +1,6 @@
 ---
 title: Thue et Mue
 url: /thue-et-mue/
-latitude: 49.21
-longitude: -0.52
+latitude: 49.211
+longitude: -0.51
 ---
