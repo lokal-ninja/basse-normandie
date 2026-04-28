@@ -1,6 +1,6 @@
 ---
-title: Montmartin-sur-mer
+title: Montmartin-sur-Mer
 url: /montmartin-sur-mer/
-latitude: 48.987
-longitude: -1.516
+latitude: 48.989
+longitude: -1.525
 ---

@@ -1,6 +1,6 @@
 ---
 title: Courcy
 url: /courcy/
-latitude: 49.042
-longitude: -1.393
+latitude: 49.067
+longitude: -1.39
 ---
