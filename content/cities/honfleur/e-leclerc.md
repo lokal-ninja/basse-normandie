@@ -1,5 +1,5 @@
 ---
-title: "E. Leclerc"
+title: "E.Leclerc"
 url: /honfleur/e-leclerc/
-shop: boulangerie
+shop: agence de voyage
 ---
