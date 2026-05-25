@@ -1,6 +1,6 @@
 ---
-title: Dives-sur-Mer
+title: Dives sur Mer
 url: /dives-sur-mer/
-latitude: 49.29
-longitude: -0.094
+latitude: 49.282
+longitude: -0.095
 ---
