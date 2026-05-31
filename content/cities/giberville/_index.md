@@ -1,6 +1,6 @@
 ---
 title: Giberville
 url: /giberville/
-latitude: 49.186
-longitude: -0.287
+latitude: 49.171
+longitude: -0.292
 ---
