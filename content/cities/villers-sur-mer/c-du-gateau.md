@@ -1,5 +1,5 @@
 ---
-title: "C' Du Gâteau"
+title: "C' du Gâteau"
 url: /villers-sur-mer/c-du-gateau/
 shop: boulangerie
 ---
