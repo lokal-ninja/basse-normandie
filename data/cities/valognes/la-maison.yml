@@ -7,6 +7,6 @@ city: Valognes
 street: place du château
 housenumber: "11"
 phone: "+33233216310"
-opening_hours: Mo 14:00-18:30; Tu-Th 8:45-12:00, 14:00-18:30; Fr 8:45-12:30, 14:00-18:30;
-    Sa 9:00-12:00, 14:00-18:00
+opening_hours: Mo 14:00-18:30; Tu-Th 08:45-12:00,14:00-18:30; Fr 08:45-12:30,14:00-18:30;
+    Sa 09:00-12:00,14:00-18:00
 website: https://lamaison.fr/magasin/valognes/

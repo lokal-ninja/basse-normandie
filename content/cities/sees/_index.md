@@ -1,6 +1,6 @@
 ---
 title: Sées
 url: /sees/
-latitude: 48.608
-longitude: 0.185
+latitude: 48.605
+longitude: 0.172
 ---
