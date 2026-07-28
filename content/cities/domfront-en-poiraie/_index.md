@@ -1,6 +1,6 @@
 ---
-title: Domfront en Poiraie
+title: Domfront-en-Poiraie
 url: /domfront-en-poiraie/
-latitude: 48.592
-longitude: -0.645
+latitude: 48.59
+longitude: -0.644
 ---
