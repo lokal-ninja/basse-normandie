@@ -1,6 +1,6 @@
 ---
 title: Martinvast
 url: /martinvast/
-latitude: 49.603
-longitude: -1.662
+latitude: 49.601
+longitude: -1.661
 ---

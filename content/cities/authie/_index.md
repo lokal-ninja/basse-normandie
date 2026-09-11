@@ -1,6 +1,6 @@
 ---
 title: Authie
 url: /authie/
-latitude: 49.206
-longitude: -0.432
+latitude: 49.209
+longitude: -0.438
 ---
