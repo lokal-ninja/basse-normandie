@@ -1,6 +1,6 @@
 ---
 title: Fleury-sur-Orne
 url: /fleury-sur-orne/
-latitude: 49.141
-longitude: -0.376
+latitude: 49.157
+longitude: -0.369
 ---
