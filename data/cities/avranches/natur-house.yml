@@ -6,6 +6,7 @@ postcode: "50300"
 city: Avranches
 street: Rue de la Constitution
 housenumber: "66"
-phone: +33 9 75 58 65 34
-opening_hours: ""
-website: ""
+phone: +33 2 33 60 65 34
+opening_hours: Tu,Th 10:00-13:00,14:00-18:00; We 09:00-13:00,14:00-19:00; Fr 10:00-13:00,14:00-19:00;
+    Sa 09:00-12:00; Mo off
+website: https://www.naturhouse.fr/centre/250-avranches
