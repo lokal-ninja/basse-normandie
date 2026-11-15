@@ -1,6 +1,6 @@
 ---
 title: Cairon
 url: /cairon/
-latitude: 49.234
-longitude: -0.444
+latitude: 49.233
+longitude: -0.443
 ---
