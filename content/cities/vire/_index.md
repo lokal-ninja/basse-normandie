@@ -1,6 +1,6 @@
 ---
-title: vire
+title: Vire
 url: /vire/
-latitude: 48.864
+latitude: 48.856
 longitude: -0.872
 ---
